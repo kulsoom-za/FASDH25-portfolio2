@@ -1,0 +1,110 @@
+'''This is your starting script for today's Python class.
+
+This script contains the code we wrote last week
+to count the number of times each place in Gaza
+is mentioned in our corpus.
+
+Now, we want to store this count into a tsv file.
+
+I have written a function (write csv) to do this -
+but it has some mistakes in it.
+
+Please fix the mistakes and call the function
+to write the 
+
+'''
+
+import re
+import os
+import pandas as pd
+from datetime import datetime
+# fix this function!
+
+def write_tsv(data, column_list, path):
+    """This function converts a dictionary to a tsv file.
+
+    It takes three arguments:
+        data (dict): the dictionary
+        column_list (list): a list of column names
+        path (str): the path to which the tsv file will be written
+    """
+
+    # turn the dictionary into a list of (key, value) tuples (this is correct):
+    items = list(data.items())
+    # create a dataframe from the items list (this is correct):
+    df = pd.DataFrame.from_records(items, columns=column_list)
+    # write the dataframe to tsv:
+    df.to_csv(path, sep="\t", index=False)
+
+
+
+# define which folder to use:
+# NB: these are different articles than in the previous weeks
+folder = "articles"  
+
+# define the patterns we want to search:
+
+# load the gazetteer from the tsv file:
+path = "gazetteers/geonames_gaza_selection.tsv"
+with open(path, encoding="utf-8") as file:
+    data = file.read()
+
+# build a dictionary of patterns from the place names in the first column: - Took help from ChatGPT (Conversation 1)
+patterns = {}
+rows = data.split("\n")
+for row in rows[1:]:
+    columns = row.split("\t")
+    asciiname = columns[0]
+    if asciiname:
+        patterns[asciiname] = 0
+    if len(columns) < 6:
+        continue
+    alternate_names = columns[5].strip()
+    
+    if alternate_names:
+        
+        alternate_list =alternate_names.split(",")
+        for alternate in alternate_list:
+            alternate = alternate.strip()
+            if alternate:
+                patterns[alternate]=0
+        
+#War time in Gaza - Help from ChatGPT - Conversation 2
+war_start_date = datetime(2023, 10,7)
+
+# count the number of times each pattern is found in the entire folder:
+for filename in os.listdir(folder):
+    try:
+        date_str = filename.split("_")[0]
+        article_date = datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        continue
+    
+    if article_date < war_start_date:
+            continue
+# build the file path:
+    file_path = os.path.join(folder, filename)        
+    #print(f"The path to the article is: {file_path}")
+    # load the article (text file) into Python:
+    with open(file_path, encoding="utf-8") as file:
+        text = file.read()
+        
+
+    # find all the occurences of the patterns in the text:
+    for pattern in patterns:
+        matches = re.findall(pattern, text)
+        n_matches = len(matches)
+        # add the number of times it was found to the total frequency:
+        patterns[pattern] += n_matches
+
+# print the frequency of each pattern:
+for pattern in patterns:
+    count = patterns[pattern]
+    if count >= 1:
+        print(f"found {pattern} {count} times")
+
+
+# call the function to write your tsv file:
+columns = ["asciiname", "frequency"] 
+tsv_filename = "frequencies.tsv"
+write_tsv(patterns, columns, tsv_filename)
