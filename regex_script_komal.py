@@ -40,14 +40,12 @@ for row in rows[1:]:
     asciiname = columns[0] #first column has name for the place
 
 
-    # Add name of the place if present in the first column 
-    if asciiname:
-        patterns[asciiname] = {"pattern": re.escape(asciiname), "count": 0}
-
-
     #Skip rows that don't have at least 6 columns and others may beb incomplete    
     if len(columns) < 6:
         continue
+
+    #Initialize the list with the place name
+    name_variants = [asciiname]
 
 
     # Get the alternate names from the 6th column which is counted as 5, if present
@@ -60,9 +58,13 @@ for row in rows[1:]:
         for alternate in alternate_list:
             alternate = alternate.strip()
             if alternate:
-                # Add alternate name if present and count = 0
-                patterns[alternate]= {"pattern": re.escape(alternate), "count": 0}
-                
+                name_variants.append(alternate)
+
+    #Building a single reger pattern that matches any variant (using '|' for alternation)
+    regex_pattern = "|".join([re.escape(name) for name in name_variants])
+    patterns[asciiname] = {"pattern": regex_pattern, "count":0}
+
+    
 
 
 # this dictionary stores how many times each place name was mentioned per month 

@@ -1,18 +1,18 @@
 placename	month	count
-Jabalya	2023-10	0
-Jabalya	2023-11	0
-Jabalya	2023-12	0
-Jabalya	2024-01	0
-Jabalya	2024-02	0
-Jabalya	2024-03	0
-Jabalya	2024-04	1
-Dzhabalija	2023-10	0
-Dzhabalija	2023-11	0
-Dzhabalija	2023-12	0
-Dzhabalija	2024-01	0
-Dzhabalija	2024-02	0
-Dzhabalija	2024-03	0
-Dzhabalija	2024-04	0
+Jabalya	2023-10	37
+Jabalya	2023-11	103
+Jabalya	2023-12	46
+Jabalya	2024-01	12
+Jabalya	2024-02	7
+Jabalya	2024-03	8
+Jabalya	2024-04	3
+Bayt Lahya	2023-10	11
+Bayt Lahya	2023-11	14
+Bayt Lahya	2023-12	8
+Bayt Lahya	2024-01	2
+Bayt Lahya	2024-02	3
+Bayt Lahya	2024-03	1
+Bayt Lahya	2024-04	2
 Jabalia	2023-10	33
 Jabalia	2023-11	102
 Jabalia	2023-12	44
@@ -20,594 +20,34 @@ Jabalia	2024-01	12
 Jabalia	2024-02	7
 Jabalia	2024-03	8
 Jabalia	2024-04	2
-Jabaliya	2023-10	4
-Jabaliya	2023-11	1
-Jabaliya	2023-12	2
-Jabaliya	2024-01	0
-Jabaliya	2024-02	0
-Jabaliya	2024-03	0
-Jabaliya	2024-04	0
-Jabāliyā	2023-10	0
-Jabāliyā	2023-11	0
-Jabāliyā	2023-12	0
-Jabāliyā	2024-01	0
-Jabāliyā	2024-02	0
-Jabāliyā	2024-03	0
-Jabāliyā	2024-04	0
-Jabālyā	2023-10	0
-Jabālyā	2023-11	0
-Jabālyā	2023-12	0
-Jabālyā	2024-01	0
-Jabālyā	2024-02	0
-Jabālyā	2024-03	0
-Jabālyā	2024-04	0
-jbalya	2023-10	0
-jbalya	2023-11	0
-jbalya	2023-12	0
-jbalya	2024-01	0
-jbalya	2024-02	0
-jbalya	2024-03	0
-jbalya	2024-04	0
-Джабалия	2023-10	0
-Джабалия	2023-11	0
-Джабалия	2023-12	0
-Джабалия	2024-01	0
-Джабалия	2024-02	0
-Джабалия	2024-03	0
-Джабалия	2024-04	0
-جباليا	2023-10	0
-جباليا	2023-11	0
-جباليا	2023-12	0
-جباليا	2024-01	0
-جباليا	2024-02	0
-جباليا	2024-03	0
-جباليا	2024-04	0
-Bayt Lahya	2023-10	0
-Bayt Lahya	2023-11	0
-Bayt Lahya	2023-12	0
-Bayt Lahya	2024-01	0
-Bayt Lahya	2024-02	0
-Bayt Lahya	2024-03	0
-Bayt Lahya	2024-04	0
-Bayt Lahiya	2023-10	0
-Bayt Lahiya	2023-11	0
-Bayt Lahiya	2023-12	0
-Bayt Lahiya	2024-01	0
-Bayt Lahiya	2024-02	0
-Bayt Lahiya	2024-03	0
-Bayt Lahiya	2024-04	0
-Bayt Lahiyah	2023-10	0
-Bayt Lahiyah	2023-11	0
-Bayt Lahiyah	2023-12	0
-Bayt Lahiyah	2024-01	0
-Bayt Lahiyah	2024-02	0
-Bayt Lahiyah	2024-03	0
-Bayt Lahiyah	2024-04	0
-Bayt Lāhiya	2023-10	0
-Bayt Lāhiya	2023-11	0
-Bayt Lāhiya	2023-12	0
-Bayt Lāhiya	2024-01	0
-Bayt Lāhiya	2024-02	0
-Bayt Lāhiya	2024-03	0
-Bayt Lāhiya	2024-04	0
-Bayt Lāhiyah	2023-10	0
-Bayt Lāhiyah	2023-11	0
-Bayt Lāhiyah	2023-12	0
-Bayt Lāhiyah	2024-01	0
-Bayt Lāhiyah	2024-02	0
-Bayt Lāhiyah	2024-03	0
-Bayt Lāhiyah	2024-04	0
-Bayt Lāhyā	2023-10	0
-Bayt Lāhyā	2023-11	0
-Bayt Lāhyā	2023-12	0
-Bayt Lāhyā	2024-01	0
-Bayt Lāhyā	2024-02	0
-Bayt Lāhyā	2024-03	0
-Bayt Lāhyā	2024-04	0
-Beit Lahia	2023-10	8
-Beit Lahia	2023-11	4
-Beit Lahia	2023-12	2
-Beit Lahia	2024-01	0
-Beit Lahia	2024-02	0
-Beit Lahia	2024-03	0
-Beit Lahia	2024-04	0
-Beit Lahiya	2023-10	3
-Beit Lahiya	2023-11	10
-Beit Lahiya	2023-12	6
-Beit Lahiya	2024-01	2
-Beit Lahiya	2024-02	3
-Beit Lahiya	2024-03	1
-Beit Lahiya	2024-04	2
-Beit Lahya	2023-10	0
-Beit Lahya	2023-11	0
-Beit Lahya	2023-12	0
-Beit Lahya	2024-01	0
-Beit Lahya	2024-02	0
-Beit Lahya	2024-03	0
-Beit Lahya	2024-04	0
-Beit Lāhiya	2023-10	0
-Beit Lāhiya	2023-11	0
-Beit Lāhiya	2023-12	0
-Beit Lāhiya	2024-01	0
-Beit Lāhiya	2024-02	0
-Beit Lāhiya	2024-03	0
-Beit Lāhiya	2024-04	0
-byt lahya	2023-10	0
-byt lahya	2023-11	0
-byt lahya	2023-12	0
-byt lahya	2024-01	0
-byt lahya	2024-02	0
-byt lahya	2024-03	0
-byt lahya	2024-04	0
-بيت لاهيا	2023-10	0
-بيت لاهيا	2023-11	0
-بيت لاهيا	2023-12	0
-بيت لاهيا	2024-01	0
-بيت لاهيا	2024-02	0
-بيت لاهيا	2024-03	0
-بيت لاهيا	2024-04	0
-Mukhayyam Jabaliya	2023-10	0
-Mukhayyam Jabaliya	2023-11	0
-Mukhayyam Jabaliya	2023-12	0
-Mukhayyam Jabaliya	2024-01	0
-Mukhayyam Jabaliya	2024-02	0
-Mukhayyam Jabaliya	2024-03	0
-Mukhayyam Jabaliya	2024-04	0
-Mukhayyam Jabalya	2023-10	0
-Mukhayyam Jabalya	2023-11	0
-Mukhayyam Jabalya	2023-12	0
-Mukhayyam Jabalya	2024-01	0
-Mukhayyam Jabalya	2024-02	0
-Mukhayyam Jabalya	2024-03	0
-Mukhayyam Jabalya	2024-04	0
-Mukhayyam Jabāliyā	2023-10	0
-Mukhayyam Jabāliyā	2023-11	0
-Mukhayyam Jabāliyā	2023-12	0
-Mukhayyam Jabāliyā	2024-01	0
-Mukhayyam Jabāliyā	2024-02	0
-Mukhayyam Jabāliyā	2024-03	0
-Mukhayyam Jabāliyā	2024-04	0
-Mukhayyam Jabālyā	2023-10	0
-Mukhayyam Jabālyā	2023-11	0
-Mukhayyam Jabālyā	2023-12	0
-Mukhayyam Jabālyā	2024-01	0
-Mukhayyam Jabālyā	2024-02	0
-Mukhayyam Jabālyā	2024-03	0
-Mukhayyam Jabālyā	2024-04	0
-mkhym jbalya	2023-10	0
-mkhym jbalya	2023-11	0
-mkhym jbalya	2023-12	0
-mkhym jbalya	2024-01	0
-mkhym jbalya	2024-02	0
-mkhym jbalya	2024-03	0
-mkhym jbalya	2024-04	0
-مخيم جباليا	2023-10	0
-مخيم جباليا	2023-11	0
-مخيم جباليا	2023-12	0
-مخيم جباليا	2024-01	0
-مخيم جباليا	2024-02	0
-مخيم جباليا	2024-03	0
-مخيم جباليا	2024-04	0
-Bayt Hanun	2023-10	0
-Bayt Hanun	2023-11	0
-Bayt Hanun	2023-12	0
-Bayt Hanun	2024-01	0
-Bayt Hanun	2024-02	0
-Bayt Hanun	2024-03	0
-Bayt Hanun	2024-04	0
-Bait Hanun	2023-10	0
-Bait Hanun	2023-11	0
-Bait Hanun	2023-12	0
-Bait Hanun	2024-01	0
-Bait Hanun	2024-02	0
-Bait Hanun	2024-03	0
-Bait Hanun	2024-04	0
-Bajt Hanun	2023-10	0
-Bajt Hanun	2023-11	0
-Bajt Hanun	2023-12	0
-Bajt Hanun	2024-01	0
-Bajt Hanun	2024-02	0
-Bajt Hanun	2024-03	0
-Bajt Hanun	2024-04	0
-Bajt Hánún	2023-10	0
-Bajt Hánún	2023-11	0
-Bajt Hánún	2023-12	0
-Bajt Hánún	2024-01	0
-Bajt Hánún	2024-02	0
-Bajt Hánún	2024-03	0
-Bajt Hánún	2024-04	0
-Bayt Ḩanūn	2023-10	0
-Bayt Ḩanūn	2023-11	0
-Bayt Ḩanūn	2023-12	0
-Bayt Ḩanūn	2024-01	0
-Bayt Ḩanūn	2024-02	0
-Bayt Ḩanūn	2024-03	0
-Bayt Ḩanūn	2024-04	0
-Bayt Ḩānūn	2023-10	0
-Bayt Ḩānūn	2023-11	0
-Bayt Ḩānūn	2023-12	0
-Bayt Ḩānūn	2024-01	0
-Bayt Ḩānūn	2024-02	0
-Bayt Ḩānūn	2024-03	0
-Bayt Ḩānūn	2024-04	0
-Beit Chanoun	2023-10	0
-Beit Chanoun	2023-11	0
-Beit Chanoun	2023-12	0
-Beit Chanoun	2024-01	0
-Beit Chanoun	2024-02	0
-Beit Chanoun	2024-03	0
-Beit Chanoun	2024-04	0
-Beit Hanoon	2023-10	15
-Beit Hanoon	2023-11	13
-Beit Hanoon	2023-12	4
-Beit Hanoon	2024-01	1
-Beit Hanoon	2024-02	3
-Beit Hanoon	2024-03	7
-Beit Hanoon	2024-04	10
-Beit Hanoum	2023-10	0
-Beit Hanoum	2023-11	0
-Beit Hanoum	2023-12	0
-Beit Hanoum	2024-01	0
-Beit Hanoum	2024-02	0
-Beit Hanoum	2024-03	0
-Beit Hanoum	2024-04	0
-Beit Hanoun	2023-10	4
-Beit Hanoun	2023-11	4
-Beit Hanoun	2023-12	0
-Beit Hanoun	2024-01	0
-Beit Hanoun	2024-02	0
-Beit Hanoun	2024-03	0
-Beit Hanoun	2024-04	0
-Beit Hanun	2023-10	0
-Beit Hanun	2023-11	0
-Beit Hanun	2023-12	0
-Beit Hanun	2024-01	0
-Beit Hanun	2024-02	0
-Beit Hanun	2024-03	0
-Beit Hanun	2024-04	0
-Beit Hanuna	2023-10	0
-Beit Hanuna	2023-11	0
-Beit Hanuna	2023-12	0
-Beit Hanuna	2024-01	0
-Beit Hanuna	2024-02	0
-Beit Hanuna	2024-03	0
-Beit Hanuna	2024-04	0
-Beit Hānūna	2023-10	0
-Beit Hānūna	2023-11	0
-Beit Hānūna	2023-12	0
-Beit Hānūna	2024-01	0
-Beit Hānūna	2024-02	0
-Beit Hānūna	2024-03	0
-Beit Hānūna	2024-04	0
-Bejt-Khanun	2023-10	0
-Bejt-Khanun	2023-11	0
-Bejt-Khanun	2023-12	0
-Bejt-Khanun	2024-01	0
-Bejt-Khanun	2024-02	0
-Bejt-Khanun	2024-03	0
-Bejt-Khanun	2024-04	0
-Beyt Hanun	2023-10	0
-Beyt Hanun	2023-11	0
-Beyt Hanun	2023-12	0
-Beyt Hanun	2024-01	0
-Beyt Hanun	2024-02	0
-Beyt Hanun	2024-03	0
-Beyt Hanun	2024-04	0
-bai te ha nen	2023-10	0
-bai te ha nen	2023-11	0
-bai te ha nen	2023-12	0
-bai te ha nen	2024-01	0
-bai te ha nen	2024-02	0
-bai te ha nen	2024-03	0
-bai te ha nen	2024-04	0
-byt hanwn	2023-10	0
-byt hanwn	2023-11	0
-byt hanwn	2023-12	0
-byt hanwn	2024-01	0
-byt hanwn	2024-02	0
-byt hanwn	2024-03	0
-byt hanwn	2024-04	0
-byt hnwn	2023-10	0
-byt hnwn	2023-11	0
-byt hnwn	2023-12	0
-byt hnwn	2024-01	0
-byt hnwn	2024-02	0
-byt hnwn	2024-03	0
-byt hnwn	2024-04	0
-Μπέιτ Χανούν	2023-10	0
-Μπέιτ Χανούν	2023-11	0
-Μπέιτ Χανούν	2023-12	0
-Μπέιτ Χανούν	2024-01	0
-Μπέιτ Χανούν	2024-02	0
-Μπέιτ Χανούν	2024-03	0
-Μπέιτ Χανούν	2024-04	0
-Бейт-Ханун	2023-10	0
-Бейт-Ханун	2023-11	0
-Бейт-Ханун	2023-12	0
-Бейт-Ханун	2024-01	0
-Бейт-Ханун	2024-02	0
-Бейт-Ханун	2024-03	0
-Бейт-Ханун	2024-04	0
-בית חאנון	2023-10	0
-בית חאנון	2023-11	0
-בית חאנון	2023-12	0
-בית חאנון	2024-01	0
-בית חאנון	2024-02	0
-בית חאנון	2024-03	0
-בית חאנון	2024-04	0
-بيت حانون	2023-10	0
-بيت حانون	2023-11	0
-بيت حانون	2023-12	0
-بيت حانون	2024-01	0
-بيت حانون	2024-02	0
-بيت حانون	2024-03	0
-بيت حانون	2024-04	0
-بيت حنون	2023-10	0
-بيت حنون	2023-11	0
-بيت حنون	2023-12	0
-بيت حنون	2024-01	0
-بيت حنون	2024-02	0
-بيت حنون	2024-03	0
-بيت حنون	2024-04	0
-بیت حانون	2023-10	0
-بیت حانون	2023-11	0
-بیت حانون	2023-12	0
-بیت حانون	2024-01	0
-بیت حانون	2024-02	0
-بیت حانون	2024-03	0
-بیت حانون	2024-04	0
-بیت‌حانون	2023-10	0
-بیت‌حانون	2023-11	0
-بیت‌حانون	2023-12	0
-بیت‌حانون	2024-01	0
-بیت‌حانون	2024-02	0
-بیت‌حانون	2024-03	0
-بیت‌حانون	2024-04	0
-ベイト・ハヌーン	2023-10	0
-ベイト・ハヌーン	2023-11	0
-ベイト・ハヌーン	2023-12	0
-ベイト・ハヌーン	2024-01	0
-ベイト・ハヌーン	2024-02	0
-ベイト・ハヌーン	2024-03	0
-ベイト・ハヌーン	2024-04	0
-拜特哈嫩	2023-10	0
-拜特哈嫩	2023-11	0
-拜特哈嫩	2023-12	0
-拜特哈嫩	2024-01	0
-拜特哈嫩	2024-02	0
-拜特哈嫩	2024-03	0
-拜特哈嫩	2024-04	0
+Bayt Hanun	2023-10	19
+Bayt Hanun	2023-11	17
+Bayt Hanun	2023-12	4
+Bayt Hanun	2024-01	1
+Bayt Hanun	2024-02	3
+Bayt Hanun	2024-03	7
+Bayt Hanun	2024-04	10
 Khan Younis	2023-10	74
 Khan Younis	2023-11	132
 Khan Younis	2023-12	173
-Khan Younis	2024-01	73
+Khan Younis	2024-01	74
 Khan Younis	2024-02	63
 Khan Younis	2024-03	40
 Khan Younis	2024-04	25
-Khan Younis camp	2023-10	0
-Khan Younis camp	2023-11	1
-Khan Younis camp	2023-12	0
-Khan Younis camp	2024-01	0
-Khan Younis camp	2024-02	0
-Khan Younis camp	2024-03	0
-Khan Younis camp	2024-04	0
-KhanYounis	2023-10	0
-KhanYounis	2023-11	0
-KhanYounis	2023-12	0
-KhanYounis	2024-01	1
-KhanYounis	2024-02	0
-KhanYounis	2024-03	0
-KhanYounis	2024-04	0
-Mukhayyam Khan Yunis	2023-10	0
-Mukhayyam Khan Yunis	2023-11	0
-Mukhayyam Khan Yunis	2023-12	0
-Mukhayyam Khan Yunis	2024-01	0
-Mukhayyam Khan Yunis	2024-02	0
-Mukhayyam Khan Yunis	2024-03	0
-Mukhayyam Khan Yunis	2024-04	0
-Mukhayyam Khan Yunus	2023-10	0
-Mukhayyam Khan Yunus	2023-11	0
-Mukhayyam Khan Yunus	2023-12	0
-Mukhayyam Khan Yunus	2024-01	0
-Mukhayyam Khan Yunus	2024-02	0
-Mukhayyam Khan Yunus	2024-03	0
-Mukhayyam Khan Yunus	2024-04	0
-Mukhayyam Khanyunis	2023-10	0
-Mukhayyam Khanyunis	2023-11	0
-Mukhayyam Khanyunis	2023-12	0
-Mukhayyam Khanyunis	2024-01	0
-Mukhayyam Khanyunis	2024-02	0
-Mukhayyam Khanyunis	2024-03	0
-Mukhayyam Khanyunis	2024-04	0
-Mukhayyam Khān Yūnis	2023-10	0
-Mukhayyam Khān Yūnis	2023-11	0
-Mukhayyam Khān Yūnis	2023-12	0
-Mukhayyam Khān Yūnis	2024-01	0
-Mukhayyam Khān Yūnis	2024-02	0
-Mukhayyam Khān Yūnis	2024-03	0
-Mukhayyam Khān Yūnis	2024-04	0
-Mukhayyam Khān Yūnus	2023-10	0
-Mukhayyam Khān Yūnus	2023-11	0
-Mukhayyam Khān Yūnus	2023-12	0
-Mukhayyam Khān Yūnus	2024-01	0
-Mukhayyam Khān Yūnus	2024-02	0
-Mukhayyam Khān Yūnus	2024-03	0
-Mukhayyam Khān Yūnus	2024-04	0
-Mukhayyam Khānyūnis	2023-10	0
-Mukhayyam Khānyūnis	2023-11	0
-Mukhayyam Khānyūnis	2023-12	0
-Mukhayyam Khānyūnis	2024-01	0
-Mukhayyam Khānyūnis	2024-02	0
-Mukhayyam Khānyūnis	2024-03	0
-Mukhayyam Khānyūnis	2024-04	0
-campo de Jan Yunis	2023-10	0
-campo de Jan Yunis	2023-11	0
-campo de Jan Yunis	2023-12	0
-campo de Jan Yunis	2024-01	0
-campo de Jan Yunis	2024-02	0
-campo de Jan Yunis	2024-03	0
-campo de Jan Yunis	2024-04	0
-campo de Jan Yunís	2023-10	0
-campo de Jan Yunís	2023-11	0
-campo de Jan Yunís	2023-12	0
-campo de Jan Yunís	2024-01	0
-campo de Jan Yunís	2024-02	0
-campo de Jan Yunís	2024-03	0
-campo de Jan Yunís	2024-04	0
-campo de refugiados de Jan Yunis	2023-10	0
-campo de refugiados de Jan Yunis	2023-11	0
-campo de refugiados de Jan Yunis	2023-12	0
-campo de refugiados de Jan Yunis	2024-01	0
-campo de refugiados de Jan Yunis	2024-02	0
-campo de refugiados de Jan Yunis	2024-03	0
-campo de refugiados de Jan Yunis	2024-04	0
-campo de refugiados de Jan Yunís	2023-10	0
-campo de refugiados de Jan Yunís	2023-11	0
-campo de refugiados de Jan Yunís	2023-12	0
-campo de refugiados de Jan Yunís	2024-01	0
-campo de refugiados de Jan Yunís	2024-02	0
-campo de refugiados de Jan Yunís	2024-03	0
-campo de refugiados de Jan Yunís	2024-04	0
-mkhym khan ywns	2023-10	0
-mkhym khan ywns	2023-11	0
-mkhym khan ywns	2023-12	0
-mkhym khan ywns	2024-01	0
-mkhym khan ywns	2024-02	0
-mkhym khan ywns	2024-03	0
-mkhym khan ywns	2024-04	0
-mkhym khanywns	2023-10	0
-mkhym khanywns	2023-11	0
-mkhym khanywns	2023-12	0
-mkhym khanywns	2024-01	0
-mkhym khanywns	2024-02	0
-mkhym khanywns	2024-03	0
-mkhym khanywns	2024-04	0
-مخيم خان يونس	2023-10	0
-مخيم خان يونس	2023-11	0
-مخيم خان يونس	2023-12	0
-مخيم خان يونس	2024-01	0
-مخيم خان يونس	2024-02	0
-مخيم خان يونس	2024-03	0
-مخيم خان يونس	2024-04	0
-مخيم خانيونس	2023-10	0
-مخيم خانيونس	2023-11	0
-مخيم خانيونس	2023-12	0
-مخيم خانيونس	2024-01	0
-مخيم خانيونس	2024-02	0
-مخيم خانيونس	2024-03	0
-مخيم خانيونس	2024-04	0
-An Nusayrat	2023-10	0
-An Nusayrat	2023-11	0
-An Nusayrat	2023-12	0
-An Nusayrat	2024-01	0
-An Nusayrat	2024-02	0
-An Nusayrat	2024-03	0
-An Nusayrat	2024-04	0
-An Nuşayrāt	2023-10	0
-An Nuşayrāt	2023-11	0
-An Nuşayrāt	2023-12	0
-An Nuşayrāt	2024-01	0
-An Nuşayrāt	2024-02	0
-An Nuşayrāt	2024-03	0
-An Nuşayrāt	2024-04	0
-Nusayrat	2023-10	0
-Nusayrat	2023-11	0
-Nusayrat	2023-12	0
-Nusayrat	2024-01	0
-Nusayrat	2024-02	0
-Nusayrat	2024-03	0
-Nusayrat	2024-04	0
-Nuseira	2023-10	22
-Nuseira	2023-11	16
-Nuseira	2023-12	26
-Nuseira	2024-01	11
-Nuseira	2024-02	6
-Nuseira	2024-03	9
-Nuseira	2024-04	8
-Nuseirat	2023-10	22
-Nuseirat	2023-11	16
-Nuseirat	2023-12	26
-Nuseirat	2024-01	11
-Nuseirat	2024-02	6
-Nuseirat	2024-03	9
-Nuseirat	2024-04	8
-Nuşayrāt	2023-10	0
-Nuşayrāt	2023-11	0
-Nuşayrāt	2023-12	0
-Nuşayrāt	2024-01	0
-Nuşayrāt	2024-02	0
-Nuşayrāt	2024-03	0
-Nuşayrāt	2024-04	0
-Nuṣeirā	2023-10	0
-Nuṣeirā	2023-11	0
-Nuṣeirā	2023-12	0
-Nuṣeirā	2024-01	0
-Nuṣeirā	2024-02	0
-Nuṣeirā	2024-03	0
-Nuṣeirā	2024-04	0
-alnsyrat	2023-10	0
-alnsyrat	2023-11	0
-alnsyrat	2023-12	0
-alnsyrat	2024-01	0
-alnsyrat	2024-02	0
-alnsyrat	2024-03	0
-alnsyrat	2024-04	0
-النصيرات	2023-10	0
-النصيرات	2023-11	0
-النصيرات	2023-12	0
-النصيرات	2024-01	0
-النصيرات	2024-02	0
-النصيرات	2024-03	0
-النصيرات	2024-04	0
-Al Burayj	2023-10	0
-Al Burayj	2023-11	0
-Al Burayj	2023-12	0
-Al Burayj	2024-01	0
-Al Burayj	2024-02	0
-Al Burayj	2024-03	0
+An Nusayrat	2023-10	22
+An Nusayrat	2023-11	16
+An Nusayrat	2023-12	26
+An Nusayrat	2024-01	11
+An Nusayrat	2024-02	6
+An Nusayrat	2024-03	9
+An Nusayrat	2024-04	8
+Al Burayj	2023-10	3
+Al Burayj	2023-11	15
+Al Burayj	2023-12	17
+Al Burayj	2024-01	5
+Al Burayj	2024-02	2
+Al Burayj	2024-03	5
 Al Burayj	2024-04	0
-Al Buraij	2023-10	0
-Al Buraij	2023-11	0
-Al Buraij	2023-12	0
-Al Buraij	2024-01	0
-Al Buraij	2024-02	0
-Al Buraij	2024-03	0
-Al Buraij	2024-04	0
-Al-Bureij	2023-10	1
-Al-Bureij	2023-11	0
-Al-Bureij	2023-12	1
-Al-Bureij	2024-01	0
-Al-Bureij	2024-02	0
-Al-Bureij	2024-03	0
-Al-Bureij	2024-04	0
-Bureij	2023-10	3
-Bureij	2023-11	15
-Bureij	2023-12	17
-Bureij	2024-01	5
-Bureij	2024-02	2
-Bureij	2024-03	5
-Bureij	2024-04	0
-El Bureij	2023-10	0
-El Bureij	2023-11	0
-El Bureij	2023-12	0
-El Bureij	2024-01	0
-El Bureij	2024-02	0
-El Bureij	2024-03	0
-El Bureij	2024-04	0
-albryj	2023-10	0
-albryj	2023-11	0
-albryj	2023-12	0
-albryj	2024-01	0
-albryj	2024-02	0
-albryj	2024-03	0
-albryj	2024-04	0
-البريج	2023-10	0
-البريج	2023-11	0
-البريج	2023-12	0
-البريج	2024-01	0
-البريج	2024-02	0
-البريج	2024-03	0
-البريج	2024-04	0
 Rafah	2023-10	182
 Rafah	2023-11	150
 Rafah	2023-12	201
@@ -615,363 +55,41 @@ Rafah	2024-01	41
 Rafah	2024-02	498
 Rafah	2024-03	253
 Rafah	2024-04	81
-Mukhayyam Rafah	2023-10	0
-Mukhayyam Rafah	2023-11	0
-Mukhayyam Rafah	2023-12	0
-Mukhayyam Rafah	2024-01	0
-Mukhayyam Rafah	2024-02	0
-Mukhayyam Rafah	2024-03	0
-Mukhayyam Rafah	2024-04	0
-Mukhayyam Rafaḩ	2023-10	0
-Mukhayyam Rafaḩ	2023-11	0
-Mukhayyam Rafaḩ	2023-12	0
-Mukhayyam Rafaḩ	2024-01	0
-Mukhayyam Rafaḩ	2024-02	0
-Mukhayyam Rafaḩ	2024-03	0
-Mukhayyam Rafaḩ	2024-04	0
-mkhym rfh	2023-10	0
-mkhym rfh	2023-11	0
-mkhym rfh	2023-12	0
-mkhym rfh	2024-01	0
-mkhym rfh	2024-02	0
-mkhym rfh	2024-03	0
-mkhym rfh	2024-04	0
-مخيم رفح	2023-10	0
-مخيم رفح	2023-11	0
-مخيم رفح	2023-12	0
-مخيم رفح	2024-01	0
-مخيم رفح	2024-02	0
-مخيم رفح	2024-03	0
-مخيم رفح	2024-04	0
-Bani Suhayla	2023-10	0
-Bani Suhayla	2023-11	0
-Bani Suhayla	2023-12	0
-Bani Suhayla	2024-01	0
+Bani Suhayla	2023-10	1
+Bani Suhayla	2023-11	1
+Bani Suhayla	2023-12	1
+Bani Suhayla	2024-01	2
 Bani Suhayla	2024-02	0
 Bani Suhayla	2024-03	0
 Bani Suhayla	2024-04	0
-Bani Sueheyla	2023-10	0
-Bani Sueheyla	2023-11	0
-Bani Sueheyla	2023-12	0
-Bani Sueheyla	2024-01	0
-Bani Sueheyla	2024-02	0
-Bani Sueheyla	2024-03	0
-Bani Sueheyla	2024-04	0
-Bani Suhajla	2023-10	0
-Bani Suhajla	2023-11	0
-Bani Suhajla	2023-12	0
-Bani Suhajla	2024-01	0
-Bani Suhajla	2024-02	0
-Bani Suhajla	2024-03	0
-Bani Suhajla	2024-04	0
-Bani Suhayl	2023-10	0
-Bani Suhayl	2023-11	0
-Bani Suhayl	2023-12	0
-Bani Suhayl	2024-01	0
-Bani Suhayl	2024-02	0
-Bani Suhayl	2024-03	0
-Bani Suhayl	2024-04	0
-Bani Suhaylah	2023-10	0
-Bani Suhaylah	2023-11	0
-Bani Suhaylah	2023-12	0
-Bani Suhaylah	2024-01	0
-Bani Suhaylah	2024-02	0
-Bani Suhaylah	2024-03	0
-Bani Suhaylah	2024-04	0
-Bani Suheila	2023-10	1
-Bani Suheila	2023-11	1
-Bani Suheila	2023-12	1
-Bani Suheila	2024-01	2
-Bani Suheila	2024-02	0
-Bani Suheila	2024-03	0
-Bani Suheila	2024-04	0
-Bani Süheyla	2023-10	0
-Bani Süheyla	2023-11	0
-Bani Süheyla	2023-12	0
-Bani Süheyla	2024-01	0
-Bani Süheyla	2024-02	0
-Bani Süheyla	2024-03	0
-Bani Süheyla	2024-04	0
-Bani-Sukhajla	2023-10	0
-Bani-Sukhajla	2023-11	0
-Bani-Sukhajla	2023-12	0
-Bani-Sukhajla	2024-01	0
-Bani-Sukhajla	2024-02	0
-Bani-Sukhajla	2024-03	0
-Bani-Sukhajla	2024-04	0
-Baní Suhajla	2023-10	0
-Baní Suhajla	2023-11	0
-Baní Suhajla	2023-12	0
-Baní Suhajla	2024-01	0
-Baní Suhajla	2024-02	0
-Baní Suhajla	2024-03	0
-Baní Suhajla	2024-04	0
-Banī Suhayl	2023-10	0
-Banī Suhayl	2023-11	0
-Banī Suhayl	2023-12	0
-Banī Suhayl	2024-01	0
-Banī Suhayl	2024-02	0
-Banī Suhayl	2024-03	0
-Banī Suhayl	2024-04	0
-Banī Suhaylah	2023-10	0
-Banī Suhaylah	2023-11	0
-Banī Suhaylah	2023-12	0
-Banī Suhaylah	2024-01	0
-Banī Suhaylah	2024-02	0
-Banī Suhaylah	2024-03	0
-Banī Suhaylah	2024-04	0
-Banī Suhaylā	2023-10	0
-Banī Suhaylā	2023-11	0
-Banī Suhaylā	2023-12	0
-Banī Suhaylā	2024-01	0
-Banī Suhaylā	2024-02	0
-Banī Suhaylā	2024-03	0
-Banī Suhaylā	2024-04	0
-bny shyla	2023-10	0
-bny shyla	2023-11	0
-bny shyla	2023-12	0
-bny shyla	2024-01	0
-bny shyla	2024-02	0
-bny shyla	2024-03	0
-bny shyla	2024-04	0
-bny swhylh	2023-10	0
-bny swhylh	2023-11	0
-bny swhylh	2023-12	0
-bny swhylh	2024-01	0
-bny swhylh	2024-02	0
-bny swhylh	2024-03	0
-bny swhylh	2024-04	0
-Бани-Сухайла	2023-10	0
-Бани-Сухайла	2023-11	0
-Бани-Сухайла	2023-12	0
-Бани-Сухайла	2024-01	0
-Бани-Сухайла	2024-02	0
-Бани-Сухайла	2024-03	0
-Бани-Сухайла	2024-04	0
-בני סוהילה	2023-10	0
-בני סוהילה	2023-11	0
-בני סוהילה	2023-12	0
-בני סוהילה	2024-01	0
-בני סוהילה	2024-02	0
-בני סוהילה	2024-03	0
-בני סוהילה	2024-04	0
-بني سهيلا	2023-10	0
-بني سهيلا	2023-11	0
-بني سهيلا	2023-12	0
-بني سهيلا	2024-01	0
-بني سهيلا	2024-02	0
-بني سهيلا	2024-03	0
-بني سهيلا	2024-04	0
-بنی سهیلا	2023-10	0
-بنی سهیلا	2023-11	0
-بنی سهیلا	2023-12	0
-بنی سهیلا	2024-01	0
-بنی سهیلا	2024-02	0
-بنی سهیلا	2024-03	0
-بنی سهیلا	2024-04	0
-بنی سہیلہ	2023-10	0
-بنی سہیلہ	2023-11	0
-بنی سہیلہ	2023-12	0
-بنی سہیلہ	2024-01	0
-بنی سہیلہ	2024-02	0
-بنی سہیلہ	2024-03	0
-بنی سہیلہ	2024-04	0
-バニ・スヘイラ	2023-10	0
-バニ・スヘイラ	2023-11	0
-バニ・スヘイラ	2023-12	0
-バニ・スヘイラ	2024-01	0
-バニ・スヘイラ	2024-02	0
-バニ・スヘイラ	2024-03	0
-バニ・スヘイラ	2024-04	0
-Mukhayyam Nusayrat	2023-10	0
-Mukhayyam Nusayrat	2023-11	0
-Mukhayyam Nusayrat	2023-12	0
-Mukhayyam Nusayrat	2024-01	0
-Mukhayyam Nusayrat	2024-02	0
-Mukhayyam Nusayrat	2024-03	0
-Mukhayyam Nusayrat	2024-04	0
-Mukhayyam Nuşayrāt	2023-10	0
-Mukhayyam Nuşayrāt	2023-11	0
-Mukhayyam Nuşayrāt	2023-12	0
-Mukhayyam Nuşayrāt	2024-01	0
-Mukhayyam Nuşayrāt	2024-02	0
-Mukhayyam Nuşayrāt	2024-03	0
-Mukhayyam Nuşayrāt	2024-04	0
-Mukhayyam an Nusayrat	2023-10	0
-Mukhayyam an Nusayrat	2023-11	0
-Mukhayyam an Nusayrat	2023-12	0
-Mukhayyam an Nusayrat	2024-01	0
-Mukhayyam an Nusayrat	2024-02	0
-Mukhayyam an Nusayrat	2024-03	0
-Mukhayyam an Nusayrat	2024-04	0
-Mukhayyam an Nuşayrāt	2023-10	0
-Mukhayyam an Nuşayrāt	2023-11	0
-Mukhayyam an Nuşayrāt	2023-12	0
-Mukhayyam an Nuşayrāt	2024-01	0
-Mukhayyam an Nuşayrāt	2024-02	0
-Mukhayyam an Nuşayrāt	2024-03	0
-Mukhayyam an Nuşayrāt	2024-04	0
-mkhym alnsyrat	2023-10	0
-mkhym alnsyrat	2023-11	0
-mkhym alnsyrat	2023-12	0
-mkhym alnsyrat	2024-01	0
-mkhym alnsyrat	2024-02	0
-mkhym alnsyrat	2024-03	0
-mkhym alnsyrat	2024-04	0
-مخيم النصيرات	2023-10	0
-مخيم النصيرات	2023-11	0
-مخيم النصيرات	2023-12	0
-مخيم النصيرات	2024-01	0
-مخيم النصيرات	2024-02	0
-مخيم النصيرات	2024-03	0
-مخيم النصيرات	2024-04	0
-Mukhayyam al Burayj	2023-10	0
-Mukhayyam al Burayj	2023-11	0
-Mukhayyam al Burayj	2023-12	0
-Mukhayyam al Burayj	2024-01	0
-Mukhayyam al Burayj	2024-02	0
-Mukhayyam al Burayj	2024-03	0
-Mukhayyam al Burayj	2024-04	0
-mkhym albryj	2023-10	0
-mkhym albryj	2023-11	0
-mkhym albryj	2023-12	0
-mkhym albryj	2024-01	0
-mkhym albryj	2024-02	0
-mkhym albryj	2024-03	0
-mkhym albryj	2024-04	0
-مخيم البريج	2023-10	0
-مخيم البريج	2023-11	0
-مخيم البريج	2023-12	0
-مخيم البريج	2024-01	0
-مخيم البريج	2024-02	0
-مخيم البريج	2024-03	0
-مخيم البريج	2024-04	0
+Nuseirat	2023-10	22
+Nuseirat	2023-11	16
+Nuseirat	2023-12	26
+Nuseirat	2024-01	11
+Nuseirat	2024-02	6
+Nuseirat	2024-03	9
+Nuseirat	2024-04	8
+Bureij	2023-10	3
+Bureij	2023-11	15
+Bureij	2023-12	17
+Bureij	2024-01	5
+Bureij	2024-02	2
+Bureij	2024-03	5
+Bureij	2024-04	0
 Al Qararah	2023-10	0
-Al Qararah	2023-11	0
+Al Qararah	2023-11	1
 Al Qararah	2023-12	0
-Al Qararah	2024-01	0
+Al Qararah	2024-01	1
 Al Qararah	2024-02	0
 Al Qararah	2024-03	1
 Al Qararah	2024-04	0
-Al Qarara	2023-10	0
-Al Qarara	2023-11	1
-Al Qarara	2023-12	0
-Al Qarara	2024-01	1
-Al Qarara	2024-02	0
-Al Qarara	2024-03	1
-Al Qarara	2024-04	0
-Al Qarārah	2023-10	0
-Al Qarārah	2023-11	0
-Al Qarārah	2023-12	0
-Al Qarārah	2024-01	0
-Al Qarārah	2024-02	0
-Al Qarārah	2024-03	0
-Al Qarārah	2024-04	0
-alqrart	2023-10	0
-alqrart	2023-11	0
-alqrart	2023-12	0
-alqrart	2024-01	0
-alqrart	2024-02	0
-alqrart	2024-03	0
-alqrart	2024-04	0
-القرارة	2023-10	0
-القرارة	2023-11	0
-القرارة	2023-12	0
-القرارة	2024-01	0
-القرارة	2024-02	0
-القرارة	2024-03	0
-القرارة	2024-04	0
-Abasan al Kabirah	2023-10	0
-Abasan al Kabirah	2023-11	0
-Abasan al Kabirah	2023-12	0
+Abasan al Kabirah	2023-10	4
+Abasan al Kabirah	2023-11	5
+Abasan al Kabirah	2023-12	4
 Abasan al Kabirah	2024-01	0
-Abasan al Kabirah	2024-02	0
+Abasan al Kabirah	2024-02	1
 Abasan al Kabirah	2024-03	0
 Abasan al Kabirah	2024-04	0
-Abasan	2023-10	4
-Abasan	2023-11	5
-Abasan	2023-12	4
-Abasan	2024-01	0
-Abasan	2024-02	1
-Abasan	2024-03	0
-Abasan	2024-04	0
-Abasan Kabera	2023-10	0
-Abasan Kabera	2023-11	0
-Abasan Kabera	2023-12	0
-Abasan Kabera	2024-01	0
-Abasan Kabera	2024-02	0
-Abasan Kabera	2024-03	0
-Abasan Kabera	2024-04	0
-Abasan al Kabir	2023-10	0
-Abasan al Kabir	2023-11	0
-Abasan al Kabir	2023-12	0
-Abasan al Kabir	2024-01	0
-Abasan al Kabir	2024-02	0
-Abasan al Kabir	2024-03	0
-Abasan al Kabir	2024-04	0
-Abasan al-Kabera	2023-10	0
-Abasan al-Kabera	2023-11	0
-Abasan al-Kabera	2023-12	0
-Abasan al-Kabera	2024-01	0
-Abasan al-Kabera	2024-02	0
-Abasan al-Kabera	2024-03	0
-Abasan al-Kabera	2024-04	0
-Abasan alkabir	2023-10	0
-Abasan alkabir	2023-11	0
-Abasan alkabir	2023-12	0
-Abasan alkabir	2024-01	0
-Abasan alkabir	2024-02	0
-Abasan alkabir	2024-03	0
-Abasan alkabir	2024-04	0
-Abasan el-Kabir	2023-10	0
-Abasan el-Kabir	2023-11	0
-Abasan el-Kabir	2023-12	0
-Abasan el-Kabir	2024-01	0
-Abasan el-Kabir	2024-02	0
-Abasan el-Kabir	2024-03	0
-Abasan el-Kabir	2024-04	0
-Abasân el-Kabîr	2023-10	0
-Abasân el-Kabîr	2023-11	0
-Abasân el-Kabîr	2023-12	0
-Abasân el-Kabîr	2024-01	0
-Abasân el-Kabîr	2024-02	0
-Abasân el-Kabîr	2024-03	0
-Abasân el-Kabîr	2024-04	0
-Abasān	2023-10	0
-Abasān	2023-11	0
-Abasān	2023-12	0
-Abasān	2024-01	0
-Abasān	2024-02	0
-Abasān	2024-03	0
-Abasān	2024-04	0
-Abasān al Kabīr	2023-10	0
-Abasān al Kabīr	2023-11	0
-Abasān al Kabīr	2023-12	0
-Abasān al Kabīr	2024-01	0
-Abasān al Kabīr	2024-02	0
-Abasān al Kabīr	2024-03	0
-Abasān al Kabīr	2024-04	0
-`Abasan al Kabirah	2023-10	0
-`Abasan al Kabirah	2023-11	0
-`Abasan al Kabirah	2023-12	0
-`Abasan al Kabirah	2024-01	0
-`Abasan al Kabirah	2024-02	0
-`Abasan al Kabirah	2024-03	0
-`Abasan al Kabirah	2024-04	0
-عبسان الكبيرة	2023-10	0
-عبسان الكبيرة	2023-11	0
-عبسان الكبيرة	2023-12	0
-عبسان الكبيرة	2024-01	0
-عبسان الكبيرة	2024-02	0
-عبسان الكبيرة	2024-03	0
-عبسان الكبيرة	2024-04	0
-‘Abasān al Kabīrah	2023-10	0
-‘Abasān al Kabīrah	2023-11	0
-‘Abasān al Kabīrah	2023-12	0
-‘Abasān al Kabīrah	2024-01	0
-‘Abasān al Kabīrah	2024-02	0
-‘Abasān al Kabīrah	2024-03	0
-‘Abasān al Kabīrah	2024-04	0
 Az Zuwaydah	2023-10	0
 Az Zuwaydah	2023-11	0
 Az Zuwaydah	2023-12	0
@@ -979,41 +97,6 @@ Az Zuwaydah	2024-01	0
 Az Zuwaydah	2024-02	0
 Az Zuwaydah	2024-03	0
 Az Zuwaydah	2024-04	0
-Alzwaydt	2023-10	0
-Alzwaydt	2023-11	0
-Alzwaydt	2023-12	0
-Alzwaydt	2024-01	0
-Alzwaydt	2024-02	0
-Alzwaydt	2024-03	0
-Alzwaydt	2024-04	0
-Ar Ruwaydah	2023-10	0
-Ar Ruwaydah	2023-11	0
-Ar Ruwaydah	2023-12	0
-Ar Ruwaydah	2024-01	0
-Ar Ruwaydah	2024-02	0
-Ar Ruwaydah	2024-03	0
-Ar Ruwaydah	2024-04	0
-Az Zuwāydah	2023-10	0
-Az Zuwāydah	2023-11	0
-Az Zuwāydah	2023-12	0
-Az Zuwāydah	2024-01	0
-Az Zuwāydah	2024-02	0
-Az Zuwāydah	2024-03	0
-Az Zuwāydah	2024-04	0
-alzwaydt	2023-10	0
-alzwaydt	2023-11	0
-alzwaydt	2023-12	0
-alzwaydt	2024-01	0
-alzwaydt	2024-02	0
-alzwaydt	2024-03	0
-alzwaydt	2024-04	0
-الزوايدة	2023-10	0
-الزوايدة	2023-11	0
-الزوايدة	2023-12	0
-الزوايدة	2024-01	0
-الزوايدة	2024-02	0
-الزوايدة	2024-03	0
-الزوايدة	2024-04	0
 Maghazi	2023-10	15
 Maghazi	2023-11	28
 Maghazi	2023-12	49
@@ -1021,55 +104,6 @@ Maghazi	2024-01	9
 Maghazi	2024-02	2
 Maghazi	2024-03	3
 Maghazi	2024-04	0
-Al Maghaze	2023-10	0
-Al Maghaze	2023-11	0
-Al Maghaze	2023-12	0
-Al Maghaze	2024-01	0
-Al Maghaze	2024-02	0
-Al Maghaze	2024-03	0
-Al Maghaze	2024-04	0
-Mukhayyam Shaykh al Maghazi	2023-10	0
-Mukhayyam Shaykh al Maghazi	2023-11	0
-Mukhayyam Shaykh al Maghazi	2023-12	0
-Mukhayyam Shaykh al Maghazi	2024-01	0
-Mukhayyam Shaykh al Maghazi	2024-02	0
-Mukhayyam Shaykh al Maghazi	2024-03	0
-Mukhayyam Shaykh al Maghazi	2024-04	0
-Mukhayyam Shaykh al Maghāzī	2023-10	0
-Mukhayyam Shaykh al Maghāzī	2023-11	0
-Mukhayyam Shaykh al Maghāzī	2023-12	0
-Mukhayyam Shaykh al Maghāzī	2024-01	0
-Mukhayyam Shaykh al Maghāzī	2024-02	0
-Mukhayyam Shaykh al Maghāzī	2024-03	0
-Mukhayyam Shaykh al Maghāzī	2024-04	0
-Mukhayyam al Maghazi	2023-10	0
-Mukhayyam al Maghazi	2023-11	0
-Mukhayyam al Maghazi	2023-12	0
-Mukhayyam al Maghazi	2024-01	0
-Mukhayyam al Maghazi	2024-02	0
-Mukhayyam al Maghazi	2024-03	0
-Mukhayyam al Maghazi	2024-04	0
-Mukhayyam al Maghāzī	2023-10	0
-Mukhayyam al Maghāzī	2023-11	0
-Mukhayyam al Maghāzī	2023-12	0
-Mukhayyam al Maghāzī	2024-01	0
-Mukhayyam al Maghāzī	2024-02	0
-Mukhayyam al Maghāzī	2024-03	0
-Mukhayyam al Maghāzī	2024-04	0
-mkhym almghazy	2023-10	0
-mkhym almghazy	2023-11	0
-mkhym almghazy	2023-12	0
-mkhym almghazy	2024-01	0
-mkhym almghazy	2024-02	0
-mkhym almghazy	2024-03	0
-mkhym almghazy	2024-04	0
-مخيم المغازي	2023-10	0
-مخيم المغازي	2023-11	0
-مخيم المغازي	2023-12	0
-مخيم المغازي	2024-01	0
-مخيم المغازي	2024-02	0
-مخيم المغازي	2024-03	0
-مخيم المغازي	2024-04	0
 Shukat as Sufi	2023-10	0
 Shukat as Sufi	2023-11	0
 Shukat as Sufi	2023-12	0
@@ -1077,48 +111,6 @@ Shukat as Sufi	2024-01	0
 Shukat as Sufi	2024-02	0
 Shukat as Sufi	2024-03	0
 Shukat as Sufi	2024-04	0
-Shawkat as Sufi	2023-10	0
-Shawkat as Sufi	2023-11	0
-Shawkat as Sufi	2023-12	0
-Shawkat as Sufi	2024-01	0
-Shawkat as Sufi	2024-02	0
-Shawkat as Sufi	2024-03	0
-Shawkat as Sufi	2024-04	0
-Shawkat aş Şūfī	2023-10	0
-Shawkat aş Şūfī	2023-11	0
-Shawkat aş Şūfī	2023-12	0
-Shawkat aş Şūfī	2024-01	0
-Shawkat aş Şūfī	2024-02	0
-Shawkat aş Şūfī	2024-03	0
-Shawkat aş Şūfī	2024-04	0
-Shoket es Sufi	2023-10	0
-Shoket es Sufi	2023-11	0
-Shoket es Sufi	2023-12	0
-Shoket es Sufi	2024-01	0
-Shoket es Sufi	2024-02	0
-Shoket es Sufi	2024-03	0
-Shoket es Sufi	2024-04	0
-Shūkat aş Şūfī	2023-10	0
-Shūkat aş Şūfī	2023-11	0
-Shūkat aş Şūfī	2023-12	0
-Shūkat aş Şūfī	2024-01	0
-Shūkat aş Şūfī	2024-02	0
-Shūkat aş Şūfī	2024-03	0
-Shūkat aş Şūfī	2024-04	0
-shwkt alswfy	2023-10	0
-shwkt alswfy	2023-11	0
-shwkt alswfy	2023-12	0
-shwkt alswfy	2024-01	0
-shwkt alswfy	2024-02	0
-shwkt alswfy	2024-03	0
-shwkt alswfy	2024-04	0
-شوكة الصوفي	2023-10	0
-شوكة الصوفي	2023-11	0
-شوكة الصوفي	2023-12	0
-شوكة الصوفي	2024-01	0
-شوكة الصوفي	2024-02	0
-شوكة الصوفي	2024-03	0
-شوكة الصوفي	2024-04	0
 Khuza'ah	2023-10	0
 Khuza'ah	2023-11	0
 Khuza'ah	2023-12	0
@@ -1126,69 +118,6 @@ Khuza'ah	2024-01	0
 Khuza'ah	2024-02	0
 Khuza'ah	2024-03	0
 Khuza'ah	2024-04	0
-Kh Ikhza`a	2023-10	0
-Kh Ikhza`a	2023-11	0
-Kh Ikhza`a	2023-12	0
-Kh Ikhza`a	2024-01	0
-Kh Ikhza`a	2024-02	0
-Kh Ikhza`a	2024-03	0
-Kh Ikhza`a	2024-04	0
-Kh Ikhza‘a	2023-10	0
-Kh Ikhza‘a	2023-11	0
-Kh Ikhza‘a	2023-12	0
-Kh Ikhza‘a	2024-01	0
-Kh Ikhza‘a	2024-02	0
-Kh Ikhza‘a	2024-03	0
-Kh Ikhza‘a	2024-04	0
-Khirbat Ikhza`a	2023-10	0
-Khirbat Ikhza`a	2023-11	0
-Khirbat Ikhza`a	2023-12	0
-Khirbat Ikhza`a	2024-01	0
-Khirbat Ikhza`a	2024-02	0
-Khirbat Ikhza`a	2024-03	0
-Khirbat Ikhza`a	2024-04	0
-Khirbat Ikhza`ah	2023-10	0
-Khirbat Ikhza`ah	2023-11	0
-Khirbat Ikhza`ah	2023-12	0
-Khirbat Ikhza`ah	2024-01	0
-Khirbat Ikhza`ah	2024-02	0
-Khirbat Ikhza`ah	2024-03	0
-Khirbat Ikhza`ah	2024-04	0
-Khirbat Ikhzā‘a	2023-10	0
-Khirbat Ikhzā‘a	2023-11	0
-Khirbat Ikhzā‘a	2023-12	0
-Khirbat Ikhzā‘a	2024-01	0
-Khirbat Ikhzā‘a	2024-02	0
-Khirbat Ikhzā‘a	2024-03	0
-Khirbat Ikhzā‘a	2024-04	0
-Khirbat Ikhzā‘ah	2023-10	0
-Khirbat Ikhzā‘ah	2023-11	0
-Khirbat Ikhzā‘ah	2023-12	0
-Khirbat Ikhzā‘ah	2024-01	0
-Khirbat Ikhzā‘ah	2024-02	0
-Khirbat Ikhzā‘ah	2024-03	0
-Khirbat Ikhzā‘ah	2024-04	0
-Khuza`ah	2023-10	0
-Khuza`ah	2023-11	0
-Khuza`ah	2023-12	0
-Khuza`ah	2024-01	0
-Khuza`ah	2024-02	0
-Khuza`ah	2024-03	0
-Khuza`ah	2024-04	0
-Khuzā‘ah	2023-10	0
-Khuzā‘ah	2023-11	0
-Khuzā‘ah	2023-12	0
-Khuzā‘ah	2024-01	0
-Khuzā‘ah	2024-02	0
-Khuzā‘ah	2024-03	0
-Khuzā‘ah	2024-04	0
-خزاعة	2023-10	0
-خزاعة	2023-11	0
-خزاعة	2023-12	0
-خزاعة	2024-01	0
-خزاعة	2024-02	0
-خزاعة	2024-03	0
-خزاعة	2024-04	0
 Al Mughraqah	2023-10	0
 Al Mughraqah	2023-11	0
 Al Mughraqah	2023-12	0
@@ -1196,55 +125,6 @@ Al Mughraqah	2024-01	0
 Al Mughraqah	2024-02	0
 Al Mughraqah	2024-03	0
 Al Mughraqah	2024-04	0
-Abu Mudayin	2023-10	0
-Abu Mudayin	2023-11	0
-Abu Mudayin	2023-12	0
-Abu Mudayin	2024-01	0
-Abu Mudayin	2024-02	0
-Abu Mudayin	2024-03	0
-Abu Mudayin	2024-04	0
-Abū Mudayin	2023-10	0
-Abū Mudayin	2023-11	0
-Abū Mudayin	2023-12	0
-Abū Mudayin	2024-01	0
-Abū Mudayin	2024-02	0
-Abū Mudayin	2024-03	0
-Abū Mudayin	2024-04	0
-Al Mughrāqah	2023-10	0
-Al Mughrāqah	2023-11	0
-Al Mughrāqah	2023-12	0
-Al Mughrāqah	2024-01	0
-Al Mughrāqah	2024-02	0
-Al Mughrāqah	2024-03	0
-Al Mughrāqah	2024-04	0
-abw mdyn	2023-10	0
-abw mdyn	2023-11	0
-abw mdyn	2023-12	0
-abw mdyn	2024-01	0
-abw mdyn	2024-02	0
-abw mdyn	2024-03	0
-abw mdyn	2024-04	0
-almghraqh	2023-10	0
-almghraqh	2023-11	0
-almghraqh	2023-12	0
-almghraqh	2024-01	0
-almghraqh	2024-02	0
-almghraqh	2024-03	0
-almghraqh	2024-04	0
-ابو مدين	2023-10	0
-ابو مدين	2023-11	0
-ابو مدين	2023-12	0
-ابو مدين	2024-01	0
-ابو مدين	2024-02	0
-ابو مدين	2024-03	0
-ابو مدين	2024-04	0
-المغراقه	2023-10	0
-المغراقه	2023-11	0
-المغراقه	2023-12	0
-المغراقه	2024-01	0
-المغراقه	2024-02	0
-المغراقه	2024-03	0
-المغراقه	2024-04	0
 Deir El-Balah	2023-10	38
 Deir El-Balah	2023-11	51
 Deir El-Balah	2023-12	45
@@ -1252,118 +132,13 @@ Deir El-Balah	2024-01	19
 Deir El-Balah	2024-02	31
 Deir El-Balah	2024-03	30
 Deir El-Balah	2024-04	12
-Deir el-Balah	2023-10	38
-Deir el-Balah	2023-11	51
-Deir el-Balah	2023-12	45
-Deir el-Balah	2024-01	19
-Deir el-Balah	2024-02	31
-Deir el-Balah	2024-03	30
-Deir el-Balah	2024-04	12
-Deir el-Balah flyktningleir	2023-10	0
-Deir el-Balah flyktningleir	2023-11	0
-Deir el-Balah flyktningleir	2023-12	0
-Deir el-Balah flyktningleir	2024-01	0
-Deir el-Balah flyktningleir	2024-02	0
-Deir el-Balah flyktningleir	2024-03	0
-Deir el-Balah flyktningleir	2024-04	0
-Deir el-Balah refugee camp	2023-10	2
-Deir el-Balah refugee camp	2023-11	0
-Deir el-Balah refugee camp	2023-12	0
-Deir el-Balah refugee camp	2024-01	0
-Deir el-Balah refugee camp	2024-02	1
-Deir el-Balah refugee camp	2024-03	0
-Deir el-Balah refugee camp	2024-04	0
-Mukhayyam Dayr al Balah	2023-10	0
-Mukhayyam Dayr al Balah	2023-11	0
-Mukhayyam Dayr al Balah	2023-12	0
-Mukhayyam Dayr al Balah	2024-01	0
-Mukhayyam Dayr al Balah	2024-02	0
-Mukhayyam Dayr al Balah	2024-03	0
-Mukhayyam Dayr al Balah	2024-04	0
-Mukhayyam Dayr al Balaḩ	2023-10	0
-Mukhayyam Dayr al Balaḩ	2023-11	0
-Mukhayyam Dayr al Balaḩ	2023-12	0
-Mukhayyam Dayr al Balaḩ	2024-01	0
-Mukhayyam Dayr al Balaḩ	2024-02	0
-Mukhayyam Dayr al Balaḩ	2024-03	0
-Mukhayyam Dayr al Balaḩ	2024-04	0
-mkhym dyr alblh	2023-10	0
-mkhym dyr alblh	2023-11	0
-mkhym dyr alblh	2023-12	0
-mkhym dyr alblh	2024-01	0
-mkhym dyr alblh	2024-02	0
-mkhym dyr alblh	2024-03	0
-mkhym dyr alblh	2024-04	0
-مخيم دير البلح	2023-10	0
-مخيم دير البلح	2023-11	0
-مخيم دير البلح	2023-12	0
-مخيم دير البلح	2024-01	0
-مخيم دير البلح	2024-02	0
-مخيم دير البلح	2024-03	0
-مخيم دير البلح	2024-04	0
 An Nasr	2023-10	12
 An Nasr	2023-11	25
 An Nasr	2023-12	3
-An Nasr	2024-01	13
+An Nasr	2024-01	14
 An Nasr	2024-02	6
 An Nasr	2024-03	3
 An Nasr	2024-04	3
-Al Bayk	2023-10	0
-Al Bayk	2023-11	0
-Al Bayk	2023-12	0
-Al Bayk	2024-01	0
-Al Bayk	2024-02	0
-Al Bayk	2024-03	0
-Al Bayk	2024-04	0
-Al Bayuk	2023-10	0
-Al Bayuk	2023-11	0
-Al Bayuk	2023-12	0
-Al Bayuk	2024-01	0
-Al Bayuk	2024-02	0
-Al Bayuk	2024-03	0
-Al Bayuk	2024-04	0
-Al Bayūk	2023-10	0
-Al Bayūk	2023-11	0
-Al Bayūk	2023-12	0
-Al Bayūk	2024-01	0
-Al Bayūk	2024-02	0
-Al Bayūk	2024-03	0
-Al Bayūk	2024-04	0
-An Naşr	2023-10	0
-An Naşr	2023-11	0
-An Naşr	2023-12	0
-An Naşr	2024-01	0
-An Naşr	2024-02	0
-An Naşr	2024-03	0
-An Naşr	2024-04	0
-albywk	2023-10	0
-albywk	2023-11	0
-albywk	2023-12	0
-albywk	2024-01	0
-albywk	2024-02	0
-albywk	2024-03	0
-albywk	2024-04	0
-alnsr	2023-10	0
-alnsr	2023-11	0
-alnsr	2023-12	0
-alnsr	2024-01	0
-alnsr	2024-02	0
-alnsr	2024-03	0
-alnsr	2024-04	0
-البيوك	2023-10	0
-البيوك	2023-11	0
-البيوك	2023-12	0
-البيوك	2024-01	0
-البيوك	2024-02	0
-البيوك	2024-03	0
-البيوك	2024-04	0
-النصر	2023-10	0
-النصر	2023-11	0
-النصر	2023-12	0
-النصر	2024-01	1
-النصر	2024-02	0
-النصر	2024-03	0
-النصر	2024-04	0
 Abasan al Jadidah	2023-10	0
 Abasan al Jadidah	2023-11	0
 Abasan al Jadidah	2023-12	0
@@ -1371,62 +146,6 @@ Abasan al Jadidah	2024-01	0
 Abasan al Jadidah	2024-02	0
 Abasan al Jadidah	2024-03	0
 Abasan al Jadidah	2024-04	0
-`Abasan al Jadida	2023-10	0
-`Abasan al Jadida	2023-11	0
-`Abasan al Jadida	2023-12	0
-`Abasan al Jadida	2024-01	0
-`Abasan al Jadida	2024-02	0
-`Abasan al Jadida	2024-03	0
-`Abasan al Jadida	2024-04	0
-`Abasan al Jadidah	2023-10	0
-`Abasan al Jadidah	2023-11	0
-`Abasan al Jadidah	2023-12	0
-`Abasan al Jadidah	2024-01	0
-`Abasan al Jadidah	2024-02	0
-`Abasan al Jadidah	2024-03	0
-`Abasan al Jadidah	2024-04	0
-`Abasan as Saghirah	2023-10	0
-`Abasan as Saghirah	2023-11	0
-`Abasan as Saghirah	2023-12	0
-`Abasan as Saghirah	2024-01	0
-`Abasan as Saghirah	2024-02	0
-`Abasan as Saghirah	2024-03	0
-`Abasan as Saghirah	2024-04	0
-عبسان الجديدة	2023-10	0
-عبسان الجديدة	2023-11	0
-عبسان الجديدة	2023-12	0
-عبسان الجديدة	2024-01	0
-عبسان الجديدة	2024-02	0
-عبسان الجديدة	2024-03	0
-عبسان الجديدة	2024-04	0
-عبسان الصغيرة	2023-10	0
-عبسان الصغيرة	2023-11	0
-عبسان الصغيرة	2023-12	0
-عبسان الصغيرة	2024-01	0
-عبسان الصغيرة	2024-02	0
-عبسان الصغيرة	2024-03	0
-عبسان الصغيرة	2024-04	0
-‘Abasan al Jadida	2023-10	0
-‘Abasan al Jadida	2023-11	0
-‘Abasan al Jadida	2023-12	0
-‘Abasan al Jadida	2024-01	0
-‘Abasan al Jadida	2024-02	0
-‘Abasan al Jadida	2024-03	0
-‘Abasan al Jadida	2024-04	0
-‘Abasān al Jadīdah	2023-10	0
-‘Abasān al Jadīdah	2023-11	0
-‘Abasān al Jadīdah	2023-12	0
-‘Abasān al Jadīdah	2024-01	0
-‘Abasān al Jadīdah	2024-02	0
-‘Abasān al Jadīdah	2024-03	0
-‘Abasān al Jadīdah	2024-04	0
-‘Abasān aş Şaghīrah	2023-10	0
-‘Abasān aş Şaghīrah	2023-11	0
-‘Abasān aş Şaghīrah	2023-12	0
-‘Abasān aş Şaghīrah	2024-01	0
-‘Abasān aş Şaghīrah	2024-02	0
-‘Abasān aş Şaghīrah	2024-03	0
-‘Abasān aş Şaghīrah	2024-04	0
 Al Fukhkhari	2023-10	0
 Al Fukhkhari	2023-11	0
 Al Fukhkhari	2023-12	0
@@ -1434,48 +153,6 @@ Al Fukhkhari	2024-01	0
 Al Fukhkhari	2024-02	0
 Al Fukhkhari	2024-03	0
 Al Fukhkhari	2024-04	0
-Al Fakhkhari	2023-10	0
-Al Fakhkhari	2023-11	0
-Al Fakhkhari	2023-12	0
-Al Fakhkhari	2024-01	0
-Al Fakhkhari	2024-02	0
-Al Fakhkhari	2024-03	0
-Al Fakhkhari	2024-04	0
-Al Fakhkhārī	2023-10	0
-Al Fakhkhārī	2023-11	0
-Al Fakhkhārī	2023-12	0
-Al Fakhkhārī	2024-01	0
-Al Fakhkhārī	2024-02	0
-Al Fakhkhārī	2024-03	0
-Al Fakhkhārī	2024-04	0
-Al Fukhkhārī	2023-10	0
-Al Fukhkhārī	2023-11	0
-Al Fukhkhārī	2023-12	0
-Al Fukhkhārī	2024-01	0
-Al Fukhkhārī	2024-02	0
-Al Fukhkhārī	2024-03	0
-Al Fukhkhārī	2024-04	0
-El Fukhkhari	2023-10	0
-El Fukhkhari	2023-11	0
-El Fukhkhari	2023-12	0
-El Fukhkhari	2024-01	0
-El Fukhkhari	2024-02	0
-El Fukhkhari	2024-03	0
-El Fukhkhari	2024-04	0
-alfkhary	2023-10	0
-alfkhary	2023-11	0
-alfkhary	2023-12	0
-alfkhary	2024-01	0
-alfkhary	2024-02	0
-alfkhary	2024-03	0
-alfkhary	2024-04	0
-الفخاري	2023-10	0
-الفخاري	2023-11	0
-الفخاري	2023-12	0
-الفخاري	2024-01	0
-الفخاري	2024-02	0
-الفخاري	2024-03	0
-الفخاري	2024-04	0
 Wadi as Salqa	2023-10	0
 Wadi as Salqa	2023-11	0
 Wadi as Salqa	2023-12	0
@@ -1483,41 +160,6 @@ Wadi as Salqa	2024-01	0
 Wadi as Salqa	2024-02	0
 Wadi as Salqa	2024-03	0
 Wadi as Salqa	2024-04	0
-Wadi as Salga	2023-10	0
-Wadi as Salga	2023-11	0
-Wadi as Salga	2023-12	0
-Wadi as Salga	2024-01	0
-Wadi as Salga	2024-02	0
-Wadi as Salga	2024-03	0
-Wadi as Salga	2024-04	0
-Wādī as Salgā	2023-10	0
-Wādī as Salgā	2023-11	0
-Wādī as Salgā	2023-12	0
-Wādī as Salgā	2024-01	0
-Wādī as Salgā	2024-02	0
-Wādī as Salgā	2024-03	0
-Wādī as Salgā	2024-04	0
-Wādī as Salqā	2023-10	0
-Wādī as Salqā	2023-11	0
-Wādī as Salqā	2023-12	0
-Wādī as Salqā	2024-01	0
-Wādī as Salqā	2024-02	0
-Wādī as Salqā	2024-03	0
-Wādī as Salqā	2024-04	0
-wady alslqa	2023-10	0
-wady alslqa	2023-11	0
-wady alslqa	2023-12	0
-wady alslqa	2024-01	0
-wady alslqa	2024-02	0
-wady alslqa	2024-03	0
-wady alslqa	2024-04	0
-وادي السلقا	2023-10	0
-وادي السلقا	2023-11	0
-وادي السلقا	2023-12	0
-وادي السلقا	2024-01	0
-وادي السلقا	2024-02	0
-وادي السلقا	2024-03	0
-وادي السلقا	2024-04	0
 Juhr ad Dik	2023-10	0
 Juhr ad Dik	2023-11	0
 Juhr ad Dik	2023-12	0
@@ -1525,34 +167,6 @@ Juhr ad Dik	2024-01	0
 Juhr ad Dik	2024-02	0
 Juhr ad Dik	2024-03	0
 Juhr ad Dik	2024-04	0
-Juhor ad Dik	2023-10	0
-Juhor ad Dik	2023-11	0
-Juhor ad Dik	2023-12	0
-Juhor ad Dik	2024-01	0
-Juhor ad Dik	2024-02	0
-Juhor ad Dik	2024-03	0
-Juhor ad Dik	2024-04	0
-Juḩr ad Dīk	2023-10	0
-Juḩr ad Dīk	2023-11	0
-Juḩr ad Dīk	2023-12	0
-Juḩr ad Dīk	2024-01	0
-Juḩr ad Dīk	2024-02	0
-Juḩr ad Dīk	2024-03	0
-Juḩr ad Dīk	2024-04	0
-jhr aldyk	2023-10	0
-jhr aldyk	2023-11	0
-jhr aldyk	2023-12	0
-jhr aldyk	2024-01	0
-jhr aldyk	2024-02	0
-jhr aldyk	2024-03	0
-jhr aldyk	2024-04	0
-جحر الديك	2023-10	0
-جحر الديك	2023-11	0
-جحر الديك	2023-12	0
-جحر الديك	2024-01	0
-جحر الديك	2024-02	0
-جحر الديك	2024-03	0
-جحر الديك	2024-04	0
 Umm an Nasr	2023-10	0
 Umm an Nasr	2023-11	0
 Umm an Nasr	2023-12	0
@@ -1560,48 +174,6 @@ Umm an Nasr	2024-01	0
 Umm an Nasr	2024-02	0
 Umm an Nasr	2024-03	0
 Umm an Nasr	2024-04	0
-Al Qaryah al Badawiyah al Maslakh	2023-10	0
-Al Qaryah al Badawiyah al Maslakh	2023-11	0
-Al Qaryah al Badawiyah al Maslakh	2023-12	0
-Al Qaryah al Badawiyah al Maslakh	2024-01	0
-Al Qaryah al Badawiyah al Maslakh	2024-02	0
-Al Qaryah al Badawiyah al Maslakh	2024-03	0
-Al Qaryah al Badawiyah al Maslakh	2024-04	0
-Umm an Naşr	2023-10	0
-Umm an Naşr	2023-11	0
-Umm an Naşr	2023-12	0
-Umm an Naşr	2024-01	0
-Umm an Naşr	2024-02	0
-Umm an Naşr	2024-03	0
-Umm an Naşr	2024-04	0
-alqryt albdwyt almslkh	2023-10	0
-alqryt albdwyt almslkh	2023-11	0
-alqryt albdwyt almslkh	2023-12	0
-alqryt albdwyt almslkh	2024-01	0
-alqryt albdwyt almslkh	2024-02	0
-alqryt albdwyt almslkh	2024-03	0
-alqryt albdwyt almslkh	2024-04	0
-am alnsr	2023-10	0
-am alnsr	2023-11	0
-am alnsr	2023-12	0
-am alnsr	2024-01	0
-am alnsr	2024-02	0
-am alnsr	2024-03	0
-am alnsr	2024-04	0
-أم النصر	2023-10	0
-أم النصر	2023-11	0
-أم النصر	2023-12	0
-أم النصر	2024-01	0
-أم النصر	2024-02	0
-أم النصر	2024-03	0
-أم النصر	2024-04	0
-القرية البدوية المسلخ	2023-10	0
-القرية البدوية المسلخ	2023-11	0
-القرية البدوية المسلخ	2023-12	0
-القرية البدوية المسلخ	2024-01	0
-القرية البدوية المسلخ	2024-02	0
-القرية البدوية المسلخ	2024-03	0
-القرية البدوية المسلخ	2024-04	0
 Al Musaddar	2023-10	0
 Al Musaddar	2023-11	0
 Al Musaddar	2023-12	0
@@ -1609,342 +181,20 @@ Al Musaddar	2024-01	0
 Al Musaddar	2024-02	0
 Al Musaddar	2024-03	0
 Al Musaddar	2024-04	0
-Al Muşaddar	2023-10	0
-Al Muşaddar	2023-11	0
-Al Muşaddar	2023-12	0
-Al Muşaddar	2024-01	0
-Al Muşaddar	2024-02	0
-Al Muşaddar	2024-03	0
-Al Muşaddar	2024-04	0
-almsdr	2023-10	0
-almsdr	2023-11	0
-almsdr	2023-12	0
-almsdr	2024-01	0
-almsdr	2024-02	0
-almsdr	2024-03	0
-almsdr	2024-04	0
-المصدر	2023-10	0
-المصدر	2023-11	0
-المصدر	2023-12	0
-المصدر	2024-01	0
-المصدر	2024-02	0
-المصدر	2024-03	0
-المصدر	2024-04	0
 Al Mawasi	2023-10	0
 Al Mawasi	2023-11	0
 Al Mawasi	2023-12	0
-Al Mawasi	2024-01	0
+Al Mawasi	2024-01	1
 Al Mawasi	2024-02	0
 Al Mawasi	2024-03	1
 Al Mawasi	2024-04	0
-Al Mawāsī	2023-10	0
-Al Mawāsī	2023-11	0
-Al Mawāsī	2023-12	0
-Al Mawāsī	2024-01	0
-Al Mawāsī	2024-02	0
-Al Mawāsī	2024-03	0
-Al Mawāsī	2024-04	0
-El-Mawasi	2023-10	0
-El-Mawasi	2023-11	0
-El-Mawasi	2023-12	0
-El-Mawasi	2024-01	0
-El-Mawasi	2024-02	0
-El-Mawasi	2024-03	0
-El-Mawasi	2024-04	0
-almwasy	2023-10	0
-almwasy	2023-11	0
-almwasy	2023-12	0
-almwasy	2024-01	0
-almwasy	2024-02	0
-almwasy	2024-03	0
-almwasy	2024-04	0
-المواصي	2023-10	0
-المواصي	2023-11	0
-المواصي	2023-12	0
-المواصي	2024-01	1
-المواصي	2024-02	0
-المواصي	2024-03	0
-المواصي	2024-04	0
 Al-Shifa Hospital	2023-10	31
-Al-Shifa Hospital	2023-11	244
+Al-Shifa Hospital	2023-11	245
 Al-Shifa Hospital	2023-12	23
 Al-Shifa Hospital	2024-01	3
 Al-Shifa Hospital	2024-02	15
-Al-Shifa Hospital	2024-03	31
+Al-Shifa Hospital	2024-03	32
 Al-Shifa Hospital	2024-04	13
-Al'-Shifa	2023-10	0
-Al'-Shifa	2023-11	0
-Al'-Shifa	2023-12	0
-Al'-Shifa	2024-01	0
-Al'-Shifa	2024-02	0
-Al'-Shifa	2024-03	0
-Al'-Shifa	2024-04	0
-Al-Shifa Ospitalea	2023-10	0
-Al-Shifa Ospitalea	2023-11	0
-Al-Shifa Ospitalea	2023-12	0
-Al-Shifa Ospitalea	2024-01	0
-Al-Shifa Ospitalea	2024-02	0
-Al-Shifa Ospitalea	2024-03	0
-Al-Shifa Ospitalea	2024-04	0
-Al-Shifa ziekenhuis	2023-10	0
-Al-Shifa ziekenhuis	2023-11	0
-Al-Shifa ziekenhuis	2023-12	0
-Al-Shifa ziekenhuis	2024-01	0
-Al-Shifa ziekenhuis	2024-02	0
-Al-Shifa ziekenhuis	2024-03	0
-Al-Shifa ziekenhuis	2024-04	0
-As-Sifa	2023-10	0
-As-Sifa	2023-11	0
-As-Sifa	2023-12	0
-As-Sifa	2024-01	0
-As-Sifa	2024-02	0
-As-Sifa	2024-03	0
-As-Sifa	2024-04	0
-Aš-Šifá	2023-10	0
-Aš-Šifá	2023-11	0
-Aš-Šifá	2023-12	0
-Aš-Šifá	2024-01	0
-Aš-Šifá	2024-02	0
-Aš-Šifá	2024-03	0
-Aš-Šifá	2024-04	0
-Benh vien Al-Shifa	2023-10	0
-Benh vien Al-Shifa	2023-11	0
-Benh vien Al-Shifa	2023-12	0
-Benh vien Al-Shifa	2024-01	0
-Benh vien Al-Shifa	2024-02	0
-Benh vien Al-Shifa	2024-03	0
-Benh vien Al-Shifa	2024-04	0
-Bolnisnica Al Sifa	2023-10	0
-Bolnisnica Al Sifa	2023-11	0
-Bolnisnica Al Sifa	2023-12	0
-Bolnisnica Al Sifa	2024-01	0
-Bolnisnica Al Sifa	2024-02	0
-Bolnisnica Al Sifa	2024-03	0
-Bolnisnica Al Sifa	2024-04	0
-Bolnišnica Al Šifa	2023-10	0
-Bolnišnica Al Šifa	2023-11	0
-Bolnišnica Al Šifa	2023-12	0
-Bolnišnica Al Šifa	2024-01	0
-Bolnišnica Al Šifa	2024-02	0
-Bolnišnica Al Šifa	2024-03	0
-Bolnišnica Al Šifa	2024-04	0
-Bệnh viện Al-Shifa	2023-10	0
-Bệnh viện Al-Shifa	2023-11	0
-Bệnh viện Al-Shifa	2023-12	0
-Bệnh viện Al-Shifa	2024-01	0
-Bệnh viện Al-Shifa	2024-02	0
-Bệnh viện Al-Shifa	2024-03	0
-Bệnh viện Al-Shifa	2024-04	0
-Gazze Sifa Hastanesi	2023-10	0
-Gazze Sifa Hastanesi	2023-11	0
-Gazze Sifa Hastanesi	2023-12	0
-Gazze Sifa Hastanesi	2024-01	0
-Gazze Sifa Hastanesi	2024-02	0
-Gazze Sifa Hastanesi	2024-03	0
-Gazze Sifa Hastanesi	2024-04	0
-Gazze Şifa Hastanesi	2023-10	0
-Gazze Şifa Hastanesi	2023-11	0
-Gazze Şifa Hastanesi	2023-12	0
-Gazze Şifa Hastanesi	2024-01	0
-Gazze Şifa Hastanesi	2024-02	0
-Gazze Şifa Hastanesi	2024-03	0
-Gazze Şifa Hastanesi	2024-04	0
-Hospital Al-Shifa	2023-10	0
-Hospital Al-Shifa	2023-11	0
-Hospital Al-Shifa	2023-12	0
-Hospital Al-Shifa	2024-01	0
-Hospital Al-Shifa	2024-02	0
-Hospital Al-Shifa	2024-03	0
-Hospital Al-Shifa	2024-04	0
-Mustashfa al-Shifa	2023-10	0
-Mustashfa al-Shifa	2023-11	0
-Mustashfa al-Shifa	2023-12	0
-Mustashfa al-Shifa	2024-01	0
-Mustashfa al-Shifa	2024-02	0
-Mustashfa al-Shifa	2024-03	0
-Mustashfa al-Shifa	2024-04	0
-Ospedale Al-Shifa	2023-10	0
-Ospedale Al-Shifa	2023-11	0
-Ospedale Al-Shifa	2023-12	0
-Ospedale Al-Shifa	2024-01	0
-Ospedale Al-Shifa	2024-02	0
-Ospedale Al-Shifa	2024-03	0
-Ospedale Al-Shifa	2024-04	0
-Rumah Sakit Al-Shifa	2023-10	0
-Rumah Sakit Al-Shifa	2023-11	0
-Rumah Sakit Al-Shifa	2023-12	0
-Rumah Sakit Al-Shifa	2024-01	0
-Rumah Sakit Al-Shifa	2024-02	0
-Rumah Sakit Al-Shifa	2024-03	0
-Rumah Sakit Al-Shifa	2024-04	0
-Shifa-sykehuset	2023-10	0
-Shifa-sykehuset	2023-11	0
-Shifa-sykehuset	2023-12	0
-Shifa-sykehuset	2024-01	0
-Shifa-sykehuset	2024-02	0
-Shifa-sykehuset	2024-03	0
-Shifa-sykehuset	2024-04	0
-Valetudinarium al-Shifa	2023-10	0
-Valetudinarium al-Shifa	2023-11	0
-Valetudinarium al-Shifa	2023-12	0
-Valetudinarium al-Shifa	2024-01	0
-Valetudinarium al-Shifa	2024-02	0
-Valetudinarium al-Shifa	2024-03	0
-Valetudinarium al-Shifa	2024-04	0
-Ysbyty Al-Shifa	2023-10	0
-Ysbyty Al-Shifa	2023-11	0
-Ysbyty Al-Shifa	2023-12	0
-Ysbyty Al-Shifa	2024-01	0
-Ysbyty Al-Shifa	2024-02	0
-Ysbyty Al-Shifa	2024-03	0
-Ysbyty Al-Shifa	2024-04	0
-al-Schifa-Krankenhaus	2023-10	0
-al-Schifa-Krankenhaus	2023-11	0
-al-Schifa-Krankenhaus	2023-12	0
-al-Schifa-Krankenhaus	2024-01	0
-al-Schifa-Krankenhaus	2024-02	0
-al-Schifa-Krankenhaus	2024-03	0
-al-Schifa-Krankenhaus	2024-04	0
-al-cipa maruttuvamanai	2023-10	0
-al-cipa maruttuvamanai	2023-11	0
-al-cipa maruttuvamanai	2023-12	0
-al-cipa maruttuvamanai	2024-01	0
-al-cipa maruttuvamanai	2024-02	0
-al-cipa maruttuvamanai	2024-03	0
-al-cipa maruttuvamanai	2024-04	0
-ala-sipha hasapatala	2023-10	0
-ala-sipha hasapatala	2023-11	0
-ala-sipha hasapatala	2023-12	0
-ala-sipha hasapatala	2024-01	0
-ala-sipha hasapatala	2024-02	0
-ala-sipha hasapatala	2024-03	0
-ala-sipha hasapatala	2024-04	0
-alsipa byeong-won	2023-10	0
-alsipa byeong-won	2023-11	0
-alsipa byeong-won	2023-12	0
-alsipa byeong-won	2024-01	0
-alsipa byeong-won	2024-02	0
-alsipa byeong-won	2024-03	0
-alsipa byeong-won	2024-04	0
-bymarstan alshfa	2023-10	0
-bymarstan alshfa	2023-11	0
-bymarstan alshfa	2023-12	0
-bymarstan alshfa	2024-01	0
-bymarstan alshfa	2024-02	0
-bymarstan alshfa	2024-03	0
-bymarstan alshfa	2024-04	0
-hopital Al-Shifa	2023-10	0
-hopital Al-Shifa	2023-11	0
-hopital Al-Shifa	2023-12	0
-hopital Al-Shifa	2024-01	0
-hopital Al-Shifa	2024-02	0
-hopital Al-Shifa	2024-03	0
-hopital Al-Shifa	2024-04	0
-hospitalo Al-Sifa	2023-10	0
-hospitalo Al-Sifa	2023-11	0
-hospitalo Al-Sifa	2023-12	0
-hospitalo Al-Sifa	2024-01	0
-hospitalo Al-Sifa	2024-02	0
-hospitalo Al-Sifa	2024-03	0
-hospitalo Al-Sifa	2024-04	0
-hospitalo Al-Ŝifa	2023-10	0
-hospitalo Al-Ŝifa	2023-11	0
-hospitalo Al-Ŝifa	2023-12	0
-hospitalo Al-Ŝifa	2024-01	0
-hospitalo Al-Ŝifa	2024-02	0
-hospitalo Al-Ŝifa	2024-03	0
-hospitalo Al-Ŝifa	2024-04	0
-hôpital Al-Shifa	2023-10	0
-hôpital Al-Shifa	2023-11	0
-hôpital Al-Shifa	2023-12	0
-hôpital Al-Shifa	2024-01	0
-hôpital Al-Shifa	2024-02	0
-hôpital Al-Shifa	2024-03	0
-hôpital Al-Shifa	2024-04	0
-rong phyabal xach chifax	2023-10	0
-rong phyabal xach chifax	2023-11	0
-rong phyabal xach chifax	2023-12	0
-rong phyabal xach chifax	2024-01	0
-rong phyabal xach chifax	2024-02	0
-rong phyabal xach chifax	2024-03	0
-rong phyabal xach chifax	2024-04	0
-xi fa yi yuan	2023-10	0
-xi fa yi yuan	2023-11	0
-xi fa yi yuan	2023-12	0
-xi fa yi yuan	2024-01	0
-xi fa yi yuan	2024-02	0
-xi fa yi yuan	2024-03	0
-xi fa yi yuan	2024-04	0
-Аль-Шифа	2023-10	0
-Аль-Шифа	2023-11	0
-Аль-Шифа	2023-12	0
-Аль-Шифа	2024-01	0
-Аль-Шифа	2024-02	0
-Аль-Шифа	2024-03	0
-Аль-Шифа	2024-04	0
-בית החולים שיפא	2023-10	0
-בית החולים שיפא	2023-11	1
-בית החולים שיפא	2023-12	0
-בית החולים שיפא	2024-01	0
-בית החולים שיפא	2024-02	0
-בית החולים שיפא	2024-03	0
-בית החולים שיפא	2024-04	0
-بیمارستان الشفا	2023-10	0
-بیمارستان الشفا	2023-11	0
-بیمارستان الشفا	2023-12	0
-بیمارستان الشفا	2024-01	0
-بیمارستان الشفا	2024-02	0
-بیمارستان الشفا	2024-03	0
-بیمارستان الشفا	2024-04	0
-مجمع الشفاء الطبي	2023-10	0
-مجمع الشفاء الطبي	2023-11	0
-مجمع الشفاء الطبي	2023-12	0
-مجمع الشفاء الطبي	2024-01	0
-مجمع الشفاء الطبي	2024-02	0
-مجمع الشفاء الطبي	2024-03	1
-مجمع الشفاء الطبي	2024-04	0
-আল-শিফা হাসপাতাল	2023-10	0
-আল-শিফা হাসপাতাল	2023-11	0
-আল-শিফা হাসপাতাল	2023-12	0
-আল-শিফা হাসপাতাল	2024-01	0
-আল-শিফা হাসপাতাল	2024-02	0
-আল-শিফা হাসপাতাল	2024-03	0
-আল-শিফা হাসপাতাল	2024-04	0
-அல்-சிபா மருத்துவமனை	2023-10	0
-அல்-சிபா மருத்துவமனை	2023-11	0
-அல்-சிபா மருத்துவமனை	2023-12	0
-அல்-சிபா மருத்துவமனை	2024-01	0
-அல்-சிபா மருத்துவமனை	2024-02	0
-அல்-சிபா மருத்துவமனை	2024-03	0
-அல்-சிபா மருத்துவமனை	2024-04	0
-โรงพยาบาลอัชชิฟาอ์	2023-10	0
-โรงพยาบาลอัชชิฟาอ์	2023-11	0
-โรงพยาบาลอัชชิฟาอ์	2023-12	0
-โรงพยาบาลอัชชิฟาอ์	2024-01	0
-โรงพยาบาลอัชชิฟาอ์	2024-02	0
-โรงพยาบาลอัชชิฟาอ์	2024-03	0
-โรงพยาบาลอัชชิฟาอ์	2024-04	0
-アル・シファ病院	2023-10	0
-アル・シファ病院	2023-11	0
-アル・シファ病院	2023-12	0
-アル・シファ病院	2024-01	0
-アル・シファ病院	2024-02	0
-アル・シファ病院	2024-03	0
-アル・シファ病院	2024-04	0
-希法医院	2023-10	0
-希法医院	2023-11	0
-希法医院	2023-12	0
-希法医院	2024-01	0
-希法医院	2024-02	0
-希法医院	2024-03	0
-希法医院	2024-04	0
-알시파 병원	2023-10	0
-알시파 병원	2023-11	0
-알시파 병원	2023-12	0
-알시파 병원	2024-01	0
-알시파 병원	2024-02	0
-알시파 병원	2024-03	0
-알시파 병원	2024-04	0
 Umm Jarrah	2023-10	0
 Umm Jarrah	2023-11	0
 Umm Jarrah	2023-12	0
@@ -1952,13 +202,6 @@ Umm Jarrah	2024-01	0
 Umm Jarrah	2024-02	0
 Umm Jarrah	2024-03	0
 Umm Jarrah	2024-04	0
-Umm Jerra	2023-10	0
-Umm Jerra	2023-11	0
-Umm Jerra	2023-12	0
-Umm Jerra	2024-01	0
-Umm Jerra	2024-02	0
-Umm Jerra	2024-03	0
-Umm Jerra	2024-04	0
 Musabbih	2023-10	0
 Musabbih	2023-11	0
 Musabbih	2023-12	0
@@ -1966,20 +209,6 @@ Musabbih	2024-01	0
 Musabbih	2024-02	0
 Musabbih	2024-03	0
 Musabbih	2024-04	0
-Musebbeh	2023-10	0
-Musebbeh	2023-11	0
-Musebbeh	2023-12	0
-Musebbeh	2024-01	0
-Musebbeh	2024-02	0
-Musebbeh	2024-03	0
-Musebbeh	2024-04	0
-Muşabbiḩ	2023-10	0
-Muşabbiḩ	2023-11	0
-Muşabbiḩ	2023-12	0
-Muşabbiḩ	2024-01	0
-Muşabbiḩ	2024-02	0
-Muşabbiḩ	2024-03	0
-Muşabbiḩ	2024-04	0
 Ard Rafah	2023-10	0
 Ard Rafah	2023-11	0
 Ard Rafah	2023-12	0
@@ -1994,13 +223,6 @@ Al Qubbah	2024-01	0
 Al Qubbah	2024-02	0
 Al Qubbah	2024-03	0
 Al Qubbah	2024-04	0
-El Qubbe	2023-10	0
-El Qubbe	2023-11	0
-El Qubbe	2023-12	0
-El Qubbe	2024-01	0
-El Qubbe	2024-02	0
-El Qubbe	2024-03	0
-El Qubbe	2024-04	0
 Al Junaynah	2023-10	0
 Al Junaynah	2023-11	0
 Al Junaynah	2023-12	0
@@ -2008,13 +230,6 @@ Al Junaynah	2024-01	0
 Al Junaynah	2024-02	0
 Al Junaynah	2024-03	0
 Al Junaynah	2024-04	0
-El Juneine	2023-10	0
-El Juneine	2023-11	0
-El Juneine	2023-12	0
-El Juneine	2024-01	0
-El Juneine	2024-02	0
-El Juneine	2024-03	0
-El Juneine	2024-04	0
 Al Ghabah	2023-10	0
 Al Ghabah	2023-11	0
 Al Ghabah	2023-12	0
@@ -2022,20 +237,6 @@ Al Ghabah	2024-01	0
 Al Ghabah	2024-02	0
 Al Ghabah	2024-03	0
 Al Ghabah	2024-04	0
-Al Ghābah	2023-10	0
-Al Ghābah	2023-11	0
-Al Ghābah	2023-12	0
-Al Ghābah	2024-01	0
-Al Ghābah	2024-02	0
-Al Ghābah	2024-03	0
-Al Ghābah	2024-04	0
-El-Ghabe	2023-10	0
-El-Ghabe	2023-11	0
-El-Ghabe	2023-12	0
-El-Ghabe	2024-01	0
-El-Ghabe	2024-02	0
-El-Ghabe	2024-03	0
-El-Ghabe	2024-04	0
 Al Filahah	2023-10	0
 Al Filahah	2023-11	0
 Al Filahah	2023-12	0
@@ -2043,27 +244,6 @@ Al Filahah	2024-01	0
 Al Filahah	2024-02	0
 Al Filahah	2024-03	0
 Al Filahah	2024-04	0
-Al Filāḩah	2023-10	0
-Al Filāḩah	2023-11	0
-Al Filāḩah	2023-12	0
-Al Filāḩah	2024-01	0
-Al Filāḩah	2024-02	0
-Al Filāḩah	2024-03	0
-Al Filāḩah	2024-04	0
-Al-Filaha	2023-10	0
-Al-Filaha	2023-11	0
-Al-Filaha	2023-12	0
-Al-Filaha	2024-01	0
-Al-Filaha	2024-02	0
-Al-Filaha	2024-03	0
-Al-Filaha	2024-04	0
-El Filaha	2023-10	0
-El Filaha	2023-11	0
-El Filaha	2023-12	0
-El Filaha	2024-01	0
-El Filaha	2024-02	0
-El Filaha	2024-03	0
-El Filaha	2024-04	0
 Abu Himar	2023-10	0
 Abu Himar	2023-11	0
 Abu Himar	2023-12	0
@@ -2071,20 +251,6 @@ Abu Himar	2024-01	0
 Abu Himar	2024-02	0
 Abu Himar	2024-03	0
 Abu Himar	2024-04	0
-Abu Himer	2023-10	0
-Abu Himer	2023-11	0
-Abu Himer	2023-12	0
-Abu Himer	2024-01	0
-Abu Himer	2024-02	0
-Abu Himer	2024-03	0
-Abu Himer	2024-04	0
-Abū Ḩimār	2023-10	0
-Abū Ḩimār	2023-11	0
-Abū Ḩimār	2023-12	0
-Abū Ḩimār	2024-01	0
-Abū Ḩimār	2024-02	0
-Abū Ḩimār	2024-03	0
-Abū Ḩimār	2024-04	0
 Abu 'Awdah	2023-10	0
 Abu 'Awdah	2023-11	0
 Abu 'Awdah	2023-12	0
@@ -2092,48 +258,6 @@ Abu 'Awdah	2024-01	0
 Abu 'Awdah	2024-02	0
 Abu 'Awdah	2024-03	0
 Abu 'Awdah	2024-04	0
-Abu `Auda	2023-10	0
-Abu `Auda	2023-11	0
-Abu `Auda	2023-12	0
-Abu `Auda	2024-01	0
-Abu `Auda	2024-02	0
-Abu `Auda	2024-03	0
-Abu `Auda	2024-04	0
-Abu `Awdah	2023-10	0
-Abu `Awdah	2023-11	0
-Abu `Awdah	2023-12	0
-Abu `Awdah	2024-01	0
-Abu `Awdah	2024-02	0
-Abu `Awdah	2024-03	0
-Abu `Awdah	2024-04	0
-Abu `Ode	2023-10	0
-Abu `Ode	2023-11	0
-Abu `Ode	2023-12	0
-Abu `Ode	2024-01	0
-Abu `Ode	2024-02	0
-Abu `Ode	2024-03	0
-Abu `Ode	2024-04	0
-Abu ‘Auda	2023-10	0
-Abu ‘Auda	2023-11	0
-Abu ‘Auda	2023-12	0
-Abu ‘Auda	2024-01	0
-Abu ‘Auda	2024-02	0
-Abu ‘Auda	2024-03	0
-Abu ‘Auda	2024-04	0
-Abu ‘Ode	2023-10	0
-Abu ‘Ode	2023-11	0
-Abu ‘Ode	2023-12	0
-Abu ‘Ode	2024-01	0
-Abu ‘Ode	2024-02	0
-Abu ‘Ode	2024-03	0
-Abu ‘Ode	2024-04	0
-Abū ‘Awdah	2023-10	0
-Abū ‘Awdah	2023-11	0
-Abū ‘Awdah	2023-12	0
-Abū ‘Awdah	2024-01	0
-Abū ‘Awdah	2024-02	0
-Abū ‘Awdah	2024-03	0
-Abū ‘Awdah	2024-04	0
 Arab al Qila'i	2023-10	0
 Arab al Qila'i	2023-11	0
 Arab al Qila'i	2023-12	0
@@ -2155,34 +279,6 @@ Umm al Kilab	2024-01	0
 Umm al Kilab	2024-02	0
 Umm al Kilab	2024-03	0
 Umm al Kilab	2024-04	0
-Umm al Kilāb	2023-10	0
-Umm al Kilāb	2023-11	0
-Umm al Kilāb	2023-12	0
-Umm al Kilāb	2024-01	0
-Umm al Kilāb	2024-02	0
-Umm al Kilāb	2024-03	0
-Umm al Kilāb	2024-04	0
-Umm el-Kilab	2023-10	0
-Umm el-Kilab	2023-11	0
-Umm el-Kilab	2023-12	0
-Umm el-Kilab	2024-01	0
-Umm el-Kilab	2024-02	0
-Umm el-Kilab	2024-03	0
-Umm el-Kilab	2024-04	0
-aum alkilab	2023-10	0
-aum alkilab	2023-11	0
-aum alkilab	2023-12	0
-aum alkilab	2024-01	0
-aum alkilab	2024-02	0
-aum alkilab	2024-03	0
-aum alkilab	2024-04	0
-أُم الكِلاب	2023-10	0
-أُم الكِلاب	2023-11	0
-أُم الكِلاب	2023-12	0
-أُم الكِلاب	2024-01	0
-أُم الكِلاب	2024-02	0
-أُم الكِلاب	2024-03	0
-أُم الكِلاب	2024-04	0
 Saknat az Zarqa'	2023-10	0
 Saknat az Zarqa'	2023-11	0
 Saknat az Zarqa'	2023-12	0
@@ -2190,13 +286,6 @@ Saknat az Zarqa'	2024-01	0
 Saknat az Zarqa'	2024-02	0
 Saknat az Zarqa'	2024-03	0
 Saknat az Zarqa'	2024-04	0
-Saknat az Zarqā’	2023-10	0
-Saknat az Zarqā’	2023-11	0
-Saknat az Zarqā’	2023-12	0
-Saknat az Zarqā’	2024-01	0
-Saknat az Zarqā’	2024-02	0
-Saknat az Zarqā’	2024-03	0
-Saknat az Zarqā’	2024-04	0
 Rafiah Yam	2023-10	0
 Rafiah Yam	2023-11	0
 Rafiah Yam	2023-12	0
@@ -2204,13 +293,6 @@ Rafiah Yam	2024-01	0
 Rafiah Yam	2024-02	0
 Rafiah Yam	2024-03	0
 Rafiah Yam	2024-04	0
-Rafiaẖ Yam	2023-10	0
-Rafiaẖ Yam	2023-11	0
-Rafiaẖ Yam	2023-12	0
-Rafiaẖ Yam	2024-01	0
-Rafiaẖ Yam	2024-02	0
-Rafiaẖ Yam	2024-03	0
-Rafiaẖ Yam	2024-04	0
 Qizan an Najjar	2023-10	0
 Qizan an Najjar	2023-11	0
 Qizan an Najjar	2023-12	0
@@ -2218,41 +300,6 @@ Qizan an Najjar	2024-01	0
 Qizan an Najjar	2024-02	0
 Qizan an Najjar	2024-03	0
 Qizan an Najjar	2024-04	0
-Qazan an Najjar	2023-10	0
-Qazan an Najjar	2023-11	0
-Qazan an Najjar	2023-12	0
-Qazan an Najjar	2024-01	0
-Qazan an Najjar	2024-02	0
-Qazan an Najjar	2024-03	0
-Qazan an Najjar	2024-04	0
-Qazān an Najjār	2023-10	0
-Qazān an Najjār	2023-11	0
-Qazān an Najjār	2023-12	0
-Qazān an Najjār	2024-01	0
-Qazān an Najjār	2024-02	0
-Qazān an Najjār	2024-03	0
-Qazān an Najjār	2024-04	0
-Qīzān an Najjār	2023-10	0
-Qīzān an Najjār	2023-11	0
-Qīzān an Najjār	2023-12	0
-Qīzān an Najjār	2024-01	0
-Qīzān an Najjār	2024-02	0
-Qīzān an Najjār	2024-03	0
-Qīzān an Najjār	2024-04	0
-qyzan alnjar	2023-10	0
-qyzan alnjar	2023-11	0
-qyzan alnjar	2023-12	0
-qyzan alnjar	2024-01	0
-qyzan alnjar	2024-02	0
-qyzan alnjar	2024-03	0
-qyzan alnjar	2024-04	0
-قيزان النجار	2023-10	0
-قيزان النجار	2023-11	0
-قيزان النجار	2023-12	0
-قيزان النجار	2024-01	0
-قيزان النجار	2024-02	0
-قيزان النجار	2024-03	0
-قيزان النجار	2024-04	0
 Qa' al Qurayn	2023-10	0
 Qa' al Qurayn	2023-11	0
 Qa' al Qurayn	2023-12	0
@@ -2260,55 +307,6 @@ Qa' al Qurayn	2024-01	0
 Qa' al Qurayn	2024-02	0
 Qa' al Qurayn	2024-03	0
 Qa' al Qurayn	2024-04	0
-Qa` al Qurayn	2023-10	0
-Qa` al Qurayn	2023-11	0
-Qa` al Qurayn	2023-12	0
-Qa` al Qurayn	2024-01	0
-Qa` al Qurayn	2024-02	0
-Qa` al Qurayn	2024-03	0
-Qa` al Qurayn	2024-04	0
-Qa` al Qurein	2023-10	0
-Qa` al Qurein	2023-11	0
-Qa` al Qurein	2023-12	0
-Qa` al Qurein	2024-01	0
-Qa` al Qurein	2024-02	0
-Qa` al Qurein	2024-03	0
-Qa` al Qurein	2024-04	0
-Qa` el-Qurein	2023-10	0
-Qa` el-Qurein	2023-11	0
-Qa` el-Qurein	2023-12	0
-Qa` el-Qurein	2024-01	0
-Qa` el-Qurein	2024-02	0
-Qa` el-Qurein	2024-03	0
-Qa` el-Qurein	2024-04	0
-Qa‘ al Qurein	2023-10	0
-Qa‘ al Qurein	2023-11	0
-Qa‘ al Qurein	2023-12	0
-Qa‘ al Qurein	2024-01	0
-Qa‘ al Qurein	2024-02	0
-Qa‘ al Qurein	2024-03	0
-Qa‘ al Qurein	2024-04	0
-Qa‘ el-Qurein	2023-10	0
-Qa‘ el-Qurein	2023-11	0
-Qa‘ el-Qurein	2023-12	0
-Qa‘ el-Qurein	2024-01	0
-Qa‘ el-Qurein	2024-02	0
-Qa‘ el-Qurein	2024-03	0
-Qa‘ el-Qurein	2024-04	0
-Qā‘ al Qurayn	2023-10	0
-Qā‘ al Qurayn	2023-11	0
-Qā‘ al Qurayn	2023-12	0
-Qā‘ al Qurayn	2024-01	0
-Qā‘ al Qurayn	2024-02	0
-Qā‘ al Qurayn	2024-03	0
-Qā‘ al Qurayn	2024-04	0
-قاع القرين	2023-10	0
-قاع القرين	2023-11	0
-قاع القرين	2023-12	0
-قاع القرين	2024-01	0
-قاع القرين	2024-02	0
-قاع القرين	2024-03	0
-قاع القرين	2024-04	0
 Nahal Qatif	2023-10	0
 Nahal Qatif	2023-11	0
 Nahal Qatif	2023-12	0
@@ -2316,27 +314,6 @@ Nahal Qatif	2024-01	0
 Nahal Qatif	2024-02	0
 Nahal Qatif	2024-03	0
 Nahal Qatif	2024-04	0
-Katif	2023-10	0
-Katif	2023-11	0
-Katif	2023-12	0
-Katif	2024-01	0
-Katif	2024-02	0
-Katif	2024-03	0
-Katif	2024-04	0
-Nahal-Katif	2023-10	0
-Nahal-Katif	2023-11	0
-Nahal-Katif	2023-12	0
-Nahal-Katif	2024-01	0
-Nahal-Katif	2024-02	0
-Nahal-Katif	2024-03	0
-Nahal-Katif	2024-04	0
-Naḥal Qatif	2023-10	0
-Naḥal Qatif	2023-11	0
-Naḥal Qatif	2023-12	0
-Naḥal Qatif	2024-01	0
-Naḥal Qatif	2024-02	0
-Naḥal Qatif	2024-03	0
-Naḥal Qatif	2024-04	0
 Umm Kamil	2023-10	0
 Umm Kamil	2023-11	0
 Umm Kamil	2023-12	0
@@ -2344,41 +321,6 @@ Umm Kamil	2024-01	0
 Umm Kamil	2024-02	0
 Umm Kamil	2024-03	0
 Umm Kamil	2024-04	0
-Mukhaymil	2023-10	0
-Mukhaymil	2023-11	0
-Mukhaymil	2023-12	0
-Mukhaymil	2024-01	0
-Mukhaymil	2024-02	0
-Mukhaymil	2024-03	0
-Mukhaymil	2024-04	0
-Mukheimil	2023-10	0
-Mukheimil	2023-11	0
-Mukheimil	2023-12	0
-Mukheimil	2024-01	0
-Mukheimil	2024-02	0
-Mukheimil	2024-03	0
-Mukheimil	2024-04	0
-Umm Kamīl	2023-10	0
-Umm Kamīl	2023-11	0
-Umm Kamīl	2023-12	0
-Umm Kamīl	2024-01	0
-Umm Kamīl	2024-02	0
-Umm Kamīl	2024-03	0
-Umm Kamīl	2024-04	0
-aum kmyl	2023-10	0
-aum kmyl	2023-11	0
-aum kmyl	2023-12	0
-aum kmyl	2024-01	0
-aum kmyl	2024-02	0
-aum kmyl	2024-03	0
-aum kmyl	2024-04	0
-أُم كميل	2023-10	0
-أُم كميل	2023-11	0
-أُم كميل	2023-12	0
-أُم كميل	2024-01	0
-أُم كميل	2024-02	0
-أُم كميل	2024-03	0
-أُم كميل	2024-04	0
 An Nazlah	2023-10	0
 An Nazlah	2023-11	0
 An Nazlah	2023-12	0
@@ -2386,48 +328,6 @@ An Nazlah	2024-01	0
 An Nazlah	2024-02	0
 An Nazlah	2024-03	0
 An Nazlah	2024-04	0
-El Nesleh	2023-10	0
-El Nesleh	2023-11	0
-El Nesleh	2023-12	0
-El Nesleh	2024-01	0
-El Nesleh	2024-02	0
-El Nesleh	2024-03	0
-El Nesleh	2024-04	0
-En Nazle	2023-10	0
-En Nazle	2023-11	0
-En Nazle	2023-12	0
-En Nazle	2024-01	0
-En Nazle	2024-02	0
-En Nazle	2024-03	0
-En Nazle	2024-04	0
-En Nezle	2023-10	0
-En Nezle	2023-11	0
-En Nezle	2023-12	0
-En Nezle	2024-01	0
-En Nezle	2024-02	0
-En Nezle	2024-03	0
-En Nezle	2024-04	0
-Nazla	2023-10	0
-Nazla	2023-11	0
-Nazla	2023-12	0
-Nazla	2024-01	0
-Nazla	2024-02	0
-Nazla	2024-03	0
-Nazla	2024-04	0
-Nazlah	2023-10	0
-Nazlah	2023-11	0
-Nazlah	2023-12	0
-Nazlah	2024-01	0
-Nazlah	2024-02	0
-Nazlah	2024-03	0
-Nazlah	2024-04	0
-Nuzle	2023-10	0
-Nuzle	2023-11	0
-Nuzle	2023-12	0
-Nuzle	2024-01	0
-Nuzle	2024-02	0
-Nuzle	2024-03	0
-Nuzle	2024-04	0
 Al Mashahirah	2023-10	0
 Al Mashahirah	2023-11	0
 Al Mashahirah	2023-12	0
@@ -2435,20 +335,6 @@ Al Mashahirah	2024-01	0
 Al Mashahirah	2024-02	0
 Al Mashahirah	2024-03	0
 Al Mashahirah	2024-04	0
-Al Mashahira	2023-10	0
-Al Mashahira	2023-11	0
-Al Mashahira	2023-12	0
-Al Mashahira	2024-01	0
-Al Mashahira	2024-02	0
-Al Mashahira	2024-03	0
-Al Mashahira	2024-04	0
-Al Mashāhirah	2023-10	0
-Al Mashāhirah	2023-11	0
-Al Mashāhirah	2023-12	0
-Al Mashāhirah	2024-01	0
-Al Mashāhirah	2024-02	0
-Al Mashāhirah	2024-03	0
-Al Mashāhirah	2024-04	0
 Qa' al Kharabah	2023-10	0
 Qa' al Kharabah	2023-11	0
 Qa' al Kharabah	2023-12	0
@@ -2456,48 +342,6 @@ Qa' al Kharabah	2024-01	0
 Qa' al Kharabah	2024-02	0
 Qa' al Kharabah	2024-03	0
 Qa' al Kharabah	2024-04	0
-Qa` al Kharabah	2023-10	0
-Qa` al Kharabah	2023-11	0
-Qa` al Kharabah	2023-12	0
-Qa` al Kharabah	2024-01	0
-Qa` al Kharabah	2024-02	0
-Qa` al Kharabah	2024-03	0
-Qa` al Kharabah	2024-04	0
-Qa` el-Kharaba	2023-10	0
-Qa` el-Kharaba	2023-11	0
-Qa` el-Kharaba	2023-12	0
-Qa` el-Kharaba	2024-01	0
-Qa` el-Kharaba	2024-02	0
-Qa` el-Kharaba	2024-03	0
-Qa` el-Kharaba	2024-04	0
-Qa‘ al Kharābah	2023-10	0
-Qa‘ al Kharābah	2023-11	0
-Qa‘ al Kharābah	2023-12	0
-Qa‘ al Kharābah	2024-01	0
-Qa‘ al Kharābah	2024-02	0
-Qa‘ al Kharābah	2024-03	0
-Qa‘ al Kharābah	2024-04	0
-Qa‘ el-Kharaba	2023-10	0
-Qa‘ el-Kharaba	2023-11	0
-Qa‘ el-Kharaba	2023-12	0
-Qa‘ el-Kharaba	2024-01	0
-Qa‘ el-Kharaba	2024-02	0
-Qa‘ el-Kharaba	2024-03	0
-Qa‘ el-Kharaba	2024-04	0
-Qā‘ al Kharābah	2023-10	0
-Qā‘ al Kharābah	2023-11	0
-Qā‘ al Kharābah	2023-12	0
-Qā‘ al Kharābah	2024-01	0
-Qā‘ al Kharābah	2024-02	0
-Qā‘ al Kharābah	2024-03	0
-Qā‘ al Kharābah	2024-04	0
-قاع الخَرابَة	2023-10	0
-قاع الخَرابَة	2023-11	0
-قاع الخَرابَة	2023-12	0
-قاع الخَرابَة	2024-01	0
-قاع الخَرابَة	2024-02	0
-قاع الخَرابَة	2024-03	0
-قاع الخَرابَة	2024-04	0
 Daribat ash Shaykh Hammuda	2023-10	0
 Daribat ash Shaykh Hammuda	2023-11	0
 Daribat ash Shaykh Hammuda	2023-12	0
@@ -2512,41 +356,6 @@ Izbat Bayt Hanun	2024-01	0
 Izbat Bayt Hanun	2024-02	0
 Izbat Bayt Hanun	2024-03	0
 Izbat Bayt Hanun	2024-04	0
-`Izbat Bayt Hanun	2023-10	0
-`Izbat Bayt Hanun	2023-11	0
-`Izbat Bayt Hanun	2023-12	0
-`Izbat Bayt Hanun	2024-01	0
-`Izbat Bayt Hanun	2024-02	0
-`Izbat Bayt Hanun	2024-03	0
-`Izbat Bayt Hanun	2024-04	0
-`Izbat Beit Hanun	2023-10	0
-`Izbat Beit Hanun	2023-11	0
-`Izbat Beit Hanun	2023-12	0
-`Izbat Beit Hanun	2024-01	0
-`Izbat Beit Hanun	2024-02	0
-`Izbat Beit Hanun	2024-03	0
-`Izbat Beit Hanun	2024-04	0
-عزبة بيت حنون	2023-10	0
-عزبة بيت حنون	2023-11	0
-عزبة بيت حنون	2023-12	0
-عزبة بيت حنون	2024-01	0
-عزبة بيت حنون	2024-02	0
-عزبة بيت حنون	2024-03	0
-عزبة بيت حنون	2024-04	0
-‘Izbat Bayt Ḩanūn	2023-10	0
-‘Izbat Bayt Ḩanūn	2023-11	0
-‘Izbat Bayt Ḩanūn	2023-12	0
-‘Izbat Bayt Ḩanūn	2024-01	0
-‘Izbat Bayt Ḩanūn	2024-02	0
-‘Izbat Bayt Ḩanūn	2024-03	0
-‘Izbat Bayt Ḩanūn	2024-04	0
-‘Izbat Beit Hanun	2023-10	0
-‘Izbat Beit Hanun	2023-11	0
-‘Izbat Beit Hanun	2023-12	0
-‘Izbat Beit Hanun	2024-01	0
-‘Izbat Beit Hanun	2024-02	0
-‘Izbat Beit Hanun	2024-03	0
-‘Izbat Beit Hanun	2024-04	0
 Arab Maslakh Bayt Lahya	2023-10	0
 Arab Maslakh Bayt Lahya	2023-11	0
 Arab Maslakh Bayt Lahya	2023-12	0
@@ -2554,62 +363,6 @@ Arab Maslakh Bayt Lahya	2024-01	0
 Arab Maslakh Bayt Lahya	2024-02	0
 Arab Maslakh Bayt Lahya	2024-03	0
 Arab Maslakh Bayt Lahya	2024-04	0
-`Arab Maslakh Bayt La'iya	2023-10	0
-`Arab Maslakh Bayt La'iya	2023-11	0
-`Arab Maslakh Bayt La'iya	2023-12	0
-`Arab Maslakh Bayt La'iya	2024-01	0
-`Arab Maslakh Bayt La'iya	2024-02	0
-`Arab Maslakh Bayt La'iya	2024-03	0
-`Arab Maslakh Bayt La'iya	2024-04	0
-`Arab Maslakh Bayt Lahya	2023-10	0
-`Arab Maslakh Bayt Lahya	2023-11	0
-`Arab Maslakh Bayt Lahya	2023-12	0
-`Arab Maslakh Bayt Lahya	2024-01	0
-`Arab Maslakh Bayt Lahya	2024-02	0
-`Arab Maslakh Bayt Lahya	2024-03	0
-`Arab Maslakh Bayt Lahya	2024-04	0
-`Arab Maslakh Beit Lahya	2023-10	0
-`Arab Maslakh Beit Lahya	2023-11	0
-`Arab Maslakh Beit Lahya	2023-12	0
-`Arab Maslakh Beit Lahya	2024-01	0
-`Arab Maslakh Beit Lahya	2024-02	0
-`Arab Maslakh Beit Lahya	2024-03	0
-`Arab Maslakh Beit Lahya	2024-04	0
-عرب مسلخ بيت لائيا	2023-10	0
-عرب مسلخ بيت لائيا	2023-11	0
-عرب مسلخ بيت لائيا	2023-12	0
-عرب مسلخ بيت لائيا	2024-01	0
-عرب مسلخ بيت لائيا	2024-02	0
-عرب مسلخ بيت لائيا	2024-03	0
-عرب مسلخ بيت لائيا	2024-04	0
-عرب مسلخ بيت لاهيا	2023-10	0
-عرب مسلخ بيت لاهيا	2023-11	0
-عرب مسلخ بيت لاهيا	2023-12	0
-عرب مسلخ بيت لاهيا	2024-01	0
-عرب مسلخ بيت لاهيا	2024-02	0
-عرب مسلخ بيت لاهيا	2024-03	0
-عرب مسلخ بيت لاهيا	2024-04	0
-‘Arab Maslakh Bayt Lāhyā	2023-10	0
-‘Arab Maslakh Bayt Lāhyā	2023-11	0
-‘Arab Maslakh Bayt Lāhyā	2023-12	0
-‘Arab Maslakh Bayt Lāhyā	2024-01	0
-‘Arab Maslakh Bayt Lāhyā	2024-02	0
-‘Arab Maslakh Bayt Lāhyā	2024-03	0
-‘Arab Maslakh Bayt Lāhyā	2024-04	0
-‘Arab Maslakh Bayt Lā’iyā	2023-10	0
-‘Arab Maslakh Bayt Lā’iyā	2023-11	0
-‘Arab Maslakh Bayt Lā’iyā	2023-12	0
-‘Arab Maslakh Bayt Lā’iyā	2024-01	0
-‘Arab Maslakh Bayt Lā’iyā	2024-02	0
-‘Arab Maslakh Bayt Lā’iyā	2024-03	0
-‘Arab Maslakh Bayt Lā’iyā	2024-04	0
-‘Arab Maslakh Beit Lahya	2023-10	0
-‘Arab Maslakh Beit Lahya	2023-11	0
-‘Arab Maslakh Beit Lahya	2023-12	0
-‘Arab Maslakh Beit Lahya	2024-01	0
-‘Arab Maslakh Beit Lahya	2024-02	0
-‘Arab Maslakh Beit Lahya	2024-03	0
-‘Arab Maslakh Beit Lahya	2024-04	0
 Madinat al 'Awdah	2023-10	0
 Madinat al 'Awdah	2023-11	0
 Madinat al 'Awdah	2023-12	0
@@ -2617,41 +370,6 @@ Madinat al 'Awdah	2024-01	0
 Madinat al 'Awdah	2024-02	0
 Madinat al 'Awdah	2024-03	0
 Madinat al 'Awdah	2024-04	0
-Madinat al `Awda	2023-10	0
-Madinat al `Awda	2023-11	0
-Madinat al `Awda	2023-12	0
-Madinat al `Awda	2024-01	0
-Madinat al `Awda	2024-02	0
-Madinat al `Awda	2024-03	0
-Madinat al `Awda	2024-04	0
-Madinat al `Awdah	2023-10	0
-Madinat al `Awdah	2023-11	0
-Madinat al `Awdah	2023-12	0
-Madinat al `Awdah	2024-01	0
-Madinat al `Awdah	2024-02	0
-Madinat al `Awdah	2024-03	0
-Madinat al `Awdah	2024-04	0
-Madīnat al ‘Awda	2023-10	0
-Madīnat al ‘Awda	2023-11	0
-Madīnat al ‘Awda	2023-12	0
-Madīnat al ‘Awda	2024-01	0
-Madīnat al ‘Awda	2024-02	0
-Madīnat al ‘Awda	2024-03	0
-Madīnat al ‘Awda	2024-04	0
-Madīnat al ‘Awdah	2023-10	0
-Madīnat al ‘Awdah	2023-11	0
-Madīnat al ‘Awdah	2023-12	0
-Madīnat al ‘Awdah	2024-01	0
-Madīnat al ‘Awdah	2024-02	0
-Madīnat al ‘Awdah	2024-03	0
-Madīnat al ‘Awdah	2024-04	0
-مدينة العودة	2023-10	0
-مدينة العودة	2023-11	0
-مدينة العودة	2023-12	0
-مدينة العودة	2024-01	0
-مدينة العودة	2024-02	0
-مدينة العودة	2024-03	0
-مدينة العودة	2024-04	0
 As Surayij	2023-10	0
 As Surayij	2023-11	0
 As Surayij	2023-12	0
@@ -2659,20 +377,6 @@ As Surayij	2024-01	0
 As Surayij	2024-02	0
 As Surayij	2024-03	0
 As Surayij	2024-04	0
-alsryj	2023-10	0
-alsryj	2023-11	0
-alsryj	2023-12	0
-alsryj	2024-01	0
-alsryj	2024-02	0
-alsryj	2024-03	0
-alsryj	2024-04	0
-السريج	2023-10	0
-السريج	2023-11	0
-السريج	2023-12	0
-السريج	2024-01	0
-السريج	2024-02	0
-السريج	2024-03	0
-السريج	2024-04	0
 Az-Zawayda	2023-10	1
 Az-Zawayda	2023-11	0
 Az-Zawayda	2023-12	1
@@ -2680,13 +384,6 @@ Az-Zawayda	2024-01	0
 Az-Zawayda	2024-02	1
 Az-Zawayda	2024-03	0
 Az-Zawayda	2024-04	1
-Al Zawaida	2023-10	0
-Al Zawaida	2023-11	0
-Al Zawaida	2023-12	0
-Al Zawaida	2024-01	0
-Al Zawaida	2024-02	0
-Al Zawaida	2024-03	0
-Al Zawaida	2024-04	0
 Khuza'a	2023-10	0
 Khuza'a	2023-11	0
 Khuza'a	2023-12	0
@@ -2694,13 +391,6 @@ Khuza'a	2024-01	0
 Khuza'a	2024-02	0
 Khuza'a	2024-03	0
 Khuza'a	2024-04	0
-Khuza'aa	2023-10	0
-Khuza'aa	2023-11	0
-Khuza'aa	2023-12	0
-Khuza'aa	2024-01	0
-Khuza'aa	2024-02	0
-Khuza'aa	2024-03	0
-Khuza'aa	2024-04	0
 al Fukhari	2023-10	0
 al Fukhari	2023-11	0
 al Fukhari	2023-12	0
@@ -2708,13 +398,6 @@ al Fukhari	2024-01	0
 al Fukhari	2024-02	0
 al Fukhari	2024-03	0
 al Fukhari	2024-04	0
-Al Fukhare	2023-10	0
-Al Fukhare	2023-11	0
-Al Fukhare	2023-12	0
-Al Fukhare	2024-01	0
-Al Fukhare	2024-02	0
-Al Fukhare	2024-03	0
-Al Fukhare	2024-04	0
 Shokat as-Sufi	2023-10	1
 Shokat as-Sufi	2023-11	0
 Shokat as-Sufi	2023-12	0
@@ -2722,20 +405,6 @@ Shokat as-Sufi	2024-01	0
 Shokat as-Sufi	2024-02	0
 Shokat as-Sufi	2024-03	0
 Shokat as-Sufi	2024-04	0
-Al Shuka	2023-10	0
-Al Shuka	2023-11	0
-Al Shuka	2023-12	0
-Al Shuka	2024-01	0
-Al Shuka	2024-02	0
-Al Shuka	2024-03	0
-Al Shuka	2024-04	0
-Shoka	2023-10	1
-Shoka	2023-11	0
-Shoka	2023-12	0
-Shoka	2024-01	0
-Shoka	2024-02	0
-Shoka	2024-03	0
-Shoka	2024-04	0
 Al-Mughraqa	2023-10	1
 Al-Mughraqa	2023-11	0
 Al-Mughraqa	2023-12	0
@@ -2743,90 +412,27 @@ Al-Mughraqa	2024-01	1
 Al-Mughraqa	2024-02	0
 Al-Mughraqa	2024-03	0
 Al-Mughraqa	2024-04	0
-Bani Suhela	2023-10	0
-Bani Suhela	2023-11	0
+Bani Suhela	2023-10	3
+Bani Suhela	2023-11	5
 Bani Suhela	2023-12	0
 Bani Suhela	2024-01	0
 Bani Suhela	2024-02	0
-Bani Suhela	2024-03	0
+Bani Suhela	2024-03	2
 Bani Suhela	2024-04	0
-Bani Suhaila	2023-10	3
-Bani Suhaila	2023-11	5
-Bani Suhaila	2023-12	0
-Bani Suhaila	2024-01	0
-Bani Suhaila	2024-02	0
-Bani Suhaila	2024-03	2
-Bani Suhaila	2024-04	0
-Abasan al-Saghira	2023-10	0
-Abasan al-Saghira	2023-11	0
+Abasan al-Saghira	2023-10	1
+Abasan al-Saghira	2023-11	2
 Abasan al-Saghira	2023-12	0
 Abasan al-Saghira	2024-01	0
 Abasan al-Saghira	2024-02	0
 Abasan al-Saghira	2024-03	0
 Abasan al-Saghira	2024-04	0
-Abasan al-Saghir	2023-10	0
-Abasan al-Saghir	2023-11	0
-Abasan al-Saghir	2023-12	0
-Abasan al-Saghir	2024-01	0
-Abasan al-Saghir	2024-02	0
-Abasan al-Saghir	2024-03	0
-Abasan al-Saghir	2024-04	0
-Abasan Jadeda	2023-10	0
-Abasan Jadeda	2023-11	0
-Abasan Jadeda	2023-12	0
-Abasan Jadeda	2024-01	0
-Abasan Jadeda	2024-02	0
-Abasan Jadeda	2024-03	0
-Abasan Jadeda	2024-04	0
-Abasan al-Jadida	2023-10	1
-Abasan al-Jadida	2023-11	2
-Abasan al-Jadida	2023-12	0
-Abasan al-Jadida	2024-01	0
-Abasan al-Jadida	2024-02	0
-Abasan al-Jadida	2024-03	0
-Abasan al-Jadida	2024-04	0
-Abasan al-Sa'ir	2023-10	0
-Abasan al-Sa'ir	2023-11	0
-Abasan al-Sa'ir	2023-12	0
-Abasan al-Sa'ir	2024-01	0
-Abasan al-Sa'ir	2024-02	0
-Abasan al-Sa'ir	2024-03	0
-Abasan al-Sa'ir	2024-04	0
 Al-Zahra'	2023-10	0
-Al-Zahra'	2023-11	0
+Al-Zahra'	2023-11	1
 Al-Zahra'	2023-12	0
 Al-Zahra'	2024-01	0
 Al-Zahra'	2024-02	0
 Al-Zahra'	2024-03	0
 Al-Zahra'	2024-04	0
-Al Zahra	2023-10	0
-Al Zahra	2023-11	1
-Al Zahra	2023-12	0
-Al Zahra	2024-01	0
-Al Zahra	2024-02	0
-Al Zahra	2024-03	0
-Al Zahra	2024-04	0
-Ezahra	2023-10	0
-Ezahra	2023-11	0
-Ezahra	2023-12	0
-Ezahra	2024-01	0
-Ezahra	2024-02	0
-Ezahra	2024-03	0
-Ezahra	2024-04	0
-Madinat Az-Zahra'	2023-10	0
-Madinat Az-Zahra'	2023-11	0
-Madinat Az-Zahra'	2023-12	0
-Madinat Az-Zahra'	2024-01	0
-Madinat Az-Zahra'	2024-02	0
-Madinat Az-Zahra'	2024-03	0
-Madinat Az-Zahra'	2024-04	0
-Madinat Azzahra	2023-10	0
-Madinat Azzahra	2023-11	0
-Madinat Azzahra	2023-12	0
-Madinat Azzahra	2024-01	0
-Madinat Azzahra	2024-02	0
-Madinat Azzahra	2024-03	0
-Madinat Azzahra	2024-04	0
 Khirbat al-Adas	2023-10	0
 Khirbat al-Adas	2023-11	0
 Khirbat al-Adas	2023-12	0
@@ -2841,27 +447,6 @@ Al Qaryah as Suwaydiyah	2024-01	0
 Al Qaryah as Suwaydiyah	2024-02	0
 Al Qaryah as Suwaydiyah	2024-03	0
 Al Qaryah as Suwaydiyah	2024-04	0
-Al Qaryah as Suwaydīyah	2023-10	0
-Al Qaryah as Suwaydīyah	2023-11	0
-Al Qaryah as Suwaydīyah	2023-12	0
-Al Qaryah as Suwaydīyah	2024-01	0
-Al Qaryah as Suwaydīyah	2024-02	0
-Al Qaryah as Suwaydīyah	2024-03	0
-Al Qaryah as Suwaydīyah	2024-04	0
-alqryt alswydyt	2023-10	0
-alqryt alswydyt	2023-11	0
-alqryt alswydyt	2023-12	0
-alqryt alswydyt	2024-01	0
-alqryt alswydyt	2024-02	0
-alqryt alswydyt	2024-03	0
-alqryt alswydyt	2024-04	0
-القرية السويدية	2023-10	0
-القرية السويدية	2023-11	0
-القرية السويدية	2023-12	0
-القرية السويدية	2024-01	0
-القرية السويدية	2024-02	0
-القرية السويدية	2024-03	0
-القرية السويدية	2024-04	0
 Al Katibah	2023-10	0
 Al Katibah	2023-11	0
 Al Katibah	2023-12	0
@@ -2869,48 +454,13 @@ Al Katibah	2024-01	0
 Al Katibah	2024-02	0
 Al Katibah	2024-03	0
 Al Katibah	2024-04	0
-Al Katībah	2023-10	0
-Al Katībah	2023-11	0
-Al Katībah	2023-12	0
-Al Katībah	2024-01	0
-Al Katībah	2024-02	0
-Al Katībah	2024-03	0
-Al Katībah	2024-04	0
-alktybt	2023-10	0
-alktybt	2023-11	0
-alktybt	2023-12	0
-alktybt	2024-01	0
-alktybt	2024-02	0
-alktybt	2024-03	0
-alktybt	2024-04	0
-الكتيبة	2023-10	0
-الكتيبة	2023-11	0
-الكتيبة	2023-12	0
-الكتيبة	2024-01	0
-الكتيبة	2024-02	0
-الكتيبة	2024-03	0
-الكتيبة	2024-04	0
 Al Amal	2023-10	0
 Al Amal	2023-11	0
 Al Amal	2023-12	0
-Al Amal	2024-01	0
+Al Amal	2024-01	1
 Al Amal	2024-02	0
 Al Amal	2024-03	1
 Al Amal	2024-04	0
-alaml	2023-10	0
-alaml	2023-11	0
-alaml	2023-12	0
-alaml	2024-01	0
-alaml	2024-02	0
-alaml	2024-03	0
-alaml	2024-04	0
-الأمل	2023-10	0
-الأمل	2023-11	0
-الأمل	2023-12	0
-الأمل	2024-01	1
-الأمل	2024-02	0
-الأمل	2024-03	0
-الأمل	2024-04	0
 Atatra	2023-10	0
 Atatra	2023-11	0
 Atatra	2023-12	0
@@ -2918,34 +468,13 @@ Atatra	2024-01	0
 Atatra	2024-02	0
 Atatra	2024-03	0
 Atatra	2024-04	0
-Remal	2023-10	0
-Remal	2023-11	1
-Remal	2023-12	4
+Remal	2023-10	14
+Remal	2023-11	3
+Remal	2023-12	5
 Remal	2024-01	0
 Remal	2024-02	0
 Remal	2024-03	3
 Remal	2024-04	2
-Rimal	2023-10	14
-Rimal	2023-11	2
-Rimal	2023-12	1
-Rimal	2024-01	0
-Rimal	2024-02	0
-Rimal	2024-03	0
-Rimal	2024-04	0
-hy alrmal	2023-10	0
-hy alrmal	2023-11	0
-hy alrmal	2023-12	0
-hy alrmal	2024-01	0
-hy alrmal	2024-02	0
-hy alrmal	2024-03	0
-hy alrmal	2024-04	0
-حي الرمال	2023-10	0
-حي الرمال	2023-11	0
-حي الرمال	2023-12	0
-حي الرمال	2024-01	0
-حي الرمال	2024-02	0
-حي الرمال	2024-03	0
-حي الرمال	2024-04	0
 At Turkman	2023-10	0
 At Turkman	2023-11	0
 At Turkman	2023-12	0
@@ -2953,27 +482,6 @@ At Turkman	2024-01	0
 At Turkman	2024-02	0
 At Turkman	2024-03	0
 At Turkman	2024-04	0
-At Turkmān	2023-10	0
-At Turkmān	2023-11	0
-At Turkmān	2023-12	0
-At Turkmān	2024-01	0
-At Turkmān	2024-02	0
-At Turkmān	2024-03	0
-At Turkmān	2024-04	0
-altzkman	2023-10	0
-altzkman	2023-11	0
-altzkman	2023-12	0
-altzkman	2024-01	0
-altzkman	2024-02	0
-altzkman	2024-03	0
-altzkman	2024-04	0
-التزكمان	2023-10	0
-التزكمان	2023-11	0
-التزكمان	2023-12	0
-التزكمان	2024-01	0
-التزكمان	2024-02	0
-التزكمان	2024-03	0
-التزكمان	2024-04	0
 Az Zaytun	2023-10	0
 Az Zaytun	2023-11	0
 Az Zaytun	2023-12	0
@@ -2981,27 +489,6 @@ Az Zaytun	2024-01	0
 Az Zaytun	2024-02	0
 Az Zaytun	2024-03	0
 Az Zaytun	2024-04	0
-Az Zaytūn	2023-10	0
-Az Zaytūn	2023-11	0
-Az Zaytūn	2023-12	0
-Az Zaytūn	2024-01	0
-Az Zaytūn	2024-02	0
-Az Zaytūn	2024-03	0
-Az Zaytūn	2024-04	0
-alzytwn	2023-10	0
-alzytwn	2023-11	0
-alzytwn	2023-12	0
-alzytwn	2024-01	0
-alzytwn	2024-02	0
-alzytwn	2024-03	0
-alzytwn	2024-04	0
-الزيتون	2023-10	0
-الزيتون	2023-11	0
-الزيتون	2023-12	0
-الزيتون	2024-01	0
-الزيتون	2024-02	0
-الزيتون	2024-03	0
-الزيتون	2024-04	0
 As Sabra	2023-10	0
 As Sabra	2023-11	0
 As Sabra	2023-12	0
@@ -3009,27 +496,6 @@ As Sabra	2024-01	0
 As Sabra	2024-02	0
 As Sabra	2024-03	0
 As Sabra	2024-04	0
-Aş Şabrā	2023-10	0
-Aş Şabrā	2023-11	0
-Aş Şabrā	2023-12	0
-Aş Şabrā	2024-01	0
-Aş Şabrā	2024-02	0
-Aş Şabrā	2024-03	0
-Aş Şabrā	2024-04	0
-alsbra	2023-10	0
-alsbra	2023-11	0
-alsbra	2023-12	0
-alsbra	2024-01	0
-alsbra	2024-02	0
-alsbra	2024-03	0
-alsbra	2024-04	0
-الصبرا	2023-10	0
-الصبرا	2023-11	0
-الصبرا	2023-12	0
-الصبرا	2024-01	0
-الصبرا	2024-02	0
-الصبرا	2024-03	0
-الصبرا	2024-04	0
 Al Fawayidah	2023-10	0
 Al Fawayidah	2023-11	0
 Al Fawayidah	2023-12	0
@@ -3037,41 +503,6 @@ Al Fawayidah	2024-01	0
 Al Fawayidah	2024-02	0
 Al Fawayidah	2024-03	0
 Al Fawayidah	2024-04	0
-Al Fawaydah	2023-10	0
-Al Fawaydah	2023-11	0
-Al Fawaydah	2023-12	0
-Al Fawaydah	2024-01	0
-Al Fawaydah	2024-02	0
-Al Fawaydah	2024-03	0
-Al Fawaydah	2024-04	0
-Al Fawāydah	2023-10	0
-Al Fawāydah	2023-11	0
-Al Fawāydah	2023-12	0
-Al Fawāydah	2024-01	0
-Al Fawāydah	2024-02	0
-Al Fawāydah	2024-03	0
-Al Fawāydah	2024-04	0
-Al Fawāyidah	2023-10	0
-Al Fawāyidah	2023-11	0
-Al Fawāyidah	2023-12	0
-Al Fawāyidah	2024-01	0
-Al Fawāyidah	2024-02	0
-Al Fawāyidah	2024-03	0
-Al Fawāyidah	2024-04	0
-alfwaydt	2023-10	0
-alfwaydt	2023-11	0
-alfwaydt	2023-12	0
-alfwaydt	2024-01	0
-alfwaydt	2024-02	0
-alfwaydt	2024-03	0
-alfwaydt	2024-04	0
-الفوايدة	2023-10	0
-الفوايدة	2023-11	0
-الفوايدة	2023-12	0
-الفوايدة	2024-01	0
-الفوايدة	2024-02	0
-الفوايدة	2024-03	0
-الفوايدة	2024-04	0
 Ash Shaykh 'Ijlin	2023-10	0
 Ash Shaykh 'Ijlin	2023-11	0
 Ash Shaykh 'Ijlin	2023-12	0
@@ -3079,27 +510,6 @@ Ash Shaykh 'Ijlin	2024-01	0
 Ash Shaykh 'Ijlin	2024-02	0
 Ash Shaykh 'Ijlin	2024-03	0
 Ash Shaykh 'Ijlin	2024-04	0
-Ash Shaykh `Ijlin	2023-10	0
-Ash Shaykh `Ijlin	2023-11	0
-Ash Shaykh `Ijlin	2023-12	0
-Ash Shaykh `Ijlin	2024-01	0
-Ash Shaykh `Ijlin	2024-02	0
-Ash Shaykh `Ijlin	2024-03	0
-Ash Shaykh `Ijlin	2024-04	0
-Ash Shaykh ‘Ijlīn	2023-10	0
-Ash Shaykh ‘Ijlīn	2023-11	0
-Ash Shaykh ‘Ijlīn	2023-12	0
-Ash Shaykh ‘Ijlīn	2024-01	0
-Ash Shaykh ‘Ijlīn	2024-02	0
-Ash Shaykh ‘Ijlīn	2024-03	0
-Ash Shaykh ‘Ijlīn	2024-04	0
-الشيخ عجلين	2023-10	0
-الشيخ عجلين	2023-11	0
-الشيخ عجلين	2023-12	0
-الشيخ عجلين	2024-01	0
-الشيخ عجلين	2024-02	0
-الشيخ عجلين	2024-03	0
-الشيخ عجلين	2024-04	0
 Midan Filastin	2023-10	0
 Midan Filastin	2023-11	0
 Midan Filastin	2023-12	0
@@ -3107,27 +517,6 @@ Midan Filastin	2024-01	0
 Midan Filastin	2024-02	0
 Midan Filastin	2024-03	0
 Midan Filastin	2024-04	0
-Mīdān Filasţīn	2023-10	0
-Mīdān Filasţīn	2023-11	0
-Mīdān Filasţīn	2023-12	0
-Mīdān Filasţīn	2024-01	0
-Mīdān Filasţīn	2024-02	0
-Mīdān Filasţīn	2024-03	0
-Mīdān Filasţīn	2024-04	0
-mydan flstyn	2023-10	0
-mydan flstyn	2023-11	0
-mydan flstyn	2023-12	0
-mydan flstyn	2024-01	0
-mydan flstyn	2024-02	0
-mydan flstyn	2024-03	0
-mydan flstyn	2024-04	0
-ميدان فلسطين	2023-10	0
-ميدان فلسطين	2023-11	0
-ميدان فلسطين	2023-12	0
-ميدان فلسطين	2024-01	0
-ميدان فلسطين	2024-02	0
-ميدان فلسطين	2024-03	0
-ميدان فلسطين	2024-04	0
 Ar Rimal al Janubi	2023-10	0
 Ar Rimal al Janubi	2023-11	0
 Ar Rimal al Janubi	2023-12	0
@@ -3135,27 +524,6 @@ Ar Rimal al Janubi	2024-01	0
 Ar Rimal al Janubi	2024-02	0
 Ar Rimal al Janubi	2024-03	0
 Ar Rimal al Janubi	2024-04	0
-Ar Rimāl al Janūbī	2023-10	0
-Ar Rimāl al Janūbī	2023-11	0
-Ar Rimāl al Janūbī	2023-12	0
-Ar Rimāl al Janūbī	2024-01	0
-Ar Rimāl al Janūbī	2024-02	0
-Ar Rimāl al Janūbī	2024-03	0
-Ar Rimāl al Janūbī	2024-04	0
-alrmal aljnwby	2023-10	0
-alrmal aljnwby	2023-11	0
-alrmal aljnwby	2023-12	0
-alrmal aljnwby	2024-01	0
-alrmal aljnwby	2024-02	0
-alrmal aljnwby	2024-03	0
-alrmal aljnwby	2024-04	0
-الرمال الجنوبي	2023-10	0
-الرمال الجنوبي	2023-11	0
-الرمال الجنوبي	2023-12	0
-الرمال الجنوبي	2024-01	0
-الرمال الجنوبي	2024-02	0
-الرمال الجنوبي	2024-03	0
-الرمال الجنوبي	2024-04	0
 Ar Rimal ash Shamali	2023-10	0
 Ar Rimal ash Shamali	2023-11	0
 Ar Rimal ash Shamali	2023-12	0
@@ -3163,27 +531,6 @@ Ar Rimal ash Shamali	2024-01	0
 Ar Rimal ash Shamali	2024-02	0
 Ar Rimal ash Shamali	2024-03	0
 Ar Rimal ash Shamali	2024-04	0
-Ar Rimāl ash Shamālī	2023-10	0
-Ar Rimāl ash Shamālī	2023-11	0
-Ar Rimāl ash Shamālī	2023-12	0
-Ar Rimāl ash Shamālī	2024-01	0
-Ar Rimāl ash Shamālī	2024-02	0
-Ar Rimāl ash Shamālī	2024-03	0
-Ar Rimāl ash Shamālī	2024-04	0
-alrmal alshmaly	2023-10	0
-alrmal alshmaly	2023-11	0
-alrmal alshmaly	2023-12	0
-alrmal alshmaly	2024-01	0
-alrmal alshmaly	2024-02	0
-alrmal alshmaly	2024-03	0
-alrmal alshmaly	2024-04	0
-الرمال الشمالي	2023-10	0
-الرمال الشمالي	2023-11	0
-الرمال الشمالي	2023-12	0
-الرمال الشمالي	2024-01	0
-الرمال الشمالي	2024-02	0
-الرمال الشمالي	2024-03	0
-الرمال الشمالي	2024-04	0
 An Nasr ash Sharqi	2023-10	0
 An Nasr ash Sharqi	2023-11	0
 An Nasr ash Sharqi	2023-12	0
@@ -3191,27 +538,6 @@ An Nasr ash Sharqi	2024-01	0
 An Nasr ash Sharqi	2024-02	0
 An Nasr ash Sharqi	2024-03	0
 An Nasr ash Sharqi	2024-04	0
-An Naşr ash Sharqī	2023-10	0
-An Naşr ash Sharqī	2023-11	0
-An Naşr ash Sharqī	2023-12	0
-An Naşr ash Sharqī	2024-01	0
-An Naşr ash Sharqī	2024-02	0
-An Naşr ash Sharqī	2024-03	0
-An Naşr ash Sharqī	2024-04	0
-alnsr alshrqy	2023-10	0
-alnsr alshrqy	2023-11	0
-alnsr alshrqy	2023-12	0
-alnsr alshrqy	2024-01	0
-alnsr alshrqy	2024-02	0
-alnsr alshrqy	2024-03	0
-alnsr alshrqy	2024-04	0
-النصر الشرقي	2023-10	0
-النصر الشرقي	2023-11	0
-النصر الشرقي	2023-12	0
-النصر الشرقي	2024-01	0
-النصر الشرقي	2024-02	0
-النصر الشرقي	2024-03	0
-النصر الشرقي	2024-04	0
 An Nasr al Gharbi	2023-10	0
 An Nasr al Gharbi	2023-11	0
 An Nasr al Gharbi	2023-12	0
@@ -3219,27 +545,6 @@ An Nasr al Gharbi	2024-01	0
 An Nasr al Gharbi	2024-02	0
 An Nasr al Gharbi	2024-03	0
 An Nasr al Gharbi	2024-04	0
-An Naşr al Gharbī	2023-10	0
-An Naşr al Gharbī	2023-11	0
-An Naşr al Gharbī	2023-12	0
-An Naşr al Gharbī	2024-01	0
-An Naşr al Gharbī	2024-02	0
-An Naşr al Gharbī	2024-03	0
-An Naşr al Gharbī	2024-04	0
-alnsr alghrby	2023-10	0
-alnsr alghrby	2023-11	0
-alnsr alghrby	2023-12	0
-alnsr alghrby	2024-01	0
-alnsr alghrby	2024-02	0
-alnsr alghrby	2024-03	0
-alnsr alghrby	2024-04	0
-النصر الغربي	2023-10	0
-النصر الغربي	2023-11	0
-النصر الغربي	2023-12	0
-النصر الغربي	2024-01	0
-النصر الغربي	2024-02	0
-النصر الغربي	2024-03	0
-النصر الغربي	2024-04	0
 Ash Shaykh Radwan	2023-10	0
 Ash Shaykh Radwan	2023-11	0
 Ash Shaykh Radwan	2023-12	0
@@ -3247,27 +552,6 @@ Ash Shaykh Radwan	2024-01	0
 Ash Shaykh Radwan	2024-02	0
 Ash Shaykh Radwan	2024-03	0
 Ash Shaykh Radwan	2024-04	0
-Ash Shaykh Raḑwān	2023-10	0
-Ash Shaykh Raḑwān	2023-11	0
-Ash Shaykh Raḑwān	2023-12	0
-Ash Shaykh Raḑwān	2024-01	0
-Ash Shaykh Raḑwān	2024-02	0
-Ash Shaykh Raḑwān	2024-03	0
-Ash Shaykh Raḑwān	2024-04	0
-alshykh rdwan	2023-10	0
-alshykh rdwan	2023-11	0
-alshykh rdwan	2023-12	0
-alshykh rdwan	2024-01	0
-alshykh rdwan	2024-02	0
-alshykh rdwan	2024-03	0
-alshykh rdwan	2024-04	0
-الشيخ رضوان	2023-10	0
-الشيخ رضوان	2023-11	0
-الشيخ رضوان	2023-12	0
-الشيخ رضوان	2024-01	0
-الشيخ رضوان	2024-02	0
-الشيخ رضوان	2024-03	0
-الشيخ رضوان	2024-04	0
 Ad Daraj	2023-10	0
 Ad Daraj	2023-11	0
 Ad Daraj	2023-12	0
@@ -3275,20 +559,6 @@ Ad Daraj	2024-01	0
 Ad Daraj	2024-02	0
 Ad Daraj	2024-03	0
 Ad Daraj	2024-04	0
-aldrj	2023-10	0
-aldrj	2023-11	0
-aldrj	2023-12	0
-aldrj	2024-01	0
-aldrj	2024-02	0
-aldrj	2024-03	0
-aldrj	2024-04	0
-الدرج	2023-10	0
-الدرج	2023-11	0
-الدرج	2023-12	0
-الدرج	2024-01	0
-الدرج	2024-02	0
-الدرج	2024-03	0
-الدرج	2024-04	0
 At Tuffah	2023-10	0
 At Tuffah	2023-11	0
 At Tuffah	2023-12	0
@@ -3296,27 +566,6 @@ At Tuffah	2024-01	0
 At Tuffah	2024-02	0
 At Tuffah	2024-03	0
 At Tuffah	2024-04	0
-At Tuffāḩ	2023-10	0
-At Tuffāḩ	2023-11	0
-At Tuffāḩ	2023-12	0
-At Tuffāḩ	2024-01	0
-At Tuffāḩ	2024-02	0
-At Tuffāḩ	2024-03	0
-At Tuffāḩ	2024-04	0
-altfah	2023-10	0
-altfah	2023-11	0
-altfah	2023-12	0
-altfah	2024-01	0
-altfah	2024-02	0
-altfah	2024-03	0
-altfah	2024-04	0
-التفاح	2023-10	0
-التفاح	2023-11	0
-التفاح	2023-12	0
-التفاح	2024-01	0
-التفاح	2024-02	0
-التفاح	2024-03	0
-التفاح	2024-04	0
 Al Jadidah	2023-10	0
 Al Jadidah	2023-11	0
 Al Jadidah	2023-12	0
@@ -3324,27 +573,6 @@ Al Jadidah	2024-01	0
 Al Jadidah	2024-02	0
 Al Jadidah	2024-03	0
 Al Jadidah	2024-04	0
-Al Jadīdah	2023-10	0
-Al Jadīdah	2023-11	0
-Al Jadīdah	2023-12	0
-Al Jadīdah	2024-01	0
-Al Jadīdah	2024-02	0
-Al Jadīdah	2024-03	0
-Al Jadīdah	2024-04	0
-aljdydt	2023-10	0
-aljdydt	2023-11	0
-aljdydt	2023-12	0
-aljdydt	2024-01	0
-aljdydt	2024-02	0
-aljdydt	2024-03	0
-aljdydt	2024-04	0
-الجديدة	2023-10	0
-الجديدة	2023-11	0
-الجديدة	2023-12	0
-الجديدة	2024-01	0
-الجديدة	2024-02	0
-الجديدة	2024-03	0
-الجديدة	2024-04	0
 Maydan ash Shuja'iyah	2023-10	0
 Maydan ash Shuja'iyah	2023-11	0
 Maydan ash Shuja'iyah	2023-12	0
@@ -3352,41 +580,6 @@ Maydan ash Shuja'iyah	2024-01	0
 Maydan ash Shuja'iyah	2024-02	0
 Maydan ash Shuja'iyah	2024-03	0
 Maydan ash Shuja'iyah	2024-04	0
-Maydan ash Shuja`iyah	2023-10	0
-Maydan ash Shuja`iyah	2023-11	0
-Maydan ash Shuja`iyah	2023-12	0
-Maydan ash Shuja`iyah	2024-01	0
-Maydan ash Shuja`iyah	2024-02	0
-Maydan ash Shuja`iyah	2024-03	0
-Maydan ash Shuja`iyah	2024-04	0
-Maydān ash Shujā‘īyah	2023-10	0
-Maydān ash Shujā‘īyah	2023-11	0
-Maydān ash Shujā‘īyah	2023-12	0
-Maydān ash Shujā‘īyah	2024-01	0
-Maydān ash Shujā‘īyah	2024-02	0
-Maydān ash Shujā‘īyah	2024-03	0
-Maydān ash Shujā‘īyah	2024-04	0
-Midan ash Shuja`iyah	2023-10	0
-Midan ash Shuja`iyah	2023-11	0
-Midan ash Shuja`iyah	2023-12	0
-Midan ash Shuja`iyah	2024-01	0
-Midan ash Shuja`iyah	2024-02	0
-Midan ash Shuja`iyah	2024-03	0
-Midan ash Shuja`iyah	2024-04	0
-Mīdān ash Shujā‘īyah	2023-10	0
-Mīdān ash Shujā‘īyah	2023-11	0
-Mīdān ash Shujā‘īyah	2023-12	0
-Mīdān ash Shujā‘īyah	2024-01	0
-Mīdān ash Shujā‘īyah	2024-02	0
-Mīdān ash Shujā‘īyah	2024-03	0
-Mīdān ash Shujā‘īyah	2024-04	0
-ميدان الشجاعية	2023-10	0
-ميدان الشجاعية	2023-11	0
-ميدان الشجاعية	2023-12	0
-ميدان الشجاعية	2024-01	0
-ميدان الشجاعية	2024-02	0
-ميدان الشجاعية	2024-03	0
-ميدان الشجاعية	2024-04	0
 Al Madinah al Qadimah	2023-10	0
 Al Madinah al Qadimah	2023-11	0
 Al Madinah al Qadimah	2023-12	0
@@ -3394,27 +587,6 @@ Al Madinah al Qadimah	2024-01	0
 Al Madinah al Qadimah	2024-02	0
 Al Madinah al Qadimah	2024-03	0
 Al Madinah al Qadimah	2024-04	0
-Al Madīnah al Qadīmah	2023-10	0
-Al Madīnah al Qadīmah	2023-11	0
-Al Madīnah al Qadīmah	2023-12	0
-Al Madīnah al Qadīmah	2024-01	0
-Al Madīnah al Qadīmah	2024-02	0
-Al Madīnah al Qadīmah	2024-03	0
-Al Madīnah al Qadīmah	2024-04	0
-almdynt alqdymt	2023-10	0
-almdynt alqdymt	2023-11	0
-almdynt alqdymt	2023-12	0
-almdynt alqdymt	2024-01	0
-almdynt alqdymt	2024-02	0
-almdynt alqdymt	2024-03	0
-almdynt alqdymt	2024-04	0
-المدينة القديمة	2023-10	0
-المدينة القديمة	2023-11	0
-المدينة القديمة	2023-12	0
-المدينة القديمة	2024-01	0
-المدينة القديمة	2024-02	0
-المدينة القديمة	2024-03	0
-المدينة القديمة	2024-04	0
 Al Mu'tarid	2023-10	0
 Al Mu'tarid	2023-11	0
 Al Mu'tarid	2023-12	0
@@ -3422,27 +594,6 @@ Al Mu'tarid	2024-01	0
 Al Mu'tarid	2024-02	0
 Al Mu'tarid	2024-03	0
 Al Mu'tarid	2024-04	0
-Al Mu`tarid	2023-10	0
-Al Mu`tarid	2023-11	0
-Al Mu`tarid	2023-12	0
-Al Mu`tarid	2024-01	0
-Al Mu`tarid	2024-02	0
-Al Mu`tarid	2024-03	0
-Al Mu`tarid	2024-04	0
-Al Mu‘tariḑ	2023-10	0
-Al Mu‘tariḑ	2023-11	0
-Al Mu‘tariḑ	2023-12	0
-Al Mu‘tariḑ	2024-01	0
-Al Mu‘tariḑ	2024-02	0
-Al Mu‘tariḑ	2024-03	0
-Al Mu‘tariḑ	2024-04	0
-المعترض	2023-10	0
-المعترض	2023-11	0
-المعترض	2023-12	0
-المعترض	2024-01	0
-المعترض	2024-02	0
-المعترض	2024-03	0
-المعترض	2024-04	0
 Al Mintaqah as Sina'iyah	2023-10	0
 Al Mintaqah as Sina'iyah	2023-11	0
 Al Mintaqah as Sina'iyah	2023-12	0
@@ -3450,27 +601,6 @@ Al Mintaqah as Sina'iyah	2024-01	0
 Al Mintaqah as Sina'iyah	2024-02	0
 Al Mintaqah as Sina'iyah	2024-03	0
 Al Mintaqah as Sina'iyah	2024-04	0
-Al Mintaqah as Sina`iyah	2023-10	0
-Al Mintaqah as Sina`iyah	2023-11	0
-Al Mintaqah as Sina`iyah	2023-12	0
-Al Mintaqah as Sina`iyah	2024-01	0
-Al Mintaqah as Sina`iyah	2024-02	0
-Al Mintaqah as Sina`iyah	2024-03	0
-Al Mintaqah as Sina`iyah	2024-04	0
-Al Minţaqah aş Şinā‘īyah	2023-10	0
-Al Minţaqah aş Şinā‘īyah	2023-11	0
-Al Minţaqah aş Şinā‘īyah	2023-12	0
-Al Minţaqah aş Şinā‘īyah	2024-01	0
-Al Minţaqah aş Şinā‘īyah	2024-02	0
-Al Minţaqah aş Şinā‘īyah	2024-03	0
-Al Minţaqah aş Şinā‘īyah	2024-04	0
-المنطقة الصناعية	2023-10	0
-المنطقة الصناعية	2023-11	0
-المنطقة الصناعية	2023-12	0
-المنطقة الصناعية	2024-01	0
-المنطقة الصناعية	2024-02	0
-المنطقة الصناعية	2024-03	0
-المنطقة الصناعية	2024-04	0
 Ar Rasm	2023-10	0
 Ar Rasm	2023-11	0
 Ar Rasm	2023-12	0
@@ -3478,20 +608,6 @@ Ar Rasm	2024-01	0
 Ar Rasm	2024-02	0
 Ar Rasm	2024-03	0
 Ar Rasm	2024-04	0
-alrsm	2023-10	0
-alrsm	2023-11	0
-alrsm	2023-12	0
-alrsm	2024-01	0
-alrsm	2024-02	0
-alrsm	2024-03	0
-alrsm	2024-04	0
-الرسم	2023-10	0
-الرسم	2023-11	0
-الرسم	2023-12	0
-الرسم	2024-01	0
-الرسم	2024-02	0
-الرسم	2024-03	0
-الرسم	2024-04	0
 Al Mattayin	2023-10	0
 Al Mattayin	2023-11	0
 Al Mattayin	2023-12	0
@@ -3499,27 +615,6 @@ Al Mattayin	2024-01	0
 Al Mattayin	2024-02	0
 Al Mattayin	2024-03	0
 Al Mattayin	2024-04	0
-Al Maţţāyin	2023-10	0
-Al Maţţāyin	2023-11	0
-Al Maţţāyin	2023-12	0
-Al Maţţāyin	2024-01	0
-Al Maţţāyin	2024-02	0
-Al Maţţāyin	2024-03	0
-Al Maţţāyin	2024-04	0
-almtayn	2023-10	0
-almtayn	2023-11	0
-almtayn	2023-12	0
-almtayn	2024-01	0
-almtayn	2024-02	0
-almtayn	2024-03	0
-almtayn	2024-04	0
-المطاين	2023-10	0
-المطاين	2023-11	0
-المطاين	2023-12	0
-المطاين	2024-01	0
-المطاين	2024-02	0
-المطاين	2024-03	0
-المطاين	2024-04	0
 Al Harah ash Sharqiyah	2023-10	0
 Al Harah ash Sharqiyah	2023-11	0
 Al Harah ash Sharqiyah	2023-12	0
@@ -3527,27 +622,6 @@ Al Harah ash Sharqiyah	2024-01	0
 Al Harah ash Sharqiyah	2024-02	0
 Al Harah ash Sharqiyah	2024-03	0
 Al Harah ash Sharqiyah	2024-04	0
-Al Ḩārah ash Sharqīyah	2023-10	0
-Al Ḩārah ash Sharqīyah	2023-11	0
-Al Ḩārah ash Sharqīyah	2023-12	0
-Al Ḩārah ash Sharqīyah	2024-01	0
-Al Ḩārah ash Sharqīyah	2024-02	0
-Al Ḩārah ash Sharqīyah	2024-03	0
-Al Ḩārah ash Sharqīyah	2024-04	0
-alhart alshrqyt	2023-10	0
-alhart alshrqyt	2023-11	0
-alhart alshrqyt	2023-12	0
-alhart alshrqyt	2024-01	0
-alhart alshrqyt	2024-02	0
-alhart alshrqyt	2024-03	0
-alhart alshrqyt	2024-04	0
-الحارة الشرقية	2023-10	0
-الحارة الشرقية	2023-11	0
-الحارة الشرقية	2023-12	0
-الحارة الشرقية	2024-01	0
-الحارة الشرقية	2024-02	0
-الحارة الشرقية	2024-03	0
-الحارة الشرقية	2024-04	0
 Abu Asad	2023-10	0
 Abu Asad	2023-11	0
 Abu Asad	2023-12	0
@@ -3555,27 +629,6 @@ Abu Asad	2024-01	0
 Abu Asad	2024-02	0
 Abu Asad	2024-03	0
 Abu Asad	2024-04	0
-Abū Asad	2023-10	0
-Abū Asad	2023-11	0
-Abū Asad	2023-12	0
-Abū Asad	2024-01	0
-Abū Asad	2024-02	0
-Abū Asad	2024-03	0
-Abū Asad	2024-04	0
-abw asd	2023-10	0
-abw asd	2023-11	0
-abw asd	2023-12	0
-abw asd	2024-01	0
-abw asd	2024-02	0
-abw asd	2024-03	0
-abw asd	2024-04	0
-أبو أسد	2023-10	0
-أبو أسد	2023-11	0
-أبو أسد	2023-12	0
-أبو أسد	2024-01	0
-أبو أسد	2024-02	0
-أبو أسد	2024-03	0
-أبو أسد	2024-04	0
 Abu Sittah	2023-10	1
 Abu Sittah	2023-11	0
 Abu Sittah	2023-12	4
@@ -3583,27 +636,6 @@ Abu Sittah	2024-01	0
 Abu Sittah	2024-02	0
 Abu Sittah	2024-03	0
 Abu Sittah	2024-04	4
-Abū Sittah	2023-10	0
-Abū Sittah	2023-11	0
-Abū Sittah	2023-12	0
-Abū Sittah	2024-01	0
-Abū Sittah	2024-02	0
-Abū Sittah	2024-03	0
-Abū Sittah	2024-04	0
-abw stt	2023-10	0
-abw stt	2023-11	0
-abw stt	2023-12	0
-abw stt	2024-01	0
-abw stt	2024-02	0
-abw stt	2024-03	0
-abw stt	2024-04	0
-أبو ستة	2023-10	0
-أبو ستة	2023-11	0
-أبو ستة	2023-12	0
-أبو ستة	2024-01	0
-أبو ستة	2024-02	0
-أبو ستة	2024-03	0
-أبو ستة	2024-04	0
 Hamadah	2023-10	0
 Hamadah	2023-11	0
 Hamadah	2023-12	0
@@ -3611,27 +643,6 @@ Hamadah	2024-01	0
 Hamadah	2024-02	1
 Hamadah	2024-03	0
 Hamadah	2024-04	0
-hmadt	2023-10	0
-hmadt	2023-11	0
-hmadt	2023-12	0
-hmadt	2024-01	0
-hmadt	2024-02	0
-hmadt	2024-03	0
-hmadt	2024-04	0
-حمادة	2023-10	0
-حمادة	2023-11	0
-حمادة	2023-12	0
-حمادة	2024-01	0
-حمادة	2024-02	0
-حمادة	2024-03	0
-حمادة	2024-04	0
-Ḩamādah	2023-10	0
-Ḩamādah	2023-11	0
-Ḩamādah	2023-12	0
-Ḩamādah	2024-01	0
-Ḩamādah	2024-02	0
-Ḩamādah	2024-03	0
-Ḩamādah	2024-04	0
 Tunis	2023-10	14
 Tunis	2023-11	41
 Tunis	2023-12	6
@@ -3639,27 +650,6 @@ Tunis	2024-01	5
 Tunis	2024-02	2
 Tunis	2024-03	2
 Tunis	2024-04	19
-Tūnis	2023-10	0
-Tūnis	2023-11	0
-Tūnis	2023-12	0
-Tūnis	2024-01	0
-Tūnis	2024-02	0
-Tūnis	2024-03	0
-Tūnis	2024-04	0
-twns	2023-10	0
-twns	2023-11	0
-twns	2023-12	0
-twns	2024-01	0
-twns	2024-02	0
-twns	2024-03	0
-twns	2024-04	0
-تونس	2023-10	0
-تونس	2023-11	0
-تونس	2023-12	0
-تونس	2024-01	0
-تونس	2024-02	0
-تونس	2024-03	0
-تونس	2024-04	0
 Al Masihi	2023-10	0
 Al Masihi	2023-11	0
 Al Masihi	2023-12	0
@@ -3667,27 +657,6 @@ Al Masihi	2024-01	0
 Al Masihi	2024-02	0
 Al Masihi	2024-03	0
 Al Masihi	2024-04	0
-Al Masīḩī	2023-10	0
-Al Masīḩī	2023-11	0
-Al Masīḩī	2023-12	0
-Al Masīḩī	2024-01	0
-Al Masīḩī	2024-02	0
-Al Masīḩī	2024-03	0
-Al Masīḩī	2024-04	0
-almsyhy	2023-10	0
-almsyhy	2023-11	0
-almsyhy	2023-12	0
-almsyhy	2024-01	0
-almsyhy	2024-02	0
-almsyhy	2024-03	0
-almsyhy	2024-04	0
-المسيحي	2023-10	0
-المسيحي	2023-11	0
-المسيحي	2023-12	0
-المسيحي	2024-01	0
-المسيحي	2024-02	0
-المسيحي	2024-03	0
-المسيحي	2024-04	0
 Al 'Amrah	2023-10	0
 Al 'Amrah	2023-11	0
 Al 'Amrah	2023-12	0
@@ -3695,27 +664,6 @@ Al 'Amrah	2024-01	0
 Al 'Amrah	2024-02	0
 Al 'Amrah	2024-03	0
 Al 'Amrah	2024-04	0
-Al `Amrah	2023-10	0
-Al `Amrah	2023-11	0
-Al `Amrah	2023-12	0
-Al `Amrah	2024-01	0
-Al `Amrah	2024-02	0
-Al `Amrah	2024-03	0
-Al `Amrah	2024-04	0
-Al ‘Amrah	2023-10	0
-Al ‘Amrah	2023-11	0
-Al ‘Amrah	2023-12	0
-Al ‘Amrah	2024-01	0
-Al ‘Amrah	2024-02	0
-Al ‘Amrah	2024-03	0
-Al ‘Amrah	2024-04	0
-العمرة	2023-10	0
-العمرة	2023-11	0
-العمرة	2023-12	0
-العمرة	2024-01	0
-العمرة	2024-02	0
-العمرة	2024-03	0
-العمرة	2024-04	0
 Al Brawk	2023-10	0
 Al Brawk	2023-11	0
 Al Brawk	2023-12	0
@@ -3723,20 +671,6 @@ Al Brawk	2024-01	0
 Al Brawk	2024-02	0
 Al Brawk	2024-03	0
 Al Brawk	2024-04	0
-albrwk	2023-10	0
-albrwk	2023-11	0
-albrwk	2023-12	0
-albrwk	2024-01	0
-albrwk	2024-02	0
-albrwk	2024-03	0
-albrwk	2024-04	0
-البروك	2023-10	0
-البروك	2023-11	0
-البروك	2023-12	0
-البروك	2024-01	0
-البروك	2024-02	0
-البروك	2024-03	0
-البروك	2024-04	0
 Abu Fayyad	2023-10	0
 Abu Fayyad	2023-11	0
 Abu Fayyad	2023-12	0
@@ -3744,27 +678,6 @@ Abu Fayyad	2024-01	0
 Abu Fayyad	2024-02	0
 Abu Fayyad	2024-03	0
 Abu Fayyad	2024-04	0
-Abū Fayyāḑ	2023-10	0
-Abū Fayyāḑ	2023-11	0
-Abū Fayyāḑ	2023-12	0
-Abū Fayyāḑ	2024-01	0
-Abū Fayyāḑ	2024-02	0
-Abū Fayyāḑ	2024-03	0
-Abū Fayyāḑ	2024-04	0
-abw fyad	2023-10	0
-abw fyad	2023-11	0
-abw fyad	2023-12	0
-abw fyad	2024-01	0
-abw fyad	2024-02	0
-abw fyad	2024-03	0
-abw fyad	2024-04	0
-أبو فياض	2023-10	0
-أبو فياض	2023-11	0
-أبو فياض	2023-12	0
-أبو فياض	2024-01	0
-أبو فياض	2024-02	0
-أبو فياض	2024-03	0
-أبو فياض	2024-04	0
 Umran	2023-10	0
 Umran	2023-11	0
 Umran	2023-12	0
@@ -3772,27 +685,6 @@ Umran	2024-01	0
 Umran	2024-02	0
 Umran	2024-03	0
 Umran	2024-04	0
-`Umran	2023-10	0
-`Umran	2023-11	0
-`Umran	2023-12	0
-`Umran	2024-01	0
-`Umran	2024-02	0
-`Umran	2024-03	0
-`Umran	2024-04	0
-عمران	2023-10	0
-عمران	2023-11	0
-عمران	2023-12	0
-عمران	2024-01	0
-عمران	2024-02	0
-عمران	2024-03	0
-عمران	2024-04	0
-‘Umrān	2023-10	0
-‘Umrān	2023-11	0
-‘Umrān	2023-12	0
-‘Umrān	2024-01	0
-‘Umrān	2024-02	0
-‘Umrān	2024-03	0
-‘Umrān	2024-04	0
 Al Qata'ah	2023-10	0
 Al Qata'ah	2023-11	0
 Al Qata'ah	2023-12	0
@@ -3800,27 +692,6 @@ Al Qata'ah	2024-01	0
 Al Qata'ah	2024-02	0
 Al Qata'ah	2024-03	0
 Al Qata'ah	2024-04	0
-Al Qata`ah	2023-10	0
-Al Qata`ah	2023-11	0
-Al Qata`ah	2023-12	0
-Al Qata`ah	2024-01	0
-Al Qata`ah	2024-02	0
-Al Qata`ah	2024-03	0
-Al Qata`ah	2024-04	0
-Al Qaţa‘ah	2023-10	0
-Al Qaţa‘ah	2023-11	0
-Al Qaţa‘ah	2023-12	0
-Al Qaţa‘ah	2024-01	0
-Al Qaţa‘ah	2024-02	0
-Al Qaţa‘ah	2024-03	0
-Al Qaţa‘ah	2024-04	0
-القطعة	2023-10	0
-القطعة	2023-11	0
-القطعة	2023-12	0
-القطعة	2024-01	0
-القطعة	2024-02	0
-القطعة	2024-03	0
-القطعة	2024-04	0
 Al Hakar	2023-10	0
 Al Hakar	2023-11	0
 Al Hakar	2023-12	0
@@ -3828,27 +699,6 @@ Al Hakar	2024-01	0
 Al Hakar	2024-02	0
 Al Hakar	2024-03	0
 Al Hakar	2024-04	0
-Al Ḩakar	2023-10	0
-Al Ḩakar	2023-11	0
-Al Ḩakar	2023-12	0
-Al Ḩakar	2024-01	0
-Al Ḩakar	2024-02	0
-Al Ḩakar	2024-03	0
-Al Ḩakar	2024-04	0
-alhkr	2023-10	0
-alhkr	2023-11	0
-alhkr	2023-12	0
-alhkr	2024-01	0
-alhkr	2024-02	0
-alhkr	2024-03	0
-alhkr	2024-04	0
-الحكر	2023-10	0
-الحكر	2023-11	0
-الحكر	2023-12	0
-الحكر	2024-01	0
-الحكر	2024-02	0
-الحكر	2024-03	0
-الحكر	2024-04	0
 Al Hadabah	2023-10	0
 Al Hadabah	2023-11	0
 Al Hadabah	2023-12	0
@@ -3856,27 +706,6 @@ Al Hadabah	2024-01	0
 Al Hadabah	2024-02	0
 Al Hadabah	2024-03	0
 Al Hadabah	2024-04	0
-Al Ḩadabah	2023-10	0
-Al Ḩadabah	2023-11	0
-Al Ḩadabah	2023-12	0
-Al Ḩadabah	2024-01	0
-Al Ḩadabah	2024-02	0
-Al Ḩadabah	2024-03	0
-Al Ḩadabah	2024-04	0
-alhdbt	2023-10	0
-alhdbt	2023-11	0
-alhdbt	2023-12	0
-alhdbt	2024-01	0
-alhdbt	2024-02	0
-alhdbt	2024-03	0
-alhdbt	2024-04	0
-الحدبة	2023-10	0
-الحدبة	2023-11	0
-الحدبة	2023-12	0
-الحدبة	2024-01	0
-الحدبة	2024-02	0
-الحدبة	2024-03	0
-الحدبة	2024-04	0
 Al Farsh	2023-10	0
 Al Farsh	2023-11	0
 Al Farsh	2023-12	0
@@ -3884,20 +713,6 @@ Al Farsh	2024-01	0
 Al Farsh	2024-02	0
 Al Farsh	2024-03	0
 Al Farsh	2024-04	0
-alfrsh	2023-10	0
-alfrsh	2023-11	0
-alfrsh	2023-12	0
-alfrsh	2024-01	0
-alfrsh	2024-02	0
-alfrsh	2024-03	0
-alfrsh	2024-04	0
-الفرش	2023-10	0
-الفرش	2023-11	0
-الفرش	2023-12	0
-الفرش	2024-01	0
-الفرش	2024-02	0
-الفرش	2024-03	0
-الفرش	2024-04	0
 Umm al 'Azban	2023-10	0
 Umm al 'Azban	2023-11	0
 Umm al 'Azban	2023-12	0
@@ -3905,27 +720,6 @@ Umm al 'Azban	2024-01	0
 Umm al 'Azban	2024-02	0
 Umm al 'Azban	2024-03	0
 Umm al 'Azban	2024-04	0
-Umm al `Azban	2023-10	0
-Umm al `Azban	2023-11	0
-Umm al `Azban	2023-12	0
-Umm al `Azban	2024-01	0
-Umm al `Azban	2024-02	0
-Umm al `Azban	2024-03	0
-Umm al `Azban	2024-04	0
-Umm al ‘Azbān	2023-10	0
-Umm al ‘Azbān	2023-11	0
-Umm al ‘Azbān	2023-12	0
-Umm al ‘Azbān	2024-01	0
-Umm al ‘Azbān	2024-02	0
-Umm al ‘Azbān	2024-03	0
-Umm al ‘Azbān	2024-04	0
-أم العزبان	2023-10	0
-أم العزبان	2023-11	0
-أم العزبان	2023-12	0
-أم العزبان	2024-01	0
-أم العزبان	2024-02	0
-أم العزبان	2024-03	0
-أم العزبان	2024-04	0
 Abu 'Arif	2023-10	0
 Abu 'Arif	2023-11	0
 Abu 'Arif	2023-12	0
@@ -3933,27 +727,6 @@ Abu 'Arif	2024-01	0
 Abu 'Arif	2024-02	0
 Abu 'Arif	2024-03	0
 Abu 'Arif	2024-04	0
-Abu `Arif	2023-10	0
-Abu `Arif	2023-11	0
-Abu `Arif	2023-12	0
-Abu `Arif	2024-01	0
-Abu `Arif	2024-02	0
-Abu `Arif	2024-03	0
-Abu `Arif	2024-04	0
-Abū ‘Arīf	2023-10	0
-Abū ‘Arīf	2023-11	0
-Abū ‘Arīf	2023-12	0
-Abū ‘Arīf	2024-01	0
-Abū ‘Arīf	2024-02	0
-Abū ‘Arīf	2024-03	0
-Abū ‘Arīf	2024-04	0
-أبو عريف	2023-10	0
-أبو عريف	2023-11	0
-أبو عريف	2023-12	0
-أبو عريف	2024-01	0
-أبو عريف	2024-02	0
-أبو عريف	2024-03	0
-أبو عريف	2024-04	0
 Bisharah	2023-10	0
 Bisharah	2023-11	0
 Bisharah	2023-12	0
@@ -3961,27 +734,6 @@ Bisharah	2024-01	0
 Bisharah	2024-02	0
 Bisharah	2024-03	0
 Bisharah	2024-04	0
-Bishārah	2023-10	0
-Bishārah	2023-11	0
-Bishārah	2023-12	0
-Bishārah	2024-01	0
-Bishārah	2024-02	0
-Bishārah	2024-03	0
-Bishārah	2024-04	0
-bshart	2023-10	0
-bshart	2023-11	0
-bshart	2023-12	0
-bshart	2024-01	0
-bshart	2024-02	0
-bshart	2024-03	0
-bshart	2024-04	0
-بشارة	2023-10	0
-بشارة	2023-11	0
-بشارة	2023-12	0
-بشارة	2024-01	0
-بشارة	2024-02	0
-بشارة	2024-03	0
-بشارة	2024-04	0
 Qa'ud	2023-10	0
 Qa'ud	2023-11	0
 Qa'ud	2023-12	0
@@ -3989,27 +741,6 @@ Qa'ud	2024-01	0
 Qa'ud	2024-02	0
 Qa'ud	2024-03	0
 Qa'ud	2024-04	0
-Qa`ud	2023-10	0
-Qa`ud	2023-11	0
-Qa`ud	2023-12	0
-Qa`ud	2024-01	0
-Qa`ud	2024-02	0
-Qa`ud	2024-03	0
-Qa`ud	2024-04	0
-Qā‘ūd	2023-10	0
-Qā‘ūd	2023-11	0
-Qā‘ūd	2023-12	0
-Qā‘ūd	2024-01	0
-Qā‘ūd	2024-02	0
-Qā‘ūd	2024-03	0
-Qā‘ūd	2024-04	0
-قاعود	2023-10	0
-قاعود	2023-11	0
-قاعود	2023-12	0
-قاعود	2024-01	0
-قاعود	2024-02	0
-قاعود	2024-03	0
-قاعود	2024-04	0
 Al Baldah al Qadimah	2023-10	0
 Al Baldah al Qadimah	2023-11	0
 Al Baldah al Qadimah	2023-12	0
@@ -4017,55 +748,13 @@ Al Baldah al Qadimah	2024-01	0
 Al Baldah al Qadimah	2024-02	0
 Al Baldah al Qadimah	2024-03	0
 Al Baldah al Qadimah	2024-04	0
-Al Baldah al Qadīmah	2023-10	0
-Al Baldah al Qadīmah	2023-11	0
-Al Baldah al Qadīmah	2023-12	0
-Al Baldah al Qadīmah	2024-01	0
-Al Baldah al Qadīmah	2024-02	0
-Al Baldah al Qadīmah	2024-03	0
-Al Baldah al Qadīmah	2024-04	0
-albldt alqdymt	2023-10	0
-albldt alqdymt	2023-11	0
-albldt alqdymt	2023-12	0
-albldt alqdymt	2024-01	0
-albldt alqdymt	2024-02	0
-albldt alqdymt	2024-03	0
-albldt alqdymt	2024-04	0
-البلدة القديمة	2023-10	0
-البلدة القديمة	2023-11	0
-البلدة القديمة	2023-12	0
-البلدة القديمة	2024-01	0
-البلدة القديمة	2024-02	0
-البلدة القديمة	2024-03	0
-البلدة القديمة	2024-04	0
 Al Mu'askar	2023-10	0
 Al Mu'askar	2023-11	0
 Al Mu'askar	2023-12	0
-Al Mu'askar	2024-01	0
+Al Mu'askar	2024-01	1
 Al Mu'askar	2024-02	0
 Al Mu'askar	2024-03	0
 Al Mu'askar	2024-04	0
-Al Mu`askar	2023-10	0
-Al Mu`askar	2023-11	0
-Al Mu`askar	2023-12	0
-Al Mu`askar	2024-01	0
-Al Mu`askar	2024-02	0
-Al Mu`askar	2024-03	0
-Al Mu`askar	2024-04	0
-Al Mu‘askar	2023-10	0
-Al Mu‘askar	2023-11	0
-Al Mu‘askar	2023-12	0
-Al Mu‘askar	2024-01	0
-Al Mu‘askar	2024-02	0
-Al Mu‘askar	2024-03	0
-Al Mu‘askar	2024-04	0
-المعسكر	2023-10	0
-المعسكر	2023-11	0
-المعسكر	2023-12	0
-المعسكر	2024-01	1
-المعسكر	2024-02	0
-المعسكر	2024-03	0
-المعسكر	2024-04	0
 Ash Shaykh Nasir	2023-10	0
 Ash Shaykh Nasir	2023-11	0
 Ash Shaykh Nasir	2023-12	0
@@ -4073,55 +762,13 @@ Ash Shaykh Nasir	2024-01	0
 Ash Shaykh Nasir	2024-02	0
 Ash Shaykh Nasir	2024-03	0
 Ash Shaykh Nasir	2024-04	0
-Ash Shaykh Nāşir	2023-10	0
-Ash Shaykh Nāşir	2023-11	0
-Ash Shaykh Nāşir	2023-12	0
-Ash Shaykh Nāşir	2024-01	0
-Ash Shaykh Nāşir	2024-02	0
-Ash Shaykh Nāşir	2024-03	0
-Ash Shaykh Nāşir	2024-04	0
-alshykh nasr	2023-10	0
-alshykh nasr	2023-11	0
-alshykh nasr	2023-12	0
-alshykh nasr	2024-01	0
-alshykh nasr	2024-02	0
-alshykh nasr	2024-03	0
-alshykh nasr	2024-04	0
-الشيخ ناصر	2023-10	0
-الشيخ ناصر	2023-11	0
-الشيخ ناصر	2023-12	0
-الشيخ ناصر	2024-01	0
-الشيخ ناصر	2024-02	0
-الشيخ ناصر	2024-03	0
-الشيخ ناصر	2024-04	0
 Markaz al Madinah	2023-10	0
 Markaz al Madinah	2023-11	0
 Markaz al Madinah	2023-12	0
-Markaz al Madinah	2024-01	0
+Markaz al Madinah	2024-01	1
 Markaz al Madinah	2024-02	0
 Markaz al Madinah	2024-03	0
 Markaz al Madinah	2024-04	0
-Markaz al Madīnah	2023-10	0
-Markaz al Madīnah	2023-11	0
-Markaz al Madīnah	2023-12	0
-Markaz al Madīnah	2024-01	0
-Markaz al Madīnah	2024-02	0
-Markaz al Madīnah	2024-03	0
-Markaz al Madīnah	2024-04	0
-mrkz almdynt	2023-10	0
-mrkz almdynt	2023-11	0
-mrkz almdynt	2023-12	0
-mrkz almdynt	2024-01	0
-mrkz almdynt	2024-02	0
-mrkz almdynt	2024-03	0
-mrkz almdynt	2024-04	0
-مركز المدينة	2023-10	0
-مركز المدينة	2023-11	0
-مركز المدينة	2023-12	0
-مركز المدينة	2024-01	1
-مركز المدينة	2024-02	0
-مركز المدينة	2024-03	0
-مركز المدينة	2024-04	0
 Batn as Samin	2023-10	0
 Batn as Samin	2023-11	0
 Batn as Samin	2023-12	0
@@ -4129,27 +776,6 @@ Batn as Samin	2024-01	0
 Batn as Samin	2024-02	0
 Batn as Samin	2024-03	0
 Batn as Samin	2024-04	0
-Baţn as Samīn	2023-10	0
-Baţn as Samīn	2023-11	0
-Baţn as Samīn	2023-12	0
-Baţn as Samīn	2024-01	0
-Baţn as Samīn	2024-02	0
-Baţn as Samīn	2024-03	0
-Baţn as Samīn	2024-04	0
-btn alsmyn	2023-10	0
-btn alsmyn	2023-11	0
-btn alsmyn	2023-12	0
-btn alsmyn	2024-01	0
-btn alsmyn	2024-02	0
-btn alsmyn	2024-03	0
-btn alsmyn	2024-04	0
-بطن السمين	2023-10	0
-بطن السمين	2023-11	0
-بطن السمين	2023-12	0
-بطن السمين	2024-01	0
-بطن السمين	2024-02	0
-بطن السمين	2024-03	0
-بطن السمين	2024-04	0
 Jurat al Lut	2023-10	0
 Jurat al Lut	2023-11	0
 Jurat al Lut	2023-12	0
@@ -4157,27 +783,6 @@ Jurat al Lut	2024-01	0
 Jurat al Lut	2024-02	0
 Jurat al Lut	2024-03	0
 Jurat al Lut	2024-04	0
-Jūrat al Lūt	2023-10	0
-Jūrat al Lūt	2023-11	0
-Jūrat al Lūt	2023-12	0
-Jūrat al Lūt	2024-01	0
-Jūrat al Lūt	2024-02	0
-Jūrat al Lūt	2024-03	0
-Jūrat al Lūt	2024-04	0
-jwrt allwt	2023-10	0
-jwrt allwt	2023-11	0
-jwrt allwt	2023-12	0
-jwrt allwt	2024-01	0
-jwrt allwt	2024-02	0
-jwrt allwt	2024-03	0
-jwrt allwt	2024-04	0
-جورة اللوت	2023-10	0
-جورة اللوت	2023-11	0
-جورة اللوت	2023-12	0
-جورة اللوت	2024-01	0
-جورة اللوت	2024-02	0
-جورة اللوت	2024-03	0
-جورة اللوت	2024-04	0
 Ma'n	2023-10	0
 Ma'n	2023-11	0
 Ma'n	2023-12	0
@@ -4185,27 +790,6 @@ Ma'n	2024-01	0
 Ma'n	2024-02	0
 Ma'n	2024-03	0
 Ma'n	2024-04	0
-Ma`n	2023-10	0
-Ma`n	2023-11	0
-Ma`n	2023-12	0
-Ma`n	2024-01	0
-Ma`n	2024-02	0
-Ma`n	2024-03	0
-Ma`n	2024-04	0
-Ma‘n	2023-10	0
-Ma‘n	2023-11	0
-Ma‘n	2023-12	0
-Ma‘n	2024-01	0
-Ma‘n	2024-02	0
-Ma‘n	2024-03	0
-Ma‘n	2024-04	0
-معن	2023-10	0
-معن	2023-11	0
-معن	2023-12	0
-معن	2024-01	0
-معن	2024-02	0
-معن	2024-03	0
-معن	2024-04	0
 Qa' al Qarin	2023-10	0
 Qa' al Qarin	2023-11	0
 Qa' al Qarin	2023-12	0
@@ -4213,20 +797,6 @@ Qa' al Qarin	2024-01	0
 Qa' al Qarin	2024-02	0
 Qa' al Qarin	2024-03	0
 Qa' al Qarin	2024-04	0
-Qa` al Qarin	2023-10	0
-Qa` al Qarin	2023-11	0
-Qa` al Qarin	2023-12	0
-Qa` al Qarin	2024-01	0
-Qa` al Qarin	2024-02	0
-Qa` al Qarin	2024-03	0
-Qa` al Qarin	2024-04	0
-Qā‘ al Qarīn	2023-10	0
-Qā‘ al Qarīn	2023-11	0
-Qā‘ al Qarīn	2023-12	0
-Qā‘ al Qarīn	2024-01	0
-Qā‘ al Qarīn	2024-02	0
-Qā‘ al Qarīn	2024-03	0
-Qā‘ al Qarīn	2024-04	0
 Al Manarah	2023-10	0
 Al Manarah	2023-11	0
 Al Manarah	2023-12	0
@@ -4234,27 +804,6 @@ Al Manarah	2024-01	0
 Al Manarah	2024-02	0
 Al Manarah	2024-03	0
 Al Manarah	2024-04	0
-Al Manārah	2023-10	0
-Al Manārah	2023-11	0
-Al Manārah	2023-12	0
-Al Manārah	2024-01	0
-Al Manārah	2024-02	0
-Al Manārah	2024-03	0
-Al Manārah	2024-04	0
-almnart	2023-10	0
-almnart	2023-11	0
-almnart	2023-12	0
-almnart	2024-01	0
-almnart	2024-02	0
-almnart	2024-03	0
-almnart	2024-04	0
-المنارة	2023-10	0
-المنارة	2023-11	0
-المنارة	2023-12	0
-المنارة	2024-01	0
-المنارة	2024-02	0
-المنارة	2024-03	0
-المنارة	2024-04	0
 Qizan	2023-10	1
 Qizan	2023-11	0
 Qizan	2023-12	0
@@ -4262,27 +811,6 @@ Qizan	2024-01	0
 Qizan	2024-02	0
 Qizan	2024-03	0
 Qizan	2024-04	0
-Qīzān	2023-10	0
-Qīzān	2023-11	0
-Qīzān	2023-12	0
-Qīzān	2024-01	0
-Qīzān	2024-02	0
-Qīzān	2024-03	0
-Qīzān	2024-04	0
-qyzan	2023-10	0
-qyzan	2023-11	0
-qyzan	2023-12	0
-qyzan	2024-01	0
-qyzan	2024-02	0
-qyzan	2024-03	0
-qyzan	2024-04	0
-قيزان	2023-10	0
-قيزان	2023-11	0
-قيزان	2023-12	0
-قيزان	2024-01	0
-قيزان	2024-02	0
-قيزان	2024-03	0
-قيزان	2024-04	0
 Abu Rashwan	2023-10	0
 Abu Rashwan	2023-11	0
 Abu Rashwan	2023-12	0
@@ -4290,27 +818,6 @@ Abu Rashwan	2024-01	0
 Abu Rashwan	2024-02	0
 Abu Rashwan	2024-03	0
 Abu Rashwan	2024-04	0
-Abū Rashwān	2023-10	0
-Abū Rashwān	2023-11	0
-Abū Rashwān	2023-12	0
-Abū Rashwān	2024-01	0
-Abū Rashwān	2024-02	0
-Abū Rashwān	2024-03	0
-Abū Rashwān	2024-04	0
-abw rshwan	2023-10	0
-abw rshwan	2023-11	0
-abw rshwan	2023-12	0
-abw rshwan	2024-01	0
-abw rshwan	2024-02	0
-abw rshwan	2024-03	0
-abw rshwan	2024-04	0
-أبو رشوان	2023-10	0
-أبو رشوان	2023-11	0
-أبو رشوان	2023-12	0
-أبو رشوان	2024-01	0
-أبو رشوان	2024-02	0
-أبو رشوان	2024-03	0
-أبو رشوان	2024-04	0
 Hijazi	2023-10	2
 Hijazi	2023-11	2
 Hijazi	2023-12	1
@@ -4318,27 +825,6 @@ Hijazi	2024-01	1
 Hijazi	2024-02	0
 Hijazi	2024-03	0
 Hijazi	2024-04	2
-hjazy	2023-10	0
-hjazy	2023-11	0
-hjazy	2023-12	0
-hjazy	2024-01	0
-hjazy	2024-02	0
-hjazy	2024-03	0
-hjazy	2024-04	0
-حجازي	2023-10	0
-حجازي	2023-11	0
-حجازي	2023-12	0
-حجازي	2024-01	0
-حجازي	2024-02	0
-حجازي	2024-03	0
-حجازي	2024-04	0
-Ḩijāzī	2023-10	0
-Ḩijāzī	2023-11	0
-Ḩijāzī	2023-12	0
-Ḩijāzī	2024-01	0
-Ḩijāzī	2024-02	0
-Ḩijāzī	2024-03	0
-Ḩijāzī	2024-04	0
 Tall az Zu'rub	2023-10	0
 Tall az Zu'rub	2023-11	0
 Tall az Zu'rub	2023-12	0
@@ -4346,27 +832,6 @@ Tall az Zu'rub	2024-01	0
 Tall az Zu'rub	2024-02	0
 Tall az Zu'rub	2024-03	0
 Tall az Zu'rub	2024-04	0
-Tall az Zu`rub	2023-10	0
-Tall az Zu`rub	2023-11	0
-Tall az Zu`rub	2023-12	0
-Tall az Zu`rub	2024-01	0
-Tall az Zu`rub	2024-02	0
-Tall az Zu`rub	2024-03	0
-Tall az Zu`rub	2024-04	0
-Tall az Zu‘rub	2023-10	0
-Tall az Zu‘rub	2023-11	0
-Tall az Zu‘rub	2023-12	0
-Tall az Zu‘rub	2024-01	0
-Tall az Zu‘rub	2024-02	0
-Tall az Zu‘rub	2024-03	0
-Tall az Zu‘rub	2024-04	0
-تل الزعرب	2023-10	0
-تل الزعرب	2023-11	0
-تل الزعرب	2023-12	0
-تل الزعرب	2024-01	0
-تل الزعرب	2024-02	0
-تل الزعرب	2024-03	0
-تل الزعرب	2024-04	0
 Hawd Ji	2023-10	0
 Hawd Ji	2023-11	0
 Hawd Ji	2023-12	0
@@ -4374,69 +839,13 @@ Hawd Ji	2024-01	0
 Hawd Ji	2024-02	0
 Hawd Ji	2024-03	0
 Hawd Ji	2024-04	0
-Block J	2023-10	0
-Block J	2023-11	0
-Block J	2023-12	0
-Block J	2024-01	0
-Block J	2024-02	0
-Block J	2024-03	0
-Block J	2024-04	0
-hwd jy	2023-10	0
-hwd jy	2023-11	0
-hwd jy	2023-12	0
-hwd jy	2024-01	0
-hwd jy	2024-02	0
-hwd jy	2024-03	0
-hwd jy	2024-04	0
-حوض جي	2023-10	0
-حوض جي	2023-11	0
-حوض جي	2023-12	0
-حوض جي	2024-01	0
-حوض جي	2024-02	0
-حوض جي	2024-03	0
-حوض جي	2024-04	0
-Ḩawḑ Jī	2023-10	0
-Ḩawḑ Jī	2023-11	0
-Ḩawḑ Jī	2023-12	0
-Ḩawḑ Jī	2024-01	0
-Ḩawḑ Jī	2024-02	0
-Ḩawḑ Jī	2024-03	0
-Ḩawḑ Jī	2024-04	0
-Hawd Waw	2023-10	0
-Hawd Waw	2023-11	0
-Hawd Waw	2023-12	0
+Hawd Waw	2023-10	1
+Hawd Waw	2023-11	1
+Hawd Waw	2023-12	2
 Hawd Waw	2024-01	0
-Hawd Waw	2024-02	0
+Hawd Waw	2024-02	1
 Hawd Waw	2024-03	0
-Hawd Waw	2024-04	0
-Block O	2023-10	1
-Block O	2023-11	1
-Block O	2023-12	2
-Block O	2024-01	0
-Block O	2024-02	1
-Block O	2024-03	0
-Block O	2024-04	1
-hwd waw	2023-10	0
-hwd waw	2023-11	0
-hwd waw	2023-12	0
-hwd waw	2024-01	0
-hwd waw	2024-02	0
-hwd waw	2024-03	0
-hwd waw	2024-04	0
-حوض واو	2023-10	0
-حوض واو	2023-11	0
-حوض واو	2023-12	0
-حوض واو	2024-01	0
-حوض واو	2024-02	0
-حوض واو	2024-03	0
-حوض واو	2024-04	0
-Ḩawḑ Wāw	2023-10	0
-Ḩawḑ Wāw	2023-11	0
-Ḩawḑ Wāw	2023-12	0
-Ḩawḑ Wāw	2024-01	0
-Ḩawḑ Wāw	2024-02	0
-Ḩawḑ Wāw	2024-03	0
-Ḩawḑ Wāw	2024-04	0
+Hawd Waw	2024-04	1
 Yibna	2023-10	0
 Yibna	2023-11	0
 Yibna	2023-12	0
@@ -4444,27 +853,6 @@ Yibna	2024-01	0
 Yibna	2024-02	0
 Yibna	2024-03	0
 Yibna	2024-04	0
-Yibnā	2023-10	0
-Yibnā	2023-11	0
-Yibnā	2023-12	0
-Yibnā	2024-01	0
-Yibnā	2024-02	0
-Yibnā	2024-03	0
-Yibnā	2024-04	0
-ybna	2023-10	0
-ybna	2023-11	0
-ybna	2023-12	0
-ybna	2024-01	0
-ybna	2024-02	0
-ybna	2024-03	0
-ybna	2024-04	0
-يبنا	2023-10	0
-يبنا	2023-11	0
-يبنا	2023-12	0
-يبنا	2024-01	0
-يبنا	2024-02	0
-يبنا	2024-03	0
-يبنا	2024-04	0
 Qishtah	2023-10	0
 Qishtah	2023-11	0
 Qishtah	2023-12	0
@@ -4472,27 +860,6 @@ Qishtah	2024-01	0
 Qishtah	2024-02	0
 Qishtah	2024-03	0
 Qishtah	2024-04	0
-Qishţah	2023-10	0
-Qishţah	2023-11	0
-Qishţah	2023-12	0
-Qishţah	2024-01	0
-Qishţah	2024-02	0
-Qishţah	2024-03	0
-Qishţah	2024-04	0
-qshtt	2023-10	0
-qshtt	2023-11	0
-qshtt	2023-12	0
-qshtt	2024-01	0
-qshtt	2024-02	0
-qshtt	2024-03	0
-qshtt	2024-04	0
-قشطة	2023-10	0
-قشطة	2023-11	0
-قشطة	2023-12	0
-قشطة	2024-01	0
-قشطة	2024-02	0
-قشطة	2024-03	0
-قشطة	2024-04	0
 Al Barazil	2023-10	0
 Al Barazil	2023-11	0
 Al Barazil	2023-12	0
@@ -4500,27 +867,6 @@ Al Barazil	2024-01	0
 Al Barazil	2024-02	0
 Al Barazil	2024-03	0
 Al Barazil	2024-04	0
-Al Barāzīl	2023-10	0
-Al Barāzīl	2023-11	0
-Al Barāzīl	2023-12	0
-Al Barāzīl	2024-01	0
-Al Barāzīl	2024-02	0
-Al Barāzīl	2024-03	0
-Al Barāzīl	2024-04	0
-albrazyl	2023-10	0
-albrazyl	2023-11	0
-albrazyl	2023-12	0
-albrazyl	2024-01	0
-albrazyl	2024-02	0
-albrazyl	2024-03	0
-albrazyl	2024-04	0
-البرازيل	2023-10	0
-البرازيل	2023-11	0
-البرازيل	2023-12	0
-البرازيل	2024-01	0
-البرازيل	2024-02	0
-البرازيل	2024-03	0
-البرازيل	2024-04	0
 As Salam	2023-10	0
 As Salam	2023-11	0
 As Salam	2023-12	0
@@ -4528,27 +874,6 @@ As Salam	2024-01	0
 As Salam	2024-02	0
 As Salam	2024-03	0
 As Salam	2024-04	0
-As Salām	2023-10	0
-As Salām	2023-11	0
-As Salām	2023-12	0
-As Salām	2024-01	0
-As Salām	2024-02	0
-As Salām	2024-03	0
-As Salām	2024-04	0
-alslam	2023-10	0
-alslam	2023-11	0
-alslam	2023-12	0
-alslam	2024-01	0
-alslam	2024-02	0
-alslam	2024-03	0
-alslam	2024-04	0
-السلام	2023-10	0
-السلام	2023-11	0
-السلام	2023-12	0
-السلام	2024-01	0
-السلام	2024-02	0
-السلام	2024-03	0
-السلام	2024-04	0
 Al-Azhar University	2023-10	2
 Al-Azhar University	2023-11	1
 Al-Azhar University	2023-12	2
@@ -4570,13 +895,6 @@ Bi'r Zawalan	2024-01	0
 Bi'r Zawalan	2024-02	0
 Bi'r Zawalan	2024-03	0
 Bi'r Zawalan	2024-04	0
-Bi’r Zawalān	2023-10	0
-Bi’r Zawalān	2023-11	0
-Bi’r Zawalān	2023-12	0
-Bi’r Zawalān	2024-01	0
-Bi’r Zawalān	2024-02	0
-Bi’r Zawalān	2024-03	0
-Bi’r Zawalān	2024-04	0
 Bi'r Abu Thabit	2023-10	0
 Bi'r Abu Thabit	2023-11	0
 Bi'r Abu Thabit	2023-12	0
@@ -4584,1242 +902,24 @@ Bi'r Abu Thabit	2024-01	0
 Bi'r Abu Thabit	2024-02	0
 Bi'r Abu Thabit	2024-03	0
 Bi'r Abu Thabit	2024-04	0
-Bir Abu Thabet	2023-10	0
-Bir Abu Thabet	2023-11	0
-Bir Abu Thabet	2023-12	0
-Bir Abu Thabet	2024-01	0
-Bir Abu Thabet	2024-02	0
-Bir Abu Thabet	2024-03	0
-Bir Abu Thabet	2024-04	0
-Bi’r Abū Thābit	2023-10	0
-Bi’r Abū Thābit	2023-11	0
-Bi’r Abū Thābit	2023-12	0
-Bi’r Abū Thābit	2024-01	0
-Bi’r Abū Thābit	2024-02	0
-Bi’r Abū Thābit	2024-03	0
-Bi’r Abū Thābit	2024-04	0
 Gaza	2023-10	4208
-Gaza	2023-11	4551
+Gaza	2023-11	4552
 Gaza	2023-12	2892
 Gaza	2024-01	1966
-Gaza	2024-02	1895
+Gaza	2024-02	1896
 Gaza	2024-03	2206
 Gaza	2024-04	1002
-Banda de Gaza	2023-10	0
-Banda de Gaza	2023-11	0
-Banda de Gaza	2023-12	0
-Banda de Gaza	2024-01	0
-Banda de Gaza	2024-02	0
-Banda de Gaza	2024-03	0
-Banda de Gaza	2024-04	0
-Bande de Gaza	2023-10	0
-Bande de Gaza	2023-11	0
-Bande de Gaza	2023-12	0
-Bande de Gaza	2024-01	0
-Bande de Gaza	2024-02	0
-Bande de Gaza	2024-03	0
-Bande de Gaza	2024-04	0
-Bandenn Gaza	2023-10	0
-Bandenn Gaza	2023-11	0
-Bandenn Gaza	2023-12	0
-Bandenn Gaza	2024-01	0
-Bandenn Gaza	2024-02	0
-Bandenn Gaza	2024-03	0
-Bandenn Gaza	2024-04	0
-Ciifol Gaaza	2023-10	0
-Ciifol Gaaza	2023-11	0
-Ciifol Gaaza	2023-12	0
-Ciifol Gaaza	2024-01	0
-Ciifol Gaaza	2024-02	0
-Ciifol Gaaza	2024-03	0
-Ciifol Gaaza	2024-04	0
-Dai Gaza	2023-10	0
-Dai Gaza	2023-11	0
-Dai Gaza	2023-12	0
-Dai Gaza	2024-01	0
-Dai Gaza	2024-02	0
-Dai Gaza	2024-03	0
-Dai Gaza	2024-04	0
-Dải Gaza	2023-10	0
-Dải Gaza	2023-11	0
-Dải Gaza	2023-12	0
-Dải Gaza	2024-01	0
-Dải Gaza	2024-02	0
-Dải Gaza	2024-03	0
-Dải Gaza	2024-04	0
-Faixa de Gaza	2023-10	0
-Faixa de Gaza	2023-11	0
-Faixa de Gaza	2023-12	0
-Faixa de Gaza	2024-01	0
-Faixa de Gaza	2024-02	0
-Faixa de Gaza	2024-03	0
-Faixa de Gaza	2024-04	0
-Fasia Gaza	2023-10	0
-Fasia Gaza	2023-11	0
-Fasia Gaza	2023-12	0
-Fasia Gaza	2024-01	0
-Fasia Gaza	2024-02	0
-Fasia Gaza	2024-03	0
-Fasia Gaza	2024-04	0
-Franja de Gaza	2023-10	0
-Franja de Gaza	2023-11	0
-Franja de Gaza	2023-12	0
-Franja de Gaza	2024-01	0
-Franja de Gaza	2024-02	0
-Franja de Gaza	2024-03	0
-Franja de Gaza	2024-04	0
-Franxa de Gaza	2023-10	0
-Franxa de Gaza	2023-11	0
-Franxa de Gaza	2023-12	0
-Franxa de Gaza	2024-01	0
-Franxa de Gaza	2024-02	0
-Franxa de Gaza	2024-03	0
-Franxa de Gaza	2024-04	0
-Fâșia Gaza	2023-10	0
-Fâșia Gaza	2023-11	0
-Fâșia Gaza	2023-12	0
-Fâșia Gaza	2024-01	0
-Fâșia Gaza	2024-02	0
-Fâșia Gaza	2024-03	0
-Fâșia Gaza	2024-04	0
-Galue Gaza	2023-10	0
-Galue Gaza	2023-11	0
-Galue Gaza	2023-12	0
-Galue Gaza	2024-01	0
-Galue Gaza	2024-02	0
-Galue Gaza	2024-03	0
-Galue Gaza	2024-04	0
-Galuë Gaza	2023-10	0
-Galuë Gaza	2023-11	0
-Galuë Gaza	2023-12	0
-Galuë Gaza	2024-01	0
-Galuë Gaza	2024-02	0
-Galuë Gaza	2024-03	0
-Galuë Gaza	2024-04	0
-Gasageirin	2023-10	0
-Gasageirin	2023-11	0
-Gasageirin	2023-12	0
-Gasageirin	2024-01	0
-Gasageirin	2024-02	0
-Gasageirin	2024-03	0
-Gasageirin	2024-04	0
-Gasastroendin	2023-10	0
-Gasastroendin	2023-11	0
-Gasastroendin	2023-12	0
-Gasastroendin	2024-01	0
-Gasastroendin	2024-02	0
-Gasastroendin	2024-03	0
-Gasastroendin	2024-04	0
-Gasastrook	2023-10	0
-Gasastrook	2023-11	0
-Gasastrook	2023-12	0
-Gasastrook	2024-01	0
-Gasastrook	2024-02	0
-Gasastrook	2024-03	0
-Gasastrook	2024-04	0
-Gasaströndin	2023-10	0
-Gasaströndin	2023-11	0
-Gasaströndin	2023-12	0
-Gasaströndin	2024-01	0
-Gasaströndin	2024-02	0
-Gasaströndin	2024-03	0
-Gasaströndin	2024-04	0
-Gaza Sektoro	2023-10	0
-Gaza Sektoro	2023-11	0
-Gaza Sektoro	2023-12	0
-Gaza Sektoro	2024-01	0
-Gaza Sektoro	2024-02	0
-Gaza Sektoro	2024-03	0
-Gaza Sektoro	2024-04	0
-Gaza Strip	2023-10	692
-Gaza Strip	2023-11	598
-Gaza Strip	2023-12	284
-Gaza Strip	2024-01	164
-Gaza Strip	2024-02	178
-Gaza Strip	2024-03	150
-Gaza Strip	2024-04	65
-Gaza sektor	2023-10	0
-Gaza sektor	2023-11	0
-Gaza sektor	2023-12	0
-Gaza sektor	2024-01	0
-Gaza sektor	2024-02	0
-Gaza sektor	2024-03	0
-Gaza sektor	2024-04	0
-Gaza tsoon	2023-10	0
-Gaza tsoon	2023-11	0
-Gaza tsoon	2023-12	0
-Gaza tsoon	2024-01	0
-Gaza tsoon	2024-02	0
-Gaza tsoon	2024-03	0
-Gaza tsoon	2024-04	0
-Gazaejy Sektor	2023-10	0
-Gazaejy Sektor	2023-11	0
-Gazaejy Sektor	2023-12	0
-Gazaejy Sektor	2024-01	0
-Gazaejy Sektor	2024-02	0
-Gazaejy Sektor	2024-03	0
-Gazaejy Sektor	2024-04	0
-Gazai oevezet	2023-10	0
-Gazai oevezet	2023-11	0
-Gazai oevezet	2023-12	0
-Gazai oevezet	2024-01	0
-Gazai oevezet	2024-02	0
-Gazai oevezet	2024-03	0
-Gazai oevezet	2024-04	0
-Gazako zerrenda	2023-10	0
-Gazako zerrenda	2023-11	0
-Gazako zerrenda	2023-12	0
-Gazako zerrenda	2024-01	0
-Gazako zerrenda	2024-02	0
-Gazako zerrenda	2024-03	0
-Gazako zerrenda	2024-04	0
-Gazan kaista	2023-10	0
-Gazan kaista	2023-11	0
-Gazan kaista	2023-12	0
-Gazan kaista	2024-01	0
-Gazan kaista	2024-02	0
-Gazan kaista	2024-03	0
-Gazan kaista	2024-04	0
-Gazan sektor	2023-10	0
-Gazan sektor	2023-11	0
-Gazan sektor	2023-12	0
-Gazan sektor	2024-01	0
-Gazan sektor	2024-02	0
-Gazan sektor	2024-03	0
-Gazan sektor	2024-04	0
-Gazaremsan	2023-10	0
-Gazaremsan	2023-11	0
-Gazaremsan	2023-12	0
-Gazaremsan	2024-01	0
-Gazaremsan	2024-02	0
-Gazaremsan	2024-03	0
-Gazaremsan	2024-04	0
-Gazas josla	2023-10	0
-Gazas josla	2023-11	0
-Gazas josla	2023-12	0
-Gazas josla	2024-01	0
-Gazas josla	2024-02	0
-Gazas josla	2024-03	0
-Gazas josla	2024-04	0
-Gazastreek	2023-10	0
-Gazastreek	2023-11	0
-Gazastreek	2023-12	0
-Gazastreek	2024-01	0
-Gazastreek	2024-02	0
-Gazastreek	2024-03	0
-Gazastreek	2024-04	0
-Gazastreifen	2023-10	0
-Gazastreifen	2023-11	0
-Gazastreifen	2023-12	0
-Gazastreifen	2024-01	0
-Gazastreifen	2024-02	0
-Gazastreifen	2024-03	0
-Gazastreifen	2024-04	0
-Gazastriben	2023-10	0
-Gazastriben	2023-11	0
-Gazastriben	2023-12	0
-Gazastriben	2024-01	0
-Gazastriben	2024-02	0
-Gazastriben	2024-03	0
-Gazastriben	2024-04	0
-Gazastripa	2023-10	0
-Gazastripa	2023-11	0
-Gazastripa	2023-12	0
-Gazastripa	2024-01	0
-Gazastripa	2024-02	0
-Gazastripa	2024-03	0
-Gazastripa	2024-04	0
-Gazastripen	2023-10	0
-Gazastripen	2023-11	0
-Gazastripen	2023-12	0
-Gazastripen	2024-01	0
-Gazastripen	2024-02	0
-Gazastripen	2024-03	0
-Gazastripen	2024-04	0
-Gazastrook	2023-10	0
-Gazastrook	2023-11	0
-Gazastrook	2023-12	0
-Gazastrook	2024-01	0
-Gazastrook	2024-02	0
-Gazastrook	2024-03	0
-Gazastrook	2024-04	0
-Gazayi hatvac	2023-10	0
-Gazayi hatvac	2023-11	0
-Gazayi hatvac	2023-12	0
-Gazayi hatvac	2024-01	0
-Gazayi hatvac	2024-02	0
-Gazayi hatvac	2024-03	0
-Gazayi hatvac	2024-04	0
-Gazos Ruozas	2023-10	0
-Gazos Ruozas	2023-11	0
-Gazos Ruozas	2023-12	0
-Gazos Ruozas	2024-01	0
-Gazos Ruozas	2024-02	0
-Gazos Ruozas	2024-03	0
-Gazos Ruozas	2024-04	0
-Gazos Ruožas	2023-10	0
-Gazos Ruožas	2023-11	0
-Gazos Ruožas	2023-12	0
-Gazos Ruožas	2024-01	0
-Gazos Ruožas	2024-02	0
-Gazos Ruožas	2024-03	0
-Gazos Ruožas	2024-04	0
-Gazyn zurvas	2023-10	0
-Gazyn zurvas	2023-11	0
-Gazyn zurvas	2023-12	0
-Gazyn zurvas	2024-01	0
-Gazyn zurvas	2024-02	0
-Gazyn zurvas	2024-03	0
-Gazyn zurvas	2024-04	0
-Gazze Seridi	2023-10	0
-Gazze Seridi	2023-11	0
-Gazze Seridi	2023-12	0
-Gazze Seridi	2024-01	0
-Gazze Seridi	2024-02	0
-Gazze Seridi	2024-03	0
-Gazze Seridi	2024-04	0
-Gazze Şeridi	2023-10	0
-Gazze Şeridi	2023-11	0
-Gazze Şeridi	2023-12	0
-Gazze Şeridi	2024-01	0
-Gazze Şeridi	2024-02	0
-Gazze Şeridi	2024-03	0
-Gazze Şeridi	2024-04	0
-Genting Gaza	2023-10	0
-Genting Gaza	2023-11	0
-Genting Gaza	2023-12	0
-Genting Gaza	2024-01	0
-Genting Gaza	2024-02	0
-Genting Gaza	2024-03	0
-Genting Gaza	2024-04	0
-Gázai övezet	2023-10	0
-Gázai övezet	2023-11	0
-Gázai övezet	2023-12	0
-Gázai övezet	2024-01	0
-Gázai övezet	2024-02	0
-Gázai övezet	2024-03	0
-Gázai övezet	2024-04	0
-Ivica Gaza	2023-10	0
-Ivica Gaza	2023-11	0
-Ivica Gaza	2023-12	0
-Ivica Gaza	2024-01	0
-Ivica Gaza	2024-02	0
-Ivica Gaza	2024-03	0
-Ivica Gaza	2024-04	0
-Jalur Gaza	2023-10	0
-Jalur Gaza	2023-11	0
-Jalur Gaza	2023-12	0
-Jalur Gaza	2024-01	0
-Jalur Gaza	2024-02	0
-Jalur Gaza	2024-03	0
-Jalur Gaza	2024-04	0
-Konna Gasa	2023-10	0
-Konna Gasa	2023-11	0
-Konna Gasa	2023-12	0
-Konna Gasa	2024-01	0
-Konna Gasa	2024-02	0
-Konna Gasa	2024-03	0
-Konna Gasa	2024-04	0
-Lacinia Gazetica	2023-10	0
-Lacinia Gazetica	2023-11	0
-Lacinia Gazetica	2023-12	0
-Lacinia Gazetica	2024-01	0
-Lacinia Gazetica	2024-02	0
-Lacinia Gazetica	2024-03	0
-Lacinia Gazetica	2024-04	0
-Listra de Gaza	2023-10	0
-Listra de Gaza	2023-11	0
-Listra de Gaza	2023-12	0
-Listra de Gaza	2024-01	0
-Listra de Gaza	2024-02	0
-Listra de Gaza	2024-03	0
-Listra de Gaza	2024-04	0
-Llain Gaza	2023-10	0
-Llain Gaza	2023-11	0
-Llain Gaza	2023-12	0
-Llain Gaza	2024-01	0
-Llain Gaza	2024-02	0
-Llain Gaza	2024-03	0
-Llain Gaza	2024-04	0
-Lorida tis Gazas	2023-10	0
-Lorida tis Gazas	2023-11	0
-Lorida tis Gazas	2023-12	0
-Lorida tis Gazas	2024-01	0
-Lorida tis Gazas	2024-02	0
-Lorida tis Gazas	2024-03	0
-Lorida tis Gazas	2024-04	0
-Lurung Gaza	2023-10	0
-Lurung Gaza	2023-11	0
-Lurung Gaza	2023-12	0
-Lurung Gaza	2024-01	0
-Lurung Gaza	2024-02	0
-Lurung Gaza	2024-03	0
-Lurung Gaza	2024-04	0
-Marinka Gaza	2023-10	0
-Marinka Gaza	2023-11	0
-Marinka Gaza	2023-12	0
-Marinka Gaza	2024-01	0
-Marinka Gaza	2024-02	0
-Marinka Gaza	2024-03	0
-Marinka Gaza	2024-04	0
-Pasmo Gazy	2023-10	0
-Pasmo Gazy	2023-11	0
-Pasmo Gazy	2023-12	0
-Pasmo Gazy	2024-01	0
-Pasmo Gazy	2024-02	0
-Pasmo Gazy	2024-03	0
-Pasmo Gazy	2024-04	0
-Piraso ng Gaza	2023-10	0
-Piraso ng Gaza	2023-11	0
-Piraso ng Gaza	2023-12	0
-Piraso ng Gaza	2024-01	0
-Piraso ng Gaza	2024-02	0
-Piraso ng Gaza	2024-03	0
-Piraso ng Gaza	2024-04	0
-Pojas Gaza	2023-10	0
-Pojas Gaza	2023-11	0
-Pojas Gaza	2023-12	0
-Pojas Gaza	2024-01	0
-Pojas Gaza	2024-02	0
-Pojas Gaza	2024-03	0
-Pojas Gaza	2024-04	0
-Pojas Gaze	2023-10	0
-Pojas Gaze	2023-11	0
-Pojas Gaze	2023-12	0
-Pojas Gaze	2024-01	0
-Pojas Gaze	2024-02	0
-Pojas Gaze	2024-03	0
-Pojas Gaze	2024-04	0
-Pásmo Gazy	2023-10	0
-Pásmo Gazy	2023-11	0
-Pásmo Gazy	2023-12	0
-Pásmo Gazy	2024-01	0
-Pásmo Gazy	2024-02	0
-Pásmo Gazy	2024-03	0
-Pásmo Gazy	2024-04	0
-Qita` Ghazzah	2023-10	0
-Qita` Ghazzah	2023-11	0
-Qita` Ghazzah	2023-12	0
-Qita` Ghazzah	2024-01	0
-Qita` Ghazzah	2024-02	0
-Qita` Ghazzah	2024-03	0
-Qita` Ghazzah	2024-04	0
-Qiţā` Ghazzah	2023-10	0
-Qiţā` Ghazzah	2023-11	0
-Qiţā` Ghazzah	2023-12	0
-Qiţā` Ghazzah	2024-01	0
-Qiţā` Ghazzah	2024-02	0
-Qiţā` Ghazzah	2024-03	0
-Qiţā` Ghazzah	2024-04	0
-Qəzzə zolağı	2023-10	0
-Qəzzə zolağı	2023-11	0
-Qəzzə zolağı	2023-12	0
-Qəzzə zolağı	2024-01	0
-Qəzzə zolağı	2024-02	0
-Qəzzə zolağı	2024-03	0
-Qəzzə zolağı	2024-04	0
-Raon Ghasa	2023-10	0
-Raon Ghasa	2023-11	0
-Raon Ghasa	2023-12	0
-Raon Ghasa	2024-01	0
-Raon Ghasa	2024-02	0
-Raon Ghasa	2024-03	0
-Raon Ghasa	2024-04	0
-Raon Ghàsa	2023-10	0
-Raon Ghàsa	2023-11	0
-Raon Ghàsa	2023-12	0
-Raon Ghàsa	2024-01	0
-Raon Ghàsa	2024-02	0
-Raon Ghàsa	2024-03	0
-Raon Ghàsa	2024-04	0
-Sektar Gaza	2023-10	0
-Sektar Gaza	2023-11	0
-Sektar Gaza	2023-12	0
-Sektar Gaza	2024-01	0
-Sektar Gaza	2024-02	0
-Sektar Gaza	2024-03	0
-Sektar Gaza	2024-04	0
-Sektor Gaza	2023-10	0
-Sektor Gaza	2023-11	0
-Sektor Gaza	2023-12	0
-Sektor Gaza	2024-01	0
-Sektor Gaza	2024-02	0
-Sektor Gaza	2024-03	0
-Sektor Gaza	2024-04	0
-Sektor Gazi	2023-10	0
-Sektor Gazi	2023-11	0
-Sektor Gazi	2023-12	0
-Sektor Gazi	2024-01	0
-Sektor Gazi	2024-02	0
-Sektor Gazi	2024-03	0
-Sektor Gazi	2024-04	0
-Sirita Xezeye	2023-10	0
-Sirita Xezeye	2023-11	0
-Sirita Xezeye	2023-12	0
-Sirita Xezeye	2024-01	0
-Sirita Xezeye	2024-02	0
-Sirita Xezeye	2024-03	0
-Sirita Xezeye	2024-04	0
-Straice Gaza	2023-10	0
-Straice Gaza	2023-11	0
-Straice Gaza	2023-12	0
-Straice Gaza	2024-01	0
-Straice Gaza	2024-02	0
-Straice Gaza	2024-03	0
-Straice Gaza	2024-04	0
-Straih Ghaza	2023-10	0
-Straih Ghaza	2023-11	0
-Straih Ghaza	2023-12	0
-Straih Ghaza	2024-01	0
-Straih Ghaza	2024-02	0
-Straih Ghaza	2024-03	0
-Straih Ghaza	2024-04	0
-Strefa Gazy	2023-10	0
-Strefa Gazy	2023-11	0
-Strefa Gazy	2023-12	0
-Strefa Gazy	2024-01	0
-Strefa Gazy	2024-02	0
-Strefa Gazy	2024-03	0
-Strefa Gazy	2024-04	0
-Striscia di Gaza	2023-10	0
-Striscia di Gaza	2023-11	0
-Striscia di Gaza	2023-12	0
-Striscia di Gaza	2024-01	0
-Striscia di Gaza	2024-02	0
-Striscia di Gaza	2024-03	0
-Striscia di Gaza	2024-04	0
-Stráice Gaza	2023-10	0
-Stráice Gaza	2023-11	0
-Stráice Gaza	2023-12	0
-Stráice Gaza	2024-01	0
-Stráice Gaza	2024-02	0
-Stráice Gaza	2024-03	0
-Stráice Gaza	2024-04	0
-Ukanda wa Gaza	2023-10	0
-Ukanda wa Gaza	2023-11	0
-Ukanda wa Gaza	2023-12	0
-Ukanda wa Gaza	2024-01	0
-Ukanda wa Gaza	2024-02	0
-Ukanda wa Gaza	2024-03	0
-Ukanda wa Gaza	2024-04	0
-Zirin Gaza	2023-10	0
-Zirin Gaza	2023-11	0
-Zirin Gaza	2023-12	0
-Zirin Gaza	2024-01	0
-Zirin Gaza	2024-02	0
-Zirin Gaza	2024-03	0
-Zirin Gaza	2024-04	0
-chnwn ka sa	2023-10	0
-chnwn ka sa	2023-11	0
-chnwn ka sa	2023-12	0
-chnwn ka sa	2024-01	0
-chnwn ka sa	2024-02	0
-chnwn ka sa	2024-03	0
-chnwn ka sa	2024-04	0
-gaja bhukhanda	2023-10	0
-gaja bhukhanda	2023-11	0
-gaja bhukhanda	2023-12	0
-gaja bhukhanda	2024-01	0
-gaja bhukhanda	2024-02	0
-gaja bhukhanda	2024-03	0
-gaja bhukhanda	2024-04	0
-gaja jigu	2023-10	0
-gaja jigu	2023-11	0
-gaja jigu	2023-12	0
-gaja jigu	2024-01	0
-gaja jigu	2024-02	0
-gaja jigu	2024-03	0
-gaja jigu	2024-04	0
-gaja patti	2023-10	0
-gaja patti	2023-11	0
-gaja patti	2023-12	0
-gaja patti	2024-01	0
-gaja patti	2024-02	0
-gaja patti	2024-03	0
-gaja patti	2024-04	0
-gajha patti	2023-10	0
-gajha patti	2023-11	0
-gajha patti	2023-12	0
-gajha patti	2024-01	0
-gajha patti	2024-02	0
-gajha patti	2024-03	0
-gajha patti	2024-04	0
-gasa	2023-10	0
-gasa	2023-11	0
-gasa	2023-12	0
-gasa	2024-01	0
-gasa	2024-02	1
-gasa	2024-03	0
-gasa	2024-04	0
-gaza de qu	2023-10	0
-gaza de qu	2023-11	0
-gaza de qu	2023-12	0
-gaza de qu	2024-01	0
-gaza de qu	2024-02	0
-gaza de qu	2024-03	0
-gaza de qu	2024-04	0
-gaza pati	2023-10	0
-gaza pati	2023-11	2
-gaza pati	2023-12	0
-gaza pati	2024-01	0
-gaza pati	2024-02	0
-gaza pati	2024-03	0
-gaza pati	2024-04	0
-gaza patti	2023-10	0
-gaza patti	2023-11	0
-gaza patti	2023-12	0
-gaza patti	2024-01	0
-gaza patti	2024-02	0
-gaza patti	2024-03	0
-gaza patti	2024-04	0
-ghzh	2023-10	0
-ghzh	2023-11	0
-ghzh	2023-12	0
-ghzh	2024-01	0
-ghzh	2024-02	0
-ghzh	2024-03	0
-ghzh	2024-04	0
-jia sha de dai	2023-10	0
-jia sha de dai	2023-11	0
-jia sha de dai	2023-12	0
-jia sha de dai	2024-01	0
-jia sha de dai	2024-02	0
-jia sha de dai	2024-03	0
-jia sha de dai	2024-04	0
-kacakkarai	2023-10	0
-kacakkarai	2023-11	0
-kacakkarai	2023-12	0
-kacakkarai	2024-01	0
-kacakkarai	2024-02	0
-kacakkarai	2024-03	0
-kacakkarai	2024-04	0
-nwar ghzh	2023-10	0
-nwar ghzh	2023-11	0
-nwar ghzh	2023-12	0
-nwar ghzh	2024-01	0
-nwar ghzh	2024-02	0
-nwar ghzh	2024-03	0
-nwar ghzh	2024-04	0
-Şirîta Xezeyê	2023-10	0
-Şirîta Xezeyê	2023-11	0
-Şirîta Xezeyê	2023-12	0
-Şirîta Xezeyê	2024-01	0
-Şirîta Xezeyê	2024-02	0
-Şirîta Xezeyê	2024-03	0
-Şirîta Xezeyê	2024-04	0
-Λωρίδα της Γάζας	2023-10	0
-Λωρίδα της Γάζας	2023-11	0
-Λωρίδα της Γάζας	2023-12	0
-Λωρίδα της Γάζας	2024-01	0
-Λωρίδα της Γάζας	2024-02	0
-Λωρίδα της Γάζας	2024-03	0
-Λωρίδα της Γάζας	2024-04	0
-Газæйы Сектор	2023-10	0
-Газæйы Сектор	2023-11	0
-Газæйы Сектор	2023-12	0
-Газæйы Сектор	2024-01	0
-Газæйы Сектор	2024-02	0
-Газæйы Сектор	2024-03	0
-Газæйы Сектор	2024-04	0
-Газа сектор	2023-10	0
-Газа сектор	2023-11	0
-Газа сектор	2023-12	0
-Газа сектор	2024-01	0
-Газа сектор	2024-02	0
-Газа сектор	2024-03	0
-Газа сектор	2024-04	0
-Газын зурвас	2023-10	0
-Газын зурвас	2023-11	0
-Газын зурвас	2023-12	0
-Газын зурвас	2024-01	0
-Газын зурвас	2024-02	0
-Газын зурвас	2024-03	0
-Газын зурвас	2024-04	0
-Ивица Газа	2023-10	0
-Ивица Газа	2023-11	0
-Ивица Газа	2023-12	0
-Ивица Газа	2024-01	0
-Ивица Газа	2024-02	0
-Ивица Газа	2024-03	0
-Ивица Газа	2024-04	0
-Појас Газа	2023-10	0
-Појас Газа	2023-11	0
-Појас Газа	2023-12	0
-Појас Газа	2024-01	0
-Појас Газа	2024-02	0
-Појас Газа	2024-03	0
-Појас Газа	2024-04	0
-Појас Газе	2023-10	0
-Појас Газе	2023-11	0
-Појас Газе	2023-12	0
-Појас Газе	2024-01	0
-Појас Газе	2024-02	0
-Појас Газе	2024-03	0
-Појас Газе	2024-04	0
-Сектар Газа	2023-10	0
-Сектар Газа	2023-11	0
-Сектар Газа	2023-12	0
-Сектар Газа	2024-01	0
-Сектар Газа	2024-02	0
-Сектар Газа	2024-03	0
-Сектар Газа	2024-04	0
-Сектор Газа	2023-10	0
-Сектор Газа	2023-11	0
-Сектор Газа	2023-12	0
-Сектор Газа	2024-01	0
-Сектор Газа	2024-02	0
-Сектор Газа	2024-03	0
-Сектор Газа	2024-04	0
-Сектор Гази	2023-10	0
-Сектор Гази	2023-11	0
-Сектор Гази	2023-12	0
-Сектор Гази	2024-01	0
-Сектор Гази	2024-02	0
-Сектор Гази	2024-03	0
-Сектор Гази	2024-04	0
-Գազայի հատված	2023-10	0
-Գազայի հատված	2023-11	0
-Գազայի հատված	2023-12	0
-Գազայի հատված	2024-01	0
-Գազայի հատված	2024-02	0
-Գազայի հատված	2024-03	0
-Գազայի հատված	2024-04	0
-עזה פאס	2023-10	0
-עזה פאס	2023-11	0
-עזה פאס	2023-12	0
-עזה פאס	2024-01	0
-עזה פאס	2024-02	0
-עזה פאס	2024-03	0
-עזה פאס	2024-04	0
-רצועת עזה	2023-10	0
-רצועת עזה	2023-11	0
-רצועת עזה	2023-12	0
-רצועת עזה	2024-01	0
-רצועת עזה	2024-02	0
-רצועת עזה	2024-03	0
-רצועת עזה	2024-04	0
-غزه	2023-10	0
-غزه	2023-11	1
-غزه	2023-12	0
-غزه	2024-01	0
-غزه	2024-02	0
-غزه	2024-03	0
-غزه	2024-04	0
-غزہ کی پٹی	2023-10	0
-غزہ کی پٹی	2023-11	0
-غزہ کی پٹی	2023-12	0
-غزہ کی پٹی	2024-01	0
-غزہ کی پٹی	2024-02	0
-غزہ کی پٹی	2024-03	0
-غزہ کی پٹی	2024-04	0
-قطاع غزة	2023-10	0
-قطاع غزة	2023-11	0
-قطاع غزة	2023-12	0
-قطاع غزة	2024-01	0
-قطاع غزة	2024-02	0
-قطاع غزة	2024-03	0
-قطاع غزة	2024-04	0
-نوار غزه	2023-10	0
-نوار غزه	2023-11	0
-نوار غزه	2023-12	0
-نوار غزه	2024-01	0
-نوار غزه	2024-02	0
-نوار غزه	2024-03	0
-نوار غزه	2024-04	0
-गाज़ा पट्टी	2023-10	0
-गाज़ा पट्टी	2023-11	0
-गाज़ा पट्टी	2023-12	0
-गाज़ा पट्टी	2024-01	0
-गाज़ा पट्टी	2024-02	0
-गाज़ा पट्टी	2024-03	0
-गाज़ा पट्टी	2024-04	0
-गाजा पट्टी	2023-10	0
-गाजा पट्टी	2023-11	0
-गाजा पट्टी	2023-12	0
-गाजा पट्टी	2024-01	0
-गाजा पट्टी	2024-02	0
-गाजा पट्टी	2024-03	0
-गाजा पट्टी	2024-04	0
-गाझा पट्टी	2023-10	0
-गाझा पट्टी	2023-11	0
-गाझा पट्टी	2023-12	0
-गाझा पट्टी	2024-01	0
-गाझा पट्टी	2024-02	0
-गाझा पट्टी	2024-03	0
-गाझा पट्टी	2024-04	0
-গাজা ভূখণ্ড	2023-10	0
-গাজা ভূখণ্ড	2023-11	0
-গাজা ভূখণ্ড	2023-12	0
-গাজা ভূখণ্ড	2024-01	0
-গাজা ভূখণ্ড	2024-02	0
-গাজা ভূখণ্ড	2024-03	0
-গাজা ভূখণ্ড	2024-04	0
-ਗਾਜ਼ਾ ਪੱਟੀ	2023-10	0
-ਗਾਜ਼ਾ ਪੱਟੀ	2023-11	0
-ਗਾਜ਼ਾ ਪੱਟੀ	2023-12	0
-ਗਾਜ਼ਾ ਪੱਟੀ	2024-01	0
-ਗਾਜ਼ਾ ਪੱਟੀ	2024-02	0
-ਗਾਜ਼ਾ ਪੱਟੀ	2024-03	0
-ਗਾਜ਼ਾ ਪੱਟੀ	2024-04	0
-காசாக்கரை	2023-10	0
-காசாக்கரை	2023-11	0
-காசாக்கரை	2023-12	0
-காசாக்கரை	2024-01	0
-காசாக்கரை	2024-02	0
-காசாக்கரை	2024-03	0
-காசாக்கரை	2024-04	0
-ಗಾಜಾ ಪಟ್ಟಿ	2023-10	0
-ಗಾಜಾ ಪಟ್ಟಿ	2023-11	0
-ಗಾಜಾ ಪಟ್ಟಿ	2023-12	0
-ಗಾಜಾ ಪಟ್ಟಿ	2024-01	0
-ಗಾಜಾ ಪಟ್ಟಿ	2024-02	0
-ಗಾಜಾ ಪಟ್ಟಿ	2024-03	0
-ಗಾಜಾ ಪಟ್ಟಿ	2024-04	0
-ഗാസ	2023-10	0
-ഗാസ	2023-11	0
-ഗാസ	2023-12	0
-ഗാസ	2024-01	0
-ഗാസ	2024-02	0
-ഗാസ	2024-03	0
-ഗാസ	2024-04	0
-ฉนวนกาซา	2023-10	0
-ฉนวนกาซา	2023-11	0
-ฉนวนกาซา	2023-12	0
-ฉนวนกาซา	2024-01	0
-ฉนวนกาซา	2024-02	0
-ฉนวนกาซา	2024-03	0
-ฉนวนกาซา	2024-04	0
-ສະໜວນກາຊາ	2023-10	0
-ສະໜວນກາຊາ	2023-11	0
-ສະໜວນກາຊາ	2023-12	0
-ສະໜວນກາຊາ	2024-01	0
-ສະໜວນກາຊາ	2024-02	0
-ສະໜວນກາຊາ	2024-03	0
-ສະໜວນກາຊາ	2024-04	0
-ღაზის სექტორი	2023-10	0
-ღაზის სექტორი	2023-11	0
-ღაზის სექტორი	2023-12	0
-ღაზის სექტორი	2024-01	0
-ღაზის სექტორი	2024-02	0
-ღაზის სექტორი	2024-03	0
-ღაზის სექტორი	2024-04	0
-ដីជ្រោយហ្គាស្សា	2023-10	0
-ដីជ្រោយហ្គាស្សា	2023-11	0
-ដីជ្រោយហ្គាស្សា	2023-12	0
-ដីជ្រោយហ្គាស្សា	2024-01	0
-ដីជ្រោយហ្គាស្សា	2024-02	0
-ដីជ្រោយហ្គាស្សា	2024-03	0
-ដីជ្រោយហ្គាស្សា	2024-04	0
-ガザ地区	2023-10	0
-ガザ地区	2023-11	0
-ガザ地区	2023-12	0
-ガザ地区	2024-01	0
-ガザ地区	2024-02	0
-ガザ地区	2024-03	0
-ガザ地区	2024-04	0
-加沙地带	2023-10	0
-加沙地带	2023-11	0
-加沙地带	2023-12	0
-加沙地带	2024-01	0
-加沙地带	2024-02	0
-加沙地带	2024-03	0
-加沙地带	2024-04	0
-加沙地帶	2023-10	0
-加沙地帶	2023-11	0
-加沙地帶	2023-12	0
-加沙地帶	2024-01	0
-加沙地帶	2024-02	0
-加沙地帶	2024-03	0
-加沙地帶	2024-04	0
-가자 지구	2023-10	0
-가자 지구	2023-11	0
-가자 지구	2023-12	0
-가자 지구	2024-01	0
-가자 지구	2024-02	0
-가자 지구	2024-03	0
-가자 지구	2024-04	0
-Gaza City	2023-10	207
-Gaza City	2023-11	193
-Gaza City	2023-12	75
-Gaza City	2024-01	35
-Gaza City	2024-02	63
-Gaza City	2024-03	82
-Gaza City	2024-04	17
-Azzah	2023-10	3
-Azzah	2023-11	0
-Azzah	2023-12	0
-Azzah	2024-01	0
-Azzah	2024-02	0
-Azzah	2024-03	0
-Azzah	2024-04	0
-Dakbayan sa Gaza	2023-10	0
-Dakbayan sa Gaza	2023-11	0
-Dakbayan sa Gaza	2023-12	0
-Dakbayan sa Gaza	2024-01	0
-Dakbayan sa Gaza	2024-02	0
-Dakbayan sa Gaza	2024-03	0
-Dakbayan sa Gaza	2024-04	0
-GZA	2023-10	1
-GZA	2023-11	0
-GZA	2023-12	0
-GZA	2024-01	1
-GZA	2024-02	1
-GZA	2024-03	0
-GZA	2024-04	0
-Gaesa	2023-10	0
-Gaesa	2023-11	0
-Gaesa	2023-12	0
-Gaesa	2024-01	0
-Gaesa	2024-02	0
-Gaesa	2024-03	0
-Gaesa	2024-04	0
-Gasa	2023-10	0
-Gasa	2023-11	0
-Gasa	2023-12	0
-Gasa	2024-01	0
-Gasa	2024-02	1
-Gasa	2024-03	0
-Gasa	2024-04	0
-Gaz	2023-10	4211
-Gaz	2023-11	4565
-Gaz	2023-12	2912
-Gaz	2024-01	1972
-Gaz	2024-02	1902
-Gaz	2024-03	2211
-Gaz	2024-04	1005
-Gaza by	2023-10	15
-Gaza by	2023-11	14
-Gaza by	2023-12	19
-Gaza by	2024-01	8
-Gaza by	2024-02	11
-Gaza by	2024-03	8
-Gaza by	2024-04	7
-Gaza-urbo	2023-10	0
-Gaza-urbo	2023-11	0
-Gaza-urbo	2023-12	0
-Gaza-urbo	2024-01	0
-Gaza-urbo	2024-02	0
-Gaza-urbo	2024-03	0
-Gaza-urbo	2024-04	0
-Gazae	2023-10	0
-Gazae	2023-11	0
-Gazae	2023-12	0
-Gazae	2024-01	0
-Gazae	2024-02	0
-Gazae	2024-03	0
-Gazae	2024-04	0
-Gazze	2023-10	0
-Gazze	2023-11	0
-Gazze	2023-12	0
-Gazze	2024-01	0
-Gazze	2024-02	0
-Gazze	2024-03	0
-Gazze	2024-04	0
-Ghazah	2023-10	0
-Ghazah	2023-11	0
-Ghazah	2023-12	0
-Ghazah	2024-01	0
-Ghazah	2024-02	0
-Ghazah	2024-03	0
-Ghazah	2024-04	0
-Ghazza	2023-10	3
-Ghazza	2023-11	0
-Ghazza	2023-12	0
-Ghazza	2024-01	0
-Ghazza	2024-02	0
-Ghazza	2024-03	0
-Ghazza	2024-04	0
-Ghazzah	2023-10	3
-Ghazzah	2023-11	0
-Ghazzah	2023-12	0
-Ghazzah	2024-01	0
-Ghazzah	2024-02	0
-Ghazzah	2024-03	0
-Ghazzah	2024-04	0
-Ghazze	2023-10	0
-Ghazze	2023-11	0
-Ghazze	2023-12	0
-Ghazze	2024-01	0
-Ghazze	2024-02	0
-Ghazze	2024-03	0
-Ghazze	2024-04	0
-Ghazzi	2023-10	0
-Ghazzi	2023-11	0
-Ghazzi	2023-12	2
-Ghazzi	2024-01	0
-Ghazzi	2024-02	0
-Ghazzi	2024-03	0
-Ghazzi	2024-04	0
-Ghuzze	2023-10	0
-Ghuzze	2023-11	0
-Ghuzze	2023-12	0
-Ghuzze	2024-01	0
-Ghuzze	2024-02	0
-Ghuzze	2024-03	0
-Ghuzze	2024-04	0
-Gàsa	2023-10	0
-Gàsa	2023-11	0
-Gàsa	2023-12	0
-Gàsa	2024-01	0
-Gàsa	2024-02	0
-Gàsa	2024-03	0
-Gàsa	2024-04	0
-Gáza	2023-10	0
-Gáza	2023-11	0
-Gáza	2023-12	0
-Gáza	2024-01	0
-Gáza	2024-02	0
-Gáza	2024-03	0
-Gáza	2024-04	0
-Qəzza	2023-10	0
-Qəzza	2023-11	0
-Qəzza	2023-12	0
-Qəzza	2024-01	0
-Qəzza	2024-02	0
-Qəzza	2024-03	0
-Qəzza	2024-04	0
-Xeze	2023-10	0
-Xeze	2023-11	0
-Xeze	2023-12	0
-Xeze	2024-01	0
-Xeze	2024-02	0
-Xeze	2024-03	0
-Xeze	2024-04	0
-`Azza	2023-10	0
-`Azza	2023-11	0
-`Azza	2023-12	0
-`Azza	2024-01	0
-`Azza	2024-02	0
-`Azza	2024-03	0
-`Azza	2024-04	0
-`Azzā	2023-10	0
-`Azzā	2023-11	0
-`Azzā	2023-12	0
-`Azzā	2024-01	0
-`Azzā	2024-02	0
-`Azzā	2024-03	0
-`Azzā	2024-04	0
-gaja	2023-10	0
-gaja	2023-11	0
-gaja	2023-12	0
-gaja	2024-01	0
-gaja	2024-02	0
-gaja	2024-03	0
-gaja	2024-04	0
-gaja sahara	2023-10	0
-gaja sahara	2023-11	0
-gaja sahara	2023-12	0
-gaja sahara	2024-01	0
-gaja sahara	2024-02	0
-gaja sahara	2024-03	0
-gaja sahara	2024-04	0
-gaja siti	2023-10	0
-gaja siti	2023-11	0
-gaja siti	2023-12	0
-gaja siti	2024-01	0
-gaja siti	2024-02	0
-gaja siti	2024-03	0
-gaja siti	2024-04	0
-gajha	2023-10	0
-gajha	2023-11	0
-gajha	2023-12	0
-gajha	2024-01	0
-gajha	2024-02	0
-gajha	2024-03	0
-gajha	2024-04	0
-gaza	2023-10	4208
-gaza	2023-11	4551
-gaza	2023-12	2892
-gaza	2024-01	1966
-gaza	2024-02	1895
-gaza	2024-03	2206
-gaza	2024-04	1002
-gaza sahira	2023-10	0
-gaza sahira	2023-11	0
-gaza sahira	2023-12	0
-gaza sahira	2024-01	0
-gaza sahira	2024-02	0
-gaza sahira	2024-03	0
-gaza sahira	2024-04	0
-ghzt	2023-10	0
-ghzt	2023-11	0
-ghzt	2023-12	0
-ghzt	2024-01	0
-ghzt	2024-02	0
-ghzt	2024-03	0
-ghzt	2024-04	0
-jia sa	2023-10	0
-jia sa	2023-11	0
-jia sa	2023-12	0
-jia sa	2024-01	0
-jia sa	2024-02	0
-jia sa	2024-03	0
-jia sa	2024-04	0
-jia sha	2023-10	0
-jia sha	2023-11	0
-jia sha	2023-12	0
-jia sha	2024-01	0
-jia sha	2024-02	0
-jia sha	2024-03	0
-jia sha	2024-04	0
-jia sha cheng	2023-10	0
-jia sha cheng	2023-11	0
-jia sha cheng	2023-12	0
-jia sha cheng	2024-01	0
-jia sha cheng	2024-02	0
-jia sha cheng	2024-03	0
-jia sha cheng	2024-04	0
-kaca	2023-10	0
-kaca	2023-11	0
-kaca	2023-12	0
-kaca	2024-01	0
-kaca	2024-02	0
-kaca	2024-03	0
-kaca	2024-04	0
-Γάζα	2023-10	0
-Γάζα	2023-11	0
-Γάζα	2023-12	0
-Γάζα	2024-01	0
-Γάζα	2024-02	0
-Γάζα	2024-03	0
-Γάζα	2024-04	0
-Газa	2023-10	0
-Газa	2023-11	0
-Газa	2023-12	0
-Газa	2024-01	0
-Газa	2024-02	0
-Газa	2024-03	0
-Газa	2024-04	0
-Газæ	2023-10	0
-Газæ	2023-11	0
-Газæ	2023-12	0
-Газæ	2024-01	0
-Газæ	2024-02	0
-Газæ	2024-03	0
-Газæ	2024-04	0
-Газа	2023-10	0
-Газа	2023-11	0
-Газа	2023-12	0
-Газа	2024-01	0
-Газа	2024-02	0
-Газа	2024-03	0
-Газа	2024-04	0
-Газзә	2023-10	0
-Газзә	2023-11	0
-Газзә	2023-12	0
-Газзә	2024-01	0
-Газзә	2024-02	0
-Газзә	2024-03	0
-Газзә	2024-04	0
-Ղազա	2023-10	0
-Ղազա	2023-11	0
-Ղազա	2023-12	0
-Ղազա	2024-01	0
-Ղազա	2024-02	0
-Ղազա	2024-03	0
-Ղազա	2024-04	0
-עזה	2023-10	0
-עזה	2023-11	1
-עזה	2023-12	0
-עזה	2024-01	0
-עזה	2024-02	0
-עזה	2024-03	0
-עזה	2024-04	0
-غزة	2023-10	3
-غزة	2023-11	1
-غزة	2023-12	1
-غزة	2024-01	0
-غزة	2024-02	0
-غزة	2024-03	7
-غزة	2024-04	0
-غزہ	2023-10	0
-غزہ	2023-11	0
-غزہ	2023-12	0
-غزہ	2024-01	0
-غزہ	2024-02	0
-غزہ	2024-03	0
-غزہ	2024-04	0
-غەززە	2023-10	0
-غەززە	2023-11	0
-غەززە	2023-12	0
-غەززە	2024-01	0
-غەززە	2024-02	0
-غەززە	2024-03	0
-غەززە	2024-04	0
-ग़ज़ा	2023-10	0
-ग़ज़ा	2023-11	0
-ग़ज़ा	2023-12	0
-ग़ज़ा	2024-01	0
-ग़ज़ा	2024-02	0
-ग़ज़ा	2024-03	0
-ग़ज़ा	2024-04	0
-गाजा शहर	2023-10	0
-गाजा शहर	2023-11	0
-गाजा शहर	2023-12	0
-गाजा शहर	2024-01	0
-गाजा शहर	2024-02	0
-गाजा शहर	2024-03	0
-गाजा शहर	2024-04	0
-गाझा	2023-10	0
-गाझा	2023-11	0
-गाझा	2023-12	0
-गाझा	2024-01	0
-गाझा	2024-02	0
-गाझा	2024-03	0
-गाझा	2024-04	0
-গাজা সিটি	2023-10	0
-গাজা সিটি	2023-11	0
-গাজা সিটি	2023-12	0
-গাজা সিটি	2024-01	0
-গাজা সিটি	2024-02	0
-গাজা সিটি	2024-03	0
-গাজা সিটি	2024-04	0
-ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	2023-10	0
-ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	2023-11	0
-ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	2023-12	0
-ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	2024-01	0
-ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	2024-02	0
-ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	2024-03	0
-ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	2024-04	0
-காசா	2023-10	0
-காசா	2023-11	0
-காசா	2023-12	0
-காசா	2024-01	0
-காசா	2024-02	0
-காசா	2024-03	0
-காசா	2024-04	0
-ガザ	2023-10	0
-ガザ	2023-11	0
-ガザ	2023-12	0
-ガザ	2024-01	0
-ガザ	2024-02	0
-ガザ	2024-03	0
-ガザ	2024-04	0
-加沙	2023-10	0
-加沙	2023-11	0
-加沙	2023-12	0
-加沙	2024-01	0
-加沙	2024-02	0
-加沙	2024-03	0
-加沙	2024-04	0
-加沙城	2023-10	0
-加沙城	2023-11	0
-加沙城	2023-12	0
-加沙城	2024-01	0
-加沙城	2024-02	0
-加沙城	2024-03	0
-加沙城	2024-04	0
-加薩	2023-10	0
-加薩	2023-11	0
-加薩	2023-12	0
-加薩	2024-01	0
-加薩	2024-02	0
-加薩	2024-03	0
-加薩	2024-04	0
-가자	2023-10	0
-가자	2023-11	0
-가자	2023-12	0
-가자	2024-01	0
-가자	2024-02	0
-가자	2024-03	0
-가자	2024-04	0
+Gaza Strip	2023-10	4208
+Gaza Strip	2023-11	4552
+Gaza Strip	2023-12	2892
+Gaza Strip	2024-01	1966
+Gaza Strip	2024-02	1896
+Gaza Strip	2024-03	2206
+Gaza Strip	2024-04	1002
+Gaza City	2023-10	4218
+Gaza City	2023-11	4568
+Gaza City	2023-12	2915
+Gaza City	2024-01	1973
+Gaza City	2024-02	1904
+Gaza City	2024-03	2218
+Gaza City	2024-04	1005
