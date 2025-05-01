@@ -27,11 +27,11 @@ Bayt Hanun	2024-01	1
 Bayt Hanun	2024-02	3
 Bayt Hanun	2024-03	7
 Bayt Hanun	2024-04	10
-Khan Younis	2023-10	74
-Khan Younis	2023-11	132
-Khan Younis	2023-12	173
-Khan Younis	2024-01	74
-Khan Younis	2024-02	63
+Khan Younis	2023-10	80
+Khan Younis	2023-11	133
+Khan Younis	2023-12	176
+Khan Younis	2024-01	77
+Khan Younis	2024-02	65
 Khan Younis	2024-03	40
 Khan Younis	2024-04	25
 An Nusayrat	2023-10	22
@@ -41,12 +41,12 @@ An Nusayrat	2024-01	11
 An Nusayrat	2024-02	6
 An Nusayrat	2024-03	9
 An Nusayrat	2024-04	8
-Al Burayj	2023-10	3
+Al Burayj	2023-10	4
 Al Burayj	2023-11	15
 Al Burayj	2023-12	17
 Al Burayj	2024-01	5
 Al Burayj	2024-02	2
-Al Burayj	2024-03	5
+Al Burayj	2024-03	6
 Al Burayj	2024-04	0
 Rafah	2023-10	182
 Rafah	2023-11	150
@@ -69,12 +69,12 @@ Nuseirat	2024-01	11
 Nuseirat	2024-02	6
 Nuseirat	2024-03	9
 Nuseirat	2024-04	8
-Bureij	2023-10	3
+Bureij	2023-10	4
 Bureij	2023-11	15
 Bureij	2023-12	17
 Bureij	2024-01	5
 Bureij	2024-02	2
-Bureij	2024-03	5
+Bureij	2024-03	6
 Bureij	2024-04	0
 Al Qararah	2023-10	0
 Al Qararah	2023-11	1
@@ -190,7 +190,7 @@ Al Mawasi	2024-03	1
 Al Mawasi	2024-04	0
 Al-Shifa Hospital	2023-10	31
 Al-Shifa Hospital	2023-11	245
-Al-Shifa Hospital	2023-12	23
+Al-Shifa Hospital	2023-12	24
 Al-Shifa Hospital	2024-01	3
 Al-Shifa Hospital	2024-02	15
 Al-Shifa Hospital	2024-03	32
@@ -321,7 +321,7 @@ Umm Kamil	2024-01	0
 Umm Kamil	2024-02	0
 Umm Kamil	2024-03	0
 Umm Kamil	2024-04	0
-An Nazlah	2023-10	0
+An Nazlah	2023-10	2
 An Nazlah	2023-11	0
 An Nazlah	2023-12	0
 An Nazlah	2024-01	0
@@ -402,9 +402,9 @@ Shokat as-Sufi	2023-10	1
 Shokat as-Sufi	2023-11	0
 Shokat as-Sufi	2023-12	0
 Shokat as-Sufi	2024-01	0
-Shokat as-Sufi	2024-02	0
+Shokat as-Sufi	2024-02	2
 Shokat as-Sufi	2024-03	0
-Shokat as-Sufi	2024-04	0
+Shokat as-Sufi	2024-04	2
 Al-Mughraqa	2023-10	1
 Al-Mughraqa	2023-11	0
 Al-Mughraqa	2023-12	0
@@ -413,7 +413,7 @@ Al-Mughraqa	2024-02	0
 Al-Mughraqa	2024-03	0
 Al-Mughraqa	2024-04	0
 Bani Suhela	2023-10	3
-Bani Suhela	2023-11	5
+Bani Suhela	2023-11	6
 Bani Suhela	2023-12	0
 Bani Suhela	2024-01	0
 Bani Suhela	2024-02	0
@@ -643,13 +643,13 @@ Hamadah	2024-01	0
 Hamadah	2024-02	1
 Hamadah	2024-03	0
 Hamadah	2024-04	0
-Tunis	2023-10	14
-Tunis	2023-11	41
-Tunis	2023-12	6
-Tunis	2024-01	5
-Tunis	2024-02	2
-Tunis	2024-03	2
-Tunis	2024-04	19
+Tunis	2023-10	102
+Tunis	2023-11	156
+Tunis	2023-12	50
+Tunis	2024-01	44
+Tunis	2024-02	68
+Tunis	2024-03	53
+Tunis	2024-04	46
 Al Masihi	2023-10	0
 Al Masihi	2023-11	0
 Al Masihi	2023-12	0
@@ -678,13 +678,13 @@ Abu Fayyad	2024-01	0
 Abu Fayyad	2024-02	0
 Abu Fayyad	2024-03	0
 Abu Fayyad	2024-04	0
-Umran	2023-10	0
-Umran	2023-11	0
-Umran	2023-12	0
-Umran	2024-01	0
+Umran	2023-10	2
+Umran	2023-11	9
+Umran	2023-12	8
+Umran	2024-01	8
 Umran	2024-02	0
-Umran	2024-03	0
-Umran	2024-04	0
+Umran	2024-03	1
+Umran	2024-04	4
 Al Qata'ah	2023-10	0
 Al Qata'ah	2023-11	0
 Al Qata'ah	2023-12	0
@@ -839,13 +839,13 @@ Hawd Ji	2024-01	0
 Hawd Ji	2024-02	0
 Hawd Ji	2024-03	0
 Hawd Ji	2024-04	0
-Hawd Waw	2023-10	1
-Hawd Waw	2023-11	1
-Hawd Waw	2023-12	2
-Hawd Waw	2024-01	0
-Hawd Waw	2024-02	1
-Hawd Waw	2024-03	0
-Hawd Waw	2024-04	1
+Hawd Waw	2023-10	288
+Hawd Waw	2023-11	166
+Hawd Waw	2023-12	111
+Hawd Waw	2024-01	60
+Hawd Waw	2024-02	64
+Hawd Waw	2024-03	108
+Hawd Waw	2024-04	44
 Yibna	2023-10	0
 Yibna	2023-11	0
 Yibna	2023-12	0
@@ -869,7 +869,7 @@ Al Barazil	2024-03	0
 Al Barazil	2024-04	0
 As Salam	2023-10	0
 As Salam	2023-11	0
-As Salam	2023-12	0
+As Salam	2023-12	1
 As Salam	2024-01	0
 As Salam	2024-02	0
 As Salam	2024-03	0
