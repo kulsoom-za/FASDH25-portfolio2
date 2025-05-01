@@ -36,7 +36,7 @@ def flexible_regex(name):
     name = name.replace(" ", r"\s?")
     return name
 
-# build a dictionary of patterns for each place name and a count of matches - Took help from ChatGPT (Conversation 1)
+# build a dictionary of patterns for each place name and a count of matches 
 patterns = {}
 
 #split the gazetteer data by a new line to et each row
@@ -73,9 +73,8 @@ for row in rows[1:]:
 
     #Apply flexible regex to each name variant
     name_variants = [flexible_regex(name) for name in name_variants]
-    #Building a single regex pattern that matches any variant (using '|' for alternation) - Help from ChatGPT - Conversation 5 (writing regex pattern)
+    #Building a single regex pattern that matches any variant (using '|' for alternation) 
     #the | is used to get the alternation as it means or
-    #re.escape() is used to escape any special characters in the place name
     regex_pattern = "|".join(name_variants)
     # it includes all the names and their variants with their number
     patterns[asciiname] = {"pattern": regex_pattern, "count":0}
@@ -87,7 +86,7 @@ for row in rows[1:]:
 mentions_per_month = {}
 
 
-#Set the starting date of the war in Gaza to filter articles - Help from ChatGPT - Conversation 2 and 4(removal of datetime)
+#Set the starting date of the war in Gaza to filter articles 
 war_start_date = "2023-10-07"
 
 # Loop through each file to count the number of times each pattern is found in the entire folder:
@@ -109,7 +108,7 @@ for filename in os.listdir(folder):
         text = file.read()
         
 
-    # Loop through each place to search for matches in the text: - Help from ChatGPT - Conversation 3
+    # Loop through each place to search for matches in the text: 
     for place in patterns:
         pattern = patterns[place]["pattern"] # Get regex-safe pattern 
         matches = re.findall(pattern, text, re.IGNORECASE)
