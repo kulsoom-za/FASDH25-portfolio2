@@ -52,30 +52,27 @@ for row in rows[1:]:
     if len(columns) < 6:
         continue
 
-    #Initialize the list with the place name
-    name_variants = [asciiname]
-
-
     # Get the alternate names from the 6th column which is counted as 5, if present
     alternate_names = columns[5].strip()
+
+    names = [asciiname]
 
     
     if alternate_names:
         # Split the alternate names by comma and get a list of name variants
         alternate_list =alternate_names.split(",")
         #Loop through each alternate name in the list
-        for alternate in alternate_list:
+        for name in alternate_list:
             #remove any whitspace from the alternate name
-            alternate = alternate.strip()
+            name = name.strip()
             # add the alternate name to the list if present 
-            if alternate:
-                name_variants.append(alternate)
+            if name:
+                names.append(name)
 
-    #Apply flexible regex to each name variant
-    name_variants = [flexible_regex(name) for name in name_variants]
+
     #Building a single regex pattern that matches any variant (using '|' for alternation) 
     #the | is used to get the alternation as it means or
-    regex_pattern = "|".join(name_variants)
+    regex_pattern = "|".join(re.escape(name) for name in names)
     # it includes all the names and their variants with their number
     patterns[asciiname] = {"pattern": regex_pattern, "count":0}
 
