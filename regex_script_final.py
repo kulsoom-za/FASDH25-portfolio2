@@ -17,54 +17,66 @@ def write_tsv(rows, column_list, path):
 
 
 
-# defining the folder where the articles are present
-folder = "articles"
+# Defining the folder where the articles are present
+# these articles are text files to search for place names 
+folder = "articles"  
 
-# define the path and load the gazetteer from the tsv file
+
+#  define the path and load the gazetteer from the tsv file, having place names and alternate names 
 path = "gazetteers/geonames_gaza_selection.tsv"
+#open and read the file
 with open(path, encoding="utf-8") as file:
     data = file.read()
 
-def flexible_regex(name):
-    name = re.sub(r"Kh", r"(Kh|K|Ḫ)", name, flags=re.IGNORECASE)
-    name = re.sub(r"a", "[aā]", name, flags=re.IGNORECASE)
-    name = re.sub(r"i", "[ie]", name, flags=re.IGNORECASE)
-    name = re.sub(r"[uo]", "[ouū]*", name, flags=re.IGNORECASE)
-    name = name.replace(" ", r"\s?")
-    return name
 
+# build a dictionary of patterns for each place name and a count of matches 
 patterns = {}
+
+#split the gazetteer data by a new line to et each row
 rows = data.split("\n")
 
+#skip the header as the pattern starts from the next row
 for row in rows[1:]:
-    columns = row.split("\t")
+    columns = row.split("\t") # each column in tsv is separated by tabs 
+    asciiname = columns[0] #first column has name for the place
+
+
+    #Skip rows that don't have at least 6 columns and others may beb incomplete    
     if len(columns) < 6:
         continue
 
-    asciiname = columns[0]
-    name_variants = [asciiname]
-
+    # Get the alternate names from the 6th column which is counted as 5, if present
     alternate_names = columns[5].strip()
-    if alternate_names:
-        alternate_list = alternate_names.split(",")
-        for alternate in alternate_list:
-            alternate = alternate.strip()
-            if alternate:
-                name_variants.append(alternate)
 
-    # Apply flexible regex to each name variant
-    name_variants = [flexible_regex(name) for name in name_variants]
+    names = [asciiname]
 
-    # Join into a single regex pattern
-    regex_pattern = "|".join(name_variants)
-    patterns[asciiname] = {"pattern": regex_pattern, "count": 0}
     
+    if alternate_names:
+        # Split the alternate names by comma and get a list of name variants
+        alternate_list =alternate_names.split(",")
+        #Loop through each alternate name in the list
+        for name in alternate_list:
+            #remove any whitspace from the alternate name
+            name = name.strip()
+            # add the alternate name to the list if present 
+            if name:
+                names.append(name)
+
+
+    #Building a single regex pattern that matches any variant (using '|' for alternation) 
+    #the | is used to get the alternation as it means or
+    regex_pattern = "|".join(re.escape(name) for name in names)
+    # it includes all the names and their variants with their number
+    patterns[asciiname] = {"pattern": regex_pattern, "count":0}
+
+    
+
 
 # this dictionary stores how many times each place name was mentioned per month 
 mentions_per_month = {}
 
 
-#Set the starting date of the war in Gaza to filter articles - Help from ChatGPT - Conversation 2 and 4(removal of datetime)
+#Set the starting date of the war in Gaza to filter articles 
 war_start_date = "2023-10-07"
 
 # Loop through each file to count the number of times each pattern is found in the entire folder:
@@ -86,7 +98,7 @@ for filename in os.listdir(folder):
         text = file.read()
         
 
-    # Loop through each place to search for matches in the text: - Help from ChatGPT - Conversation 3
+    # Loop through each place to search for matches in the text: 
     for place in patterns:
         pattern = patterns[place]["pattern"] # Get regex-safe pattern 
         matches = re.findall(pattern, text, re.IGNORECASE)
@@ -101,13 +113,17 @@ for filename in os.listdir(folder):
 
         # initialize place and month in mentions_per_month dictionary if not done already
         if place not in mentions_per_month:
+            # empty dictionary if place is not found
             mentions_per_month[place] = {}
+        #check if the month is not in the dictionary 
         if month_str not in mentions_per_month[place]:
+            # if month is not found, place the month count to 0
             mentions_per_month[place][month_str] = 0
 
         #Add the new matches on the place names to the number of times it was mentioned that month     
         mentions_per_month[place][month_str] += count
           
+
 
 # print the final dictionary showing how often each place was mentioned by month
 # Loop through each place in the mentions_per-month dictionary
