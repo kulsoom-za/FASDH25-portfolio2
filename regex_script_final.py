@@ -28,13 +28,6 @@ path = "gazetteers/geonames_gaza_selection.tsv"
 with open(path, encoding="utf-8") as file:
     data = file.read()
 
-def flexible_regex(name):
-    name = re.sub(r"Kh", r"(Kh|K|Ḫ)", name, flags=re.IGNORECASE)
-    name = re.sub(r"a", "[aā]", name, flags=re.IGNORECASE)
-    name = re.sub(r"i", "[ie]", name, flags=re.IGNORECASE)
-    name = re.sub(r"[uo]", "[ouū]*", name, flags=re.IGNORECASE)
-    name = name.replace(" ", r"\s?")
-    return name
 
 # build a dictionary of patterns for each place name and a count of matches 
 patterns = {}
