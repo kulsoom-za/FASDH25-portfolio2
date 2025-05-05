@@ -21,11 +21,11 @@ def write_tsv(rows, column_list, path):
 
 # Defining the folder where the articles are present
 # these articles are text files to search for place names 
-folder = "articles"  
+folder = "../articles"  
 
 
 #  define the path and load the gazetteer from the tsv file, having place names and alternate names 
-path = "gazetteers/geonames_gaza_selection.tsv"
+path = "../gazetteers/geonames_gaza_selection.tsv"
 #open and read the file
 with open(path, encoding="utf-8") as file:
     data = file.read()
@@ -176,8 +176,4 @@ for place in mentions_per_month:
 # Write final result to tsv file for external use        
 write_tsv(rows, ["placename","month", "count"], "regex_counts.tsv")
 
-frequency_rows = []
-for place, details in patterns.items():
-    frequency_rows.append((place, details["count"]))
 
-write_tsv(frequency_rows,["placename", "count"], "frequencies.tsv")
