@@ -1,833 +1,133 @@
-asciiname	frequency
-Jabalya	{'pattern': 'Jabalya', 'count': 1}
-Dzhabalija	{'pattern': 'Dzhabalija', 'count': 0}
-Jabalia	{'pattern': 'Jabalia', 'count': 208}
-Jabaliya	{'pattern': 'Jabaliya', 'count': 7}
-Jabāliyā	{'pattern': 'Jabāliyā', 'count': 0}
-Jabālyā	{'pattern': 'Jabālyā', 'count': 0}
-jbalya	{'pattern': 'jbalya', 'count': 0}
-Джабалия	{'pattern': 'Джабалия', 'count': 0}
-جباليا	{'pattern': 'جباليا', 'count': 0}
-Bayt Lahya	{'pattern': 'Bayt\\ Lahya', 'count': 0}
-Bayt Lahiya	{'pattern': 'Bayt\\ Lahiya', 'count': 0}
-Bayt Lahiyah	{'pattern': 'Bayt\\ Lahiyah', 'count': 0}
-Bayt Lāhiya	{'pattern': 'Bayt\\ Lāhiya', 'count': 0}
-Bayt Lāhiyah	{'pattern': 'Bayt\\ Lāhiyah', 'count': 0}
-Bayt Lāhyā	{'pattern': 'Bayt\\ Lāhyā', 'count': 0}
-Beit Lahia	{'pattern': 'Beit\\ Lahia', 'count': 14}
-Beit Lahiya	{'pattern': 'Beit\\ Lahiya', 'count': 27}
-Beit Lahya	{'pattern': 'Beit\\ Lahya', 'count': 0}
-Beit Lāhiya	{'pattern': 'Beit\\ Lāhiya', 'count': 0}
-byt lahya	{'pattern': 'byt\\ lahya', 'count': 0}
-بيت لاهيا	{'pattern': 'بيت\\ لاهيا', 'count': 0}
-Mukhayyam Jabaliya	{'pattern': 'Mukhayyam\\ Jabaliya', 'count': 0}
-Mukhayyam Jabalya	{'pattern': 'Mukhayyam\\ Jabalya', 'count': 0}
-Mukhayyam Jabāliyā	{'pattern': 'Mukhayyam\\ Jabāliyā', 'count': 0}
-Mukhayyam Jabālyā	{'pattern': 'Mukhayyam\\ Jabālyā', 'count': 0}
-mkhym jbalya	{'pattern': 'mkhym\\ jbalya', 'count': 0}
-مخيم جباليا	{'pattern': 'مخيم\\ جباليا', 'count': 0}
-Bayt Hanun	{'pattern': 'Bayt\\ Hanun', 'count': 0}
-Bait Hanun	{'pattern': 'Bait\\ Hanun', 'count': 0}
-Bajt Hanun	{'pattern': 'Bajt\\ Hanun', 'count': 0}
-Bajt Hánún	{'pattern': 'Bajt\\ Hánún', 'count': 0}
-Bayt Ḩanūn	{'pattern': 'Bayt\\ Ḩanūn', 'count': 0}
-Bayt Ḩānūn	{'pattern': 'Bayt\\ Ḩānūn', 'count': 0}
-Beit Chanoun	{'pattern': 'Beit\\ Chanoun', 'count': 0}
-Beit Hanoon	{'pattern': 'Beit\\ Hanoon', 'count': 53}
-Beit Hanoum	{'pattern': 'Beit\\ Hanoum', 'count': 0}
-Beit Hanoun	{'pattern': 'Beit\\ Hanoun', 'count': 8}
-Beit Hanun	{'pattern': 'Beit\\ Hanun', 'count': 0}
-Beit Hanuna	{'pattern': 'Beit\\ Hanuna', 'count': 0}
-Beit Hānūna	{'pattern': 'Beit\\ Hānūna', 'count': 0}
-Bejt-Khanun	{'pattern': 'Bejt\\-Khanun', 'count': 0}
-Beyt Hanun	{'pattern': 'Beyt\\ Hanun', 'count': 0}
-bai te ha nen	{'pattern': 'bai\\ te\\ ha\\ nen', 'count': 0}
-byt hanwn	{'pattern': 'byt\\ hanwn', 'count': 0}
-byt hnwn	{'pattern': 'byt\\ hnwn', 'count': 0}
-Μπέιτ Χανούν	{'pattern': 'Μπέιτ\\ Χανούν', 'count': 0}
-Бейт-Ханун	{'pattern': 'Бейт\\-Ханун', 'count': 0}
-בית חאנון	{'pattern': 'בית\\ חאנון', 'count': 0}
-بيت حانون	{'pattern': 'بيت\\ حانون', 'count': 0}
-بيت حنون	{'pattern': 'بيت\\ حنون', 'count': 0}
-بیت حانون	{'pattern': 'بیت\\ حانون', 'count': 0}
-بیت‌حانون	{'pattern': 'بیت\u200cحانون', 'count': 0}
-ベイト・ハヌーン	{'pattern': 'ベイト・ハヌーン', 'count': 0}
-拜特哈嫩	{'pattern': '拜特哈嫩', 'count': 0}
-Khan Younis	{'pattern': 'Khan\\ Younis', 'count': 580}
-Khan Younis camp	{'pattern': 'Khan\\ Younis\\ camp', 'count': 1}
-KhanYounis	{'pattern': 'KhanYounis', 'count': 1}
-Mukhayyam Khan Yunis	{'pattern': 'Mukhayyam\\ Khan\\ Yunis', 'count': 0}
-Mukhayyam Khan Yunus	{'pattern': 'Mukhayyam\\ Khan\\ Yunus', 'count': 0}
-Mukhayyam Khanyunis	{'pattern': 'Mukhayyam\\ Khanyunis', 'count': 0}
-Mukhayyam Khān Yūnis	{'pattern': 'Mukhayyam\\ Khān\\ Yūnis', 'count': 0}
-Mukhayyam Khān Yūnus	{'pattern': 'Mukhayyam\\ Khān\\ Yūnus', 'count': 0}
-Mukhayyam Khānyūnis	{'pattern': 'Mukhayyam\\ Khānyūnis', 'count': 0}
-campo de Jan Yunis	{'pattern': 'campo\\ de\\ Jan\\ Yunis', 'count': 0}
-campo de Jan Yunís	{'pattern': 'campo\\ de\\ Jan\\ Yunís', 'count': 0}
-campo de refugiados de Jan Yunis	{'pattern': 'campo\\ de\\ refugiados\\ de\\ Jan\\ Yunis', 'count': 0}
-campo de refugiados de Jan Yunís	{'pattern': 'campo\\ de\\ refugiados\\ de\\ Jan\\ Yunís', 'count': 0}
-mkhym khan ywns	{'pattern': 'mkhym\\ khan\\ ywns', 'count': 0}
-mkhym khanywns	{'pattern': 'mkhym\\ khanywns', 'count': 0}
-مخيم خان يونس	{'pattern': 'مخيم\\ خان\\ يونس', 'count': 0}
-مخيم خانيونس	{'pattern': 'مخيم\\ خانيونس', 'count': 0}
-An Nusayrat	{'pattern': 'An\\ Nusayrat', 'count': 0}
-An Nuşayrāt	{'pattern': 'An\\ Nuşayrāt', 'count': 0}
-Nusayrat	{'pattern': 'Nusayrat', 'count': 0}
-Nuseira	{'pattern': 'Nuseira', 'count': 98}
-Nuseirat	{'pattern': 'Nuseirat', 'count': 98}
-Nuşayrāt	{'pattern': 'Nuşayrāt', 'count': 0}
-Nuṣeirā	{'pattern': 'Nuṣeirā', 'count': 0}
-alnsyrat	{'pattern': 'alnsyrat', 'count': 0}
-النصيرات	{'pattern': 'النصيرات', 'count': 0}
-Al Burayj	{'pattern': 'Al\\ Burayj', 'count': 0}
-Al Buraij	{'pattern': 'Al\\ Buraij', 'count': 0}
-Al-Bureij	{'pattern': 'Al\\-Bureij', 'count': 2}
-Bureij	{'pattern': 'Bureij', 'count': 47}
-El Bureij	{'pattern': 'El\\ Bureij', 'count': 0}
-albryj	{'pattern': 'albryj', 'count': 0}
-البريج	{'pattern': 'البريج', 'count': 0}
-Rafah	{'pattern': 'Rafah', 'count': 1406}
-Mukhayyam Rafah	{'pattern': 'Mukhayyam\\ Rafah', 'count': 0}
-Mukhayyam Rafaḩ	{'pattern': 'Mukhayyam\\ Rafaḩ', 'count': 0}
-mkhym rfh	{'pattern': 'mkhym\\ rfh', 'count': 0}
-مخيم رفح	{'pattern': 'مخيم\\ رفح', 'count': 0}
-Bani Suhayla	{'pattern': 'Bani\\ Suhayla', 'count': 0}
-Bani Sueheyla	{'pattern': 'Bani\\ Sueheyla', 'count': 0}
-Bani Suhajla	{'pattern': 'Bani\\ Suhajla', 'count': 0}
-Bani Suhayl	{'pattern': 'Bani\\ Suhayl', 'count': 0}
-Bani Suhaylah	{'pattern': 'Bani\\ Suhaylah', 'count': 0}
-Bani Suheila	{'pattern': 'Bani\\ Suheila', 'count': 5}
-Bani Süheyla	{'pattern': 'Bani\\ Süheyla', 'count': 0}
-Bani-Sukhajla	{'pattern': 'Bani\\-Sukhajla', 'count': 0}
-Baní Suhajla	{'pattern': 'Baní\\ Suhajla', 'count': 0}
-Banī Suhayl	{'pattern': 'Banī\\ Suhayl', 'count': 0}
-Banī Suhaylah	{'pattern': 'Banī\\ Suhaylah', 'count': 0}
-Banī Suhaylā	{'pattern': 'Banī\\ Suhaylā', 'count': 0}
-bny shyla	{'pattern': 'bny\\ shyla', 'count': 0}
-bny swhylh	{'pattern': 'bny\\ swhylh', 'count': 0}
-Бани-Сухайла	{'pattern': 'Бани\\-Сухайла', 'count': 0}
-בני סוהילה	{'pattern': 'בני\\ סוהילה', 'count': 0}
-بني سهيلا	{'pattern': 'بني\\ سهيلا', 'count': 0}
-بنی سهیلا	{'pattern': 'بنی\\ سهیلا', 'count': 0}
-بنی سہیلہ	{'pattern': 'بنی\\ سہیلہ', 'count': 0}
-バニ・スヘイラ	{'pattern': 'バニ・スヘイラ', 'count': 0}
-Mukhayyam Nusayrat	{'pattern': 'Mukhayyam\\ Nusayrat', 'count': 0}
-Mukhayyam Nuşayrāt	{'pattern': 'Mukhayyam\\ Nuşayrāt', 'count': 0}
-Mukhayyam an Nusayrat	{'pattern': 'Mukhayyam\\ an\\ Nusayrat', 'count': 0}
-Mukhayyam an Nuşayrāt	{'pattern': 'Mukhayyam\\ an\\ Nuşayrāt', 'count': 0}
-mkhym alnsyrat	{'pattern': 'mkhym\\ alnsyrat', 'count': 0}
-مخيم النصيرات	{'pattern': 'مخيم\\ النصيرات', 'count': 0}
-Mukhayyam al Burayj	{'pattern': 'Mukhayyam\\ al\\ Burayj', 'count': 0}
-mkhym albryj	{'pattern': 'mkhym\\ albryj', 'count': 0}
-مخيم البريج	{'pattern': 'مخيم\\ البريج', 'count': 0}
-Al Qararah	{'pattern': 'Al\\ Qararah', 'count': 1}
-Al Qarara	{'pattern': 'Al\\ Qarara', 'count': 3}
-Al Qarārah	{'pattern': 'Al\\ Qarārah', 'count': 0}
-alqrart	{'pattern': 'alqrart', 'count': 0}
-القرارة	{'pattern': 'القرارة', 'count': 0}
-Abasan al Kabirah	{'pattern': 'Abasan\\ al\\ Kabirah', 'count': 0}
-Abasan	{'pattern': 'Abasan', 'count': 14}
-Abasan Kabera	{'pattern': 'Abasan\\ Kabera', 'count': 0}
-Abasan al Kabir	{'pattern': 'Abasan\\ al\\ Kabir', 'count': 0}
-Abasan al-Kabera	{'pattern': 'Abasan\\ al\\-Kabera', 'count': 0}
-Abasan alkabir	{'pattern': 'Abasan\\ alkabir', 'count': 0}
-Abasan el-Kabir	{'pattern': 'Abasan\\ el\\-Kabir', 'count': 0}
-Abasân el-Kabîr	{'pattern': 'Abasân\\ el\\-Kabîr', 'count': 0}
-Abasān	{'pattern': 'Abasān', 'count': 0}
-Abasān al Kabīr	{'pattern': 'Abasān\\ al\\ Kabīr', 'count': 0}
-`Abasan al Kabirah	{'pattern': '`Abasan\\ al\\ Kabirah', 'count': 0}
-عبسان الكبيرة	{'pattern': 'عبسان\\ الكبيرة', 'count': 0}
-‘Abasān al Kabīrah	{'pattern': '‘Abasān\\ al\\ Kabīrah', 'count': 0}
-Az Zuwaydah	{'pattern': 'Az\\ Zuwaydah', 'count': 0}
-Alzwaydt	{'pattern': 'Alzwaydt', 'count': 0}
-Ar Ruwaydah	{'pattern': 'Ar\\ Ruwaydah', 'count': 0}
-Az Zuwāydah	{'pattern': 'Az\\ Zuwāydah', 'count': 0}
-alzwaydt	{'pattern': 'alzwaydt', 'count': 0}
-الزوايدة	{'pattern': 'الزوايدة', 'count': 0}
-Maghazi	{'pattern': 'Maghazi', 'count': 106}
-Al Maghaze	{'pattern': 'Al\\ Maghaze', 'count': 0}
-Mukhayyam Shaykh al Maghazi	{'pattern': 'Mukhayyam\\ Shaykh\\ al\\ Maghazi', 'count': 0}
-Mukhayyam Shaykh al Maghāzī	{'pattern': 'Mukhayyam\\ Shaykh\\ al\\ Maghāzī', 'count': 0}
-Mukhayyam al Maghazi	{'pattern': 'Mukhayyam\\ al\\ Maghazi', 'count': 0}
-Mukhayyam al Maghāzī	{'pattern': 'Mukhayyam\\ al\\ Maghāzī', 'count': 0}
-mkhym almghazy	{'pattern': 'mkhym\\ almghazy', 'count': 0}
-مخيم المغازي	{'pattern': 'مخيم\\ المغازي', 'count': 0}
-Shukat as Sufi	{'pattern': 'Shukat\\ as\\ Sufi', 'count': 0}
-Shawkat as Sufi	{'pattern': 'Shawkat\\ as\\ Sufi', 'count': 0}
-Shawkat aş Şūfī	{'pattern': 'Shawkat\\ aş\\ Şūfī', 'count': 0}
-Shoket es Sufi	{'pattern': 'Shoket\\ es\\ Sufi', 'count': 0}
-Shūkat aş Şūfī	{'pattern': 'Shūkat\\ aş\\ Şūfī', 'count': 0}
-shwkt alswfy	{'pattern': 'shwkt\\ alswfy', 'count': 0}
-شوكة الصوفي	{'pattern': 'شوكة\\ الصوفي', 'count': 0}
-Khuza'ah	"{'pattern': ""Khuza'ah"", 'count': 0}"
-Kh Ikhza`a	{'pattern': 'Kh\\ Ikhza`a', 'count': 0}
-Kh Ikhza‘a	{'pattern': 'Kh\\ Ikhza‘a', 'count': 0}
-Khirbat Ikhza`a	{'pattern': 'Khirbat\\ Ikhza`a', 'count': 0}
-Khirbat Ikhza`ah	{'pattern': 'Khirbat\\ Ikhza`ah', 'count': 0}
-Khirbat Ikhzā‘a	{'pattern': 'Khirbat\\ Ikhzā‘a', 'count': 0}
-Khirbat Ikhzā‘ah	{'pattern': 'Khirbat\\ Ikhzā‘ah', 'count': 0}
-Khuza`ah	{'pattern': 'Khuza`ah', 'count': 0}
-Khuzā‘ah	{'pattern': 'Khuzā‘ah', 'count': 0}
-خزاعة	{'pattern': 'خزاعة', 'count': 0}
-Al Mughraqah	{'pattern': 'Al\\ Mughraqah', 'count': 0}
-Abu Mudayin	{'pattern': 'Abu\\ Mudayin', 'count': 0}
-Abū Mudayin	{'pattern': 'Abū\\ Mudayin', 'count': 0}
-Al Mughrāqah	{'pattern': 'Al\\ Mughrāqah', 'count': 0}
-abw mdyn	{'pattern': 'abw\\ mdyn', 'count': 0}
-almghraqh	{'pattern': 'almghraqh', 'count': 0}
-ابو مدين	{'pattern': 'ابو\\ مدين', 'count': 0}
-المغراقه	{'pattern': 'المغراقه', 'count': 0}
-Deir El-Balah	{'pattern': 'Deir\\ El\\-Balah', 'count': 226}
-Deir el-Balah	{'pattern': 'Deir\\ el\\-Balah', 'count': 226}
-Deir el-Balah flyktningleir	{'pattern': 'Deir\\ el\\-Balah\\ flyktningleir', 'count': 0}
-Deir el-Balah refugee camp	{'pattern': 'Deir\\ el\\-Balah\\ refugee\\ camp', 'count': 3}
-Mukhayyam Dayr al Balah	{'pattern': 'Mukhayyam\\ Dayr\\ al\\ Balah', 'count': 0}
-Mukhayyam Dayr al Balaḩ	{'pattern': 'Mukhayyam\\ Dayr\\ al\\ Balaḩ', 'count': 0}
-mkhym dyr alblh	{'pattern': 'mkhym\\ dyr\\ alblh', 'count': 0}
-مخيم دير البلح	{'pattern': 'مخيم\\ دير\\ البلح', 'count': 0}
-An Nasr	{'pattern': 'An\\ Nasr', 'count': 65}
-Al Bayk	{'pattern': 'Al\\ Bayk', 'count': 0}
-Al Bayuk	{'pattern': 'Al\\ Bayuk', 'count': 0}
-Al Bayūk	{'pattern': 'Al\\ Bayūk', 'count': 0}
-An Naşr	{'pattern': 'An\\ Naşr', 'count': 0}
-albywk	{'pattern': 'albywk', 'count': 0}
-alnsr	{'pattern': 'alnsr', 'count': 0}
-البيوك	{'pattern': 'البيوك', 'count': 0}
-النصر	{'pattern': 'النصر', 'count': 1}
-Abasan al Jadidah	{'pattern': 'Abasan\\ al\\ Jadidah', 'count': 0}
-`Abasan al Jadida	{'pattern': '`Abasan\\ al\\ Jadida', 'count': 0}
-`Abasan al Jadidah	{'pattern': '`Abasan\\ al\\ Jadidah', 'count': 0}
-`Abasan as Saghirah	{'pattern': '`Abasan\\ as\\ Saghirah', 'count': 0}
-عبسان الجديدة	{'pattern': 'عبسان\\ الجديدة', 'count': 0}
-عبسان الصغيرة	{'pattern': 'عبسان\\ الصغيرة', 'count': 0}
-‘Abasan al Jadida	{'pattern': '‘Abasan\\ al\\ Jadida', 'count': 0}
-‘Abasān al Jadīdah	{'pattern': '‘Abasān\\ al\\ Jadīdah', 'count': 0}
-‘Abasān aş Şaghīrah	{'pattern': '‘Abasān\\ aş\\ Şaghīrah', 'count': 0}
-Al Fukhkhari	{'pattern': 'Al\\ Fukhkhari', 'count': 0}
-Al Fakhkhari	{'pattern': 'Al\\ Fakhkhari', 'count': 0}
-Al Fakhkhārī	{'pattern': 'Al\\ Fakhkhārī', 'count': 0}
-Al Fukhkhārī	{'pattern': 'Al\\ Fukhkhārī', 'count': 0}
-El Fukhkhari	{'pattern': 'El\\ Fukhkhari', 'count': 0}
-alfkhary	{'pattern': 'alfkhary', 'count': 0}
-الفخاري	{'pattern': 'الفخاري', 'count': 0}
-Wadi as Salqa	{'pattern': 'Wadi\\ as\\ Salqa', 'count': 0}
-Wadi as Salga	{'pattern': 'Wadi\\ as\\ Salga', 'count': 0}
-Wādī as Salgā	{'pattern': 'Wādī\\ as\\ Salgā', 'count': 0}
-Wādī as Salqā	{'pattern': 'Wādī\\ as\\ Salqā', 'count': 0}
-wady alslqa	{'pattern': 'wady\\ alslqa', 'count': 0}
-وادي السلقا	{'pattern': 'وادي\\ السلقا', 'count': 0}
-Juhr ad Dik	{'pattern': 'Juhr\\ ad\\ Dik', 'count': 0}
-Juhor ad Dik	{'pattern': 'Juhor\\ ad\\ Dik', 'count': 0}
-Juḩr ad Dīk	{'pattern': 'Juḩr\\ ad\\ Dīk', 'count': 0}
-jhr aldyk	{'pattern': 'jhr\\ aldyk', 'count': 0}
-جحر الديك	{'pattern': 'جحر\\ الديك', 'count': 0}
-Umm an Nasr	{'pattern': 'Umm\\ an\\ Nasr', 'count': 0}
-Al Qaryah al Badawiyah al Maslakh	{'pattern': 'Al\\ Qaryah\\ al\\ Badawiyah\\ al\\ Maslakh', 'count': 0}
-Umm an Naşr	{'pattern': 'Umm\\ an\\ Naşr', 'count': 0}
-alqryt albdwyt almslkh	{'pattern': 'alqryt\\ albdwyt\\ almslkh', 'count': 0}
-am alnsr	{'pattern': 'am\\ alnsr', 'count': 0}
-أم النصر	{'pattern': 'أم\\ النصر', 'count': 0}
-القرية البدوية المسلخ	{'pattern': 'القرية\\ البدوية\\ المسلخ', 'count': 0}
-Al Musaddar	{'pattern': 'Al\\ Musaddar', 'count': 0}
-Al Muşaddar	{'pattern': 'Al\\ Muşaddar', 'count': 0}
-almsdr	{'pattern': 'almsdr', 'count': 0}
-المصدر	{'pattern': 'المصدر', 'count': 0}
-Al Mawasi	{'pattern': 'Al\\ Mawasi', 'count': 1}
-Al Mawāsī	{'pattern': 'Al\\ Mawāsī', 'count': 0}
-El-Mawasi	{'pattern': 'El\\-Mawasi', 'count': 0}
-almwasy	{'pattern': 'almwasy', 'count': 0}
-المواصي	{'pattern': 'المواصي', 'count': 1}
-Al-Shifa Hospital	{'pattern': 'Al\\-Shifa\\ Hospital', 'count': 360}
-Al'-Shifa	"{'pattern': ""Al'\\-Shifa"", 'count': 0}"
-Al-Shifa Ospitalea	{'pattern': 'Al\\-Shifa\\ Ospitalea', 'count': 0}
-Al-Shifa ziekenhuis	{'pattern': 'Al\\-Shifa\\ ziekenhuis', 'count': 0}
-As-Sifa	{'pattern': 'As\\-Sifa', 'count': 0}
-Aš-Šifá	{'pattern': 'Aš\\-Šifá', 'count': 0}
-Benh vien Al-Shifa	{'pattern': 'Benh\\ vien\\ Al\\-Shifa', 'count': 0}
-Bolnisnica Al Sifa	{'pattern': 'Bolnisnica\\ Al\\ Sifa', 'count': 0}
-Bolnišnica Al Šifa	{'pattern': 'Bolnišnica\\ Al\\ Šifa', 'count': 0}
-Bệnh viện Al-Shifa	{'pattern': 'Bệnh\\ viện\\ Al\\-Shifa', 'count': 0}
-Gazze Sifa Hastanesi	{'pattern': 'Gazze\\ Sifa\\ Hastanesi', 'count': 0}
-Gazze Şifa Hastanesi	{'pattern': 'Gazze\\ Şifa\\ Hastanesi', 'count': 0}
-Hospital Al-Shifa	{'pattern': 'Hospital\\ Al\\-Shifa', 'count': 0}
-Mustashfa al-Shifa	{'pattern': 'Mustashfa\\ al\\-Shifa', 'count': 0}
-Ospedale Al-Shifa	{'pattern': 'Ospedale\\ Al\\-Shifa', 'count': 0}
-Rumah Sakit Al-Shifa	{'pattern': 'Rumah\\ Sakit\\ Al\\-Shifa', 'count': 0}
-Shifa-sykehuset	{'pattern': 'Shifa\\-sykehuset', 'count': 0}
-Valetudinarium al-Shifa	{'pattern': 'Valetudinarium\\ al\\-Shifa', 'count': 0}
-Ysbyty Al-Shifa	{'pattern': 'Ysbyty\\ Al\\-Shifa', 'count': 0}
-al-Schifa-Krankenhaus	{'pattern': 'al\\-Schifa\\-Krankenhaus', 'count': 0}
-al-cipa maruttuvamanai	{'pattern': 'al\\-cipa\\ maruttuvamanai', 'count': 0}
-ala-sipha hasapatala	{'pattern': 'ala\\-sipha\\ hasapatala', 'count': 0}
-alsipa byeong-won	{'pattern': 'alsipa\\ byeong\\-won', 'count': 0}
-bymarstan alshfa	{'pattern': 'bymarstan\\ alshfa', 'count': 0}
-hopital Al-Shifa	{'pattern': 'hopital\\ Al\\-Shifa', 'count': 0}
-hospitalo Al-Sifa	{'pattern': 'hospitalo\\ Al\\-Sifa', 'count': 0}
-hospitalo Al-Ŝifa	{'pattern': 'hospitalo\\ Al\\-Ŝifa', 'count': 0}
-hôpital Al-Shifa	{'pattern': 'hôpital\\ Al\\-Shifa', 'count': 0}
-rong phyabal xach chifax	{'pattern': 'rong\\ phyabal\\ xach\\ chifax', 'count': 0}
-xi fa yi yuan	{'pattern': 'xi\\ fa\\ yi\\ yuan', 'count': 0}
-Аль-Шифа	{'pattern': 'Аль\\-Шифа', 'count': 0}
-בית החולים שיפא	{'pattern': 'בית\\ החולים\\ שיפא', 'count': 1}
-بیمارستان الشفا	{'pattern': 'بیمارستان\\ الشفا', 'count': 0}
-مجمع الشفاء الطبي	{'pattern': 'مجمع\\ الشفاء\\ الطبي', 'count': 1}
-আল-শিফা হাসপাতাল	{'pattern': 'আল\\-শিফা\\ হাসপাতাল', 'count': 0}
-அல்-சிபா மருத்துவமனை	{'pattern': 'அல்\\-சிபா\\ மருத்துவமனை', 'count': 0}
-โรงพยาบาลอัชชิฟาอ์	{'pattern': 'โรงพยาบาลอัชชิฟาอ์', 'count': 0}
-アル・シファ病院	{'pattern': 'アル・シファ病院', 'count': 0}
-希法医院	{'pattern': '希法医院', 'count': 0}
-알시파 병원	{'pattern': '알시파\\ 병원', 'count': 0}
-Umm Jarrah	{'pattern': 'Umm\\ Jarrah', 'count': 0}
-Umm Jerra	{'pattern': 'Umm\\ Jerra', 'count': 0}
-Musabbih	{'pattern': 'Musabbih', 'count': 0}
-Musebbeh	{'pattern': 'Musebbeh', 'count': 0}
-Muşabbiḩ	{'pattern': 'Muşabbiḩ', 'count': 0}
-Ard Rafah	{'pattern': 'Ard\\ Rafah', 'count': 0}
-Al Qubbah	{'pattern': 'Al\\ Qubbah', 'count': 0}
-El Qubbe	{'pattern': 'El\\ Qubbe', 'count': 0}
-Al Junaynah	{'pattern': 'Al\\ Junaynah', 'count': 0}
-El Juneine	{'pattern': 'El\\ Juneine', 'count': 0}
-Al Ghabah	{'pattern': 'Al\\ Ghabah', 'count': 0}
-Al Ghābah	{'pattern': 'Al\\ Ghābah', 'count': 0}
-El-Ghabe	{'pattern': 'El\\-Ghabe', 'count': 0}
-Al Filahah	{'pattern': 'Al\\ Filahah', 'count': 0}
-Al Filāḩah	{'pattern': 'Al\\ Filāḩah', 'count': 0}
-Al-Filaha	{'pattern': 'Al\\-Filaha', 'count': 0}
-El Filaha	{'pattern': 'El\\ Filaha', 'count': 0}
-Abu Himar	{'pattern': 'Abu\\ Himar', 'count': 0}
-Abu Himer	{'pattern': 'Abu\\ Himer', 'count': 0}
-Abū Ḩimār	{'pattern': 'Abū\\ Ḩimār', 'count': 0}
-Abu 'Awdah	"{'pattern': ""Abu\\ 'Awdah"", 'count': 0}"
-Abu `Auda	{'pattern': 'Abu\\ `Auda', 'count': 0}
-Abu `Awdah	{'pattern': 'Abu\\ `Awdah', 'count': 0}
-Abu `Ode	{'pattern': 'Abu\\ `Ode', 'count': 0}
-Abu ‘Auda	{'pattern': 'Abu\\ ‘Auda', 'count': 0}
-Abu ‘Ode	{'pattern': 'Abu\\ ‘Ode', 'count': 0}
-Abū ‘Awdah	{'pattern': 'Abū\\ ‘Awdah', 'count': 0}
-Arab al Qila'i	"{'pattern': ""Arab\\ al\\ Qila'i"", 'count': 0}"
-Abu Mu'ammar	"{'pattern': ""Abu\\ Mu'ammar"", 'count': 0}"
-Umm al Kilab	{'pattern': 'Umm\\ al\\ Kilab', 'count': 0}
-Umm al Kilāb	{'pattern': 'Umm\\ al\\ Kilāb', 'count': 0}
-Umm el-Kilab	{'pattern': 'Umm\\ el\\-Kilab', 'count': 0}
-aum alkilab	{'pattern': 'aum\\ alkilab', 'count': 0}
-أُم الكِلاب	{'pattern': 'أُم\\ الكِلاب', 'count': 0}
-Saknat az Zarqa'	"{'pattern': ""Saknat\\ az\\ Zarqa'"", 'count': 0}"
-Saknat az Zarqā’	{'pattern': 'Saknat\\ az\\ Zarqā’', 'count': 0}
-Rafiah Yam	{'pattern': 'Rafiah\\ Yam', 'count': 0}
-Rafiaẖ Yam	{'pattern': 'Rafiaẖ\\ Yam', 'count': 0}
-Qizan an Najjar	{'pattern': 'Qizan\\ an\\ Najjar', 'count': 0}
-Qazan an Najjar	{'pattern': 'Qazan\\ an\\ Najjar', 'count': 0}
-Qazān an Najjār	{'pattern': 'Qazān\\ an\\ Najjār', 'count': 0}
-Qīzān an Najjār	{'pattern': 'Qīzān\\ an\\ Najjār', 'count': 0}
-qyzan alnjar	{'pattern': 'qyzan\\ alnjar', 'count': 0}
-قيزان النجار	{'pattern': 'قيزان\\ النجار', 'count': 0}
-Qa' al Qurayn	"{'pattern': ""Qa'\\ al\\ Qurayn"", 'count': 0}"
-Qa` al Qurayn	{'pattern': 'Qa`\\ al\\ Qurayn', 'count': 0}
-Qa` al Qurein	{'pattern': 'Qa`\\ al\\ Qurein', 'count': 0}
-Qa` el-Qurein	{'pattern': 'Qa`\\ el\\-Qurein', 'count': 0}
-Qa‘ al Qurein	{'pattern': 'Qa‘\\ al\\ Qurein', 'count': 0}
-Qa‘ el-Qurein	{'pattern': 'Qa‘\\ el\\-Qurein', 'count': 0}
-Qā‘ al Qurayn	{'pattern': 'Qā‘\\ al\\ Qurayn', 'count': 0}
-قاع القرين	{'pattern': 'قاع\\ القرين', 'count': 0}
-Nahal Qatif	{'pattern': 'Nahal\\ Qatif', 'count': 0}
-Katif	{'pattern': 'Katif', 'count': 0}
-Nahal-Katif	{'pattern': 'Nahal\\-Katif', 'count': 0}
-Naḥal Qatif	{'pattern': 'Naḥal\\ Qatif', 'count': 0}
-Umm Kamil	{'pattern': 'Umm\\ Kamil', 'count': 0}
-Mukhaymil	{'pattern': 'Mukhaymil', 'count': 0}
-Mukheimil	{'pattern': 'Mukheimil', 'count': 0}
-Umm Kamīl	{'pattern': 'Umm\\ Kamīl', 'count': 0}
-aum kmyl	{'pattern': 'aum\\ kmyl', 'count': 0}
-أُم كميل	{'pattern': 'أُم\\ كميل', 'count': 0}
-An Nazlah	{'pattern': 'An\\ Nazlah', 'count': 0}
-El Nesleh	{'pattern': 'El\\ Nesleh', 'count': 0}
-En Nazle	{'pattern': 'En\\ Nazle', 'count': 0}
-En Nezle	{'pattern': 'En\\ Nezle', 'count': 0}
-Nazla	{'pattern': 'Nazla', 'count': 0}
-Nazlah	{'pattern': 'Nazlah', 'count': 0}
-Nuzle	{'pattern': 'Nuzle', 'count': 0}
-Al Mashahirah	{'pattern': 'Al\\ Mashahirah', 'count': 0}
-Al Mashahira	{'pattern': 'Al\\ Mashahira', 'count': 0}
-Al Mashāhirah	{'pattern': 'Al\\ Mashāhirah', 'count': 0}
-Qa' al Kharabah	"{'pattern': ""Qa'\\ al\\ Kharabah"", 'count': 0}"
-Qa` al Kharabah	{'pattern': 'Qa`\\ al\\ Kharabah', 'count': 0}
-Qa` el-Kharaba	{'pattern': 'Qa`\\ el\\-Kharaba', 'count': 0}
-Qa‘ al Kharābah	{'pattern': 'Qa‘\\ al\\ Kharābah', 'count': 0}
-Qa‘ el-Kharaba	{'pattern': 'Qa‘\\ el\\-Kharaba', 'count': 0}
-Qā‘ al Kharābah	{'pattern': 'Qā‘\\ al\\ Kharābah', 'count': 0}
-قاع الخَرابَة	{'pattern': 'قاع\\ الخَرابَة', 'count': 0}
-Daribat ash Shaykh Hammuda	{'pattern': 'Daribat\\ ash\\ Shaykh\\ Hammuda', 'count': 0}
-Izbat Bayt Hanun	{'pattern': 'Izbat\\ Bayt\\ Hanun', 'count': 0}
-`Izbat Bayt Hanun	{'pattern': '`Izbat\\ Bayt\\ Hanun', 'count': 0}
-`Izbat Beit Hanun	{'pattern': '`Izbat\\ Beit\\ Hanun', 'count': 0}
-عزبة بيت حنون	{'pattern': 'عزبة\\ بيت\\ حنون', 'count': 0}
-‘Izbat Bayt Ḩanūn	{'pattern': '‘Izbat\\ Bayt\\ Ḩanūn', 'count': 0}
-‘Izbat Beit Hanun	{'pattern': '‘Izbat\\ Beit\\ Hanun', 'count': 0}
-Arab Maslakh Bayt Lahya	{'pattern': 'Arab\\ Maslakh\\ Bayt\\ Lahya', 'count': 0}
-`Arab Maslakh Bayt La'iya	"{'pattern': ""`Arab\\ Maslakh\\ Bayt\\ La'iya"", 'count': 0}"
-`Arab Maslakh Bayt Lahya	{'pattern': '`Arab\\ Maslakh\\ Bayt\\ Lahya', 'count': 0}
-`Arab Maslakh Beit Lahya	{'pattern': '`Arab\\ Maslakh\\ Beit\\ Lahya', 'count': 0}
-عرب مسلخ بيت لائيا	{'pattern': 'عرب\\ مسلخ\\ بيت\\ لائيا', 'count': 0}
-عرب مسلخ بيت لاهيا	{'pattern': 'عرب\\ مسلخ\\ بيت\\ لاهيا', 'count': 0}
-‘Arab Maslakh Bayt Lāhyā	{'pattern': '‘Arab\\ Maslakh\\ Bayt\\ Lāhyā', 'count': 0}
-‘Arab Maslakh Bayt Lā’iyā	{'pattern': '‘Arab\\ Maslakh\\ Bayt\\ Lā’iyā', 'count': 0}
-‘Arab Maslakh Beit Lahya	{'pattern': '‘Arab\\ Maslakh\\ Beit\\ Lahya', 'count': 0}
-Madinat al 'Awdah	"{'pattern': ""Madinat\\ al\\ 'Awdah"", 'count': 0}"
-Madinat al `Awda	{'pattern': 'Madinat\\ al\\ `Awda', 'count': 0}
-Madinat al `Awdah	{'pattern': 'Madinat\\ al\\ `Awdah', 'count': 0}
-Madīnat al ‘Awda	{'pattern': 'Madīnat\\ al\\ ‘Awda', 'count': 0}
-Madīnat al ‘Awdah	{'pattern': 'Madīnat\\ al\\ ‘Awdah', 'count': 0}
-مدينة العودة	{'pattern': 'مدينة\\ العودة', 'count': 0}
-As Surayij	{'pattern': 'As\\ Surayij', 'count': 0}
-alsryj	{'pattern': 'alsryj', 'count': 0}
-السريج	{'pattern': 'السريج', 'count': 0}
-Az-Zawayda	{'pattern': 'Az\\-Zawayda', 'count': 4}
-Al Zawaida	{'pattern': 'Al\\ Zawaida', 'count': 0}
-Khuza'a	"{'pattern': ""Khuza'a"", 'count': 0}"
-Khuza'aa	"{'pattern': ""Khuza'aa"", 'count': 0}"
-al Fukhari	{'pattern': 'al\\ Fukhari', 'count': 0}
-Al Fukhare	{'pattern': 'Al\\ Fukhare', 'count': 0}
-Shokat as-Sufi	{'pattern': 'Shokat\\ as\\-Sufi', 'count': 1}
-Al Shuka	{'pattern': 'Al\\ Shuka', 'count': 0}
-Shoka	{'pattern': 'Shoka', 'count': 1}
-Al-Mughraqa	{'pattern': 'Al\\-Mughraqa', 'count': 2}
-Bani Suhela	{'pattern': 'Bani\\ Suhela', 'count': 0}
-Bani Suhaila	{'pattern': 'Bani\\ Suhaila', 'count': 10}
-Abasan al-Saghira	{'pattern': 'Abasan\\ al\\-Saghira', 'count': 0}
-Abasan al-Saghir	{'pattern': 'Abasan\\ al\\-Saghir', 'count': 0}
-Abasan Jadeda	{'pattern': 'Abasan\\ Jadeda', 'count': 0}
-Abasan al-Jadida	{'pattern': 'Abasan\\ al\\-Jadida', 'count': 3}
-Abasan al-Sa'ir	"{'pattern': ""Abasan\\ al\\-Sa'ir"", 'count': 0}"
-Al-Zahra'	"{'pattern': ""Al\\-Zahra'"", 'count': 0}"
-Al Zahra	{'pattern': 'Al\\ Zahra', 'count': 1}
-Ezahra	{'pattern': 'Ezahra', 'count': 0}
-Madinat Az-Zahra'	"{'pattern': ""Madinat\\ Az\\-Zahra'"", 'count': 0}"
-Madinat Azzahra	{'pattern': 'Madinat\\ Azzahra', 'count': 0}
-Khirbat al-Adas	{'pattern': 'Khirbat\\ al\\-Adas', 'count': 0}
-Al Qaryah as Suwaydiyah	{'pattern': 'Al\\ Qaryah\\ as\\ Suwaydiyah', 'count': 0}
-Al Qaryah as Suwaydīyah	{'pattern': 'Al\\ Qaryah\\ as\\ Suwaydīyah', 'count': 0}
-alqryt alswydyt	{'pattern': 'alqryt\\ alswydyt', 'count': 0}
-القرية السويدية	{'pattern': 'القرية\\ السويدية', 'count': 0}
-Al Katibah	{'pattern': 'Al\\ Katibah', 'count': 0}
-Al Katībah	{'pattern': 'Al\\ Katībah', 'count': 0}
-alktybt	{'pattern': 'alktybt', 'count': 0}
-الكتيبة	{'pattern': 'الكتيبة', 'count': 0}
-Al Amal	{'pattern': 'Al\\ Amal', 'count': 1}
-alaml	{'pattern': 'alaml', 'count': 0}
-الأمل	{'pattern': 'الأمل', 'count': 1}
-Atatra	{'pattern': 'Atatra', 'count': 0}
-Remal	{'pattern': 'Remal', 'count': 10}
-Rimal	{'pattern': 'Rimal', 'count': 17}
-hy alrmal	{'pattern': 'hy\\ alrmal', 'count': 0}
-حي الرمال	{'pattern': 'حي\\ الرمال', 'count': 0}
-At Turkman	{'pattern': 'At\\ Turkman', 'count': 0}
-At Turkmān	{'pattern': 'At\\ Turkmān', 'count': 0}
-altzkman	{'pattern': 'altzkman', 'count': 0}
-التزكمان	{'pattern': 'التزكمان', 'count': 0}
-Az Zaytun	{'pattern': 'Az\\ Zaytun', 'count': 0}
-Az Zaytūn	{'pattern': 'Az\\ Zaytūn', 'count': 0}
-alzytwn	{'pattern': 'alzytwn', 'count': 0}
-الزيتون	{'pattern': 'الزيتون', 'count': 0}
-As Sabra	{'pattern': 'As\\ Sabra', 'count': 0}
-Aş Şabrā	{'pattern': 'Aş\\ Şabrā', 'count': 0}
-alsbra	{'pattern': 'alsbra', 'count': 0}
-الصبرا	{'pattern': 'الصبرا', 'count': 0}
-Al Fawayidah	{'pattern': 'Al\\ Fawayidah', 'count': 0}
-Al Fawaydah	{'pattern': 'Al\\ Fawaydah', 'count': 0}
-Al Fawāydah	{'pattern': 'Al\\ Fawāydah', 'count': 0}
-Al Fawāyidah	{'pattern': 'Al\\ Fawāyidah', 'count': 0}
-alfwaydt	{'pattern': 'alfwaydt', 'count': 0}
-الفوايدة	{'pattern': 'الفوايدة', 'count': 0}
-Ash Shaykh 'Ijlin	"{'pattern': ""Ash\\ Shaykh\\ 'Ijlin"", 'count': 0}"
-Ash Shaykh `Ijlin	{'pattern': 'Ash\\ Shaykh\\ `Ijlin', 'count': 0}
-Ash Shaykh ‘Ijlīn	{'pattern': 'Ash\\ Shaykh\\ ‘Ijlīn', 'count': 0}
-الشيخ عجلين	{'pattern': 'الشيخ\\ عجلين', 'count': 0}
-Midan Filastin	{'pattern': 'Midan\\ Filastin', 'count': 0}
-Mīdān Filasţīn	{'pattern': 'Mīdān\\ Filasţīn', 'count': 0}
-mydan flstyn	{'pattern': 'mydan\\ flstyn', 'count': 0}
-ميدان فلسطين	{'pattern': 'ميدان\\ فلسطين', 'count': 0}
-Ar Rimal al Janubi	{'pattern': 'Ar\\ Rimal\\ al\\ Janubi', 'count': 0}
-Ar Rimāl al Janūbī	{'pattern': 'Ar\\ Rimāl\\ al\\ Janūbī', 'count': 0}
-alrmal aljnwby	{'pattern': 'alrmal\\ aljnwby', 'count': 0}
-الرمال الجنوبي	{'pattern': 'الرمال\\ الجنوبي', 'count': 0}
-Ar Rimal ash Shamali	{'pattern': 'Ar\\ Rimal\\ ash\\ Shamali', 'count': 0}
-Ar Rimāl ash Shamālī	{'pattern': 'Ar\\ Rimāl\\ ash\\ Shamālī', 'count': 0}
-alrmal alshmaly	{'pattern': 'alrmal\\ alshmaly', 'count': 0}
-الرمال الشمالي	{'pattern': 'الرمال\\ الشمالي', 'count': 0}
-An Nasr ash Sharqi	{'pattern': 'An\\ Nasr\\ ash\\ Sharqi', 'count': 0}
-An Naşr ash Sharqī	{'pattern': 'An\\ Naşr\\ ash\\ Sharqī', 'count': 0}
-alnsr alshrqy	{'pattern': 'alnsr\\ alshrqy', 'count': 0}
-النصر الشرقي	{'pattern': 'النصر\\ الشرقي', 'count': 0}
-An Nasr al Gharbi	{'pattern': 'An\\ Nasr\\ al\\ Gharbi', 'count': 0}
-An Naşr al Gharbī	{'pattern': 'An\\ Naşr\\ al\\ Gharbī', 'count': 0}
-alnsr alghrby	{'pattern': 'alnsr\\ alghrby', 'count': 0}
-النصر الغربي	{'pattern': 'النصر\\ الغربي', 'count': 0}
-Ash Shaykh Radwan	{'pattern': 'Ash\\ Shaykh\\ Radwan', 'count': 0}
-Ash Shaykh Raḑwān	{'pattern': 'Ash\\ Shaykh\\ Raḑwān', 'count': 0}
-alshykh rdwan	{'pattern': 'alshykh\\ rdwan', 'count': 0}
-الشيخ رضوان	{'pattern': 'الشيخ\\ رضوان', 'count': 0}
-Ad Daraj	{'pattern': 'Ad\\ Daraj', 'count': 0}
-aldrj	{'pattern': 'aldrj', 'count': 0}
-الدرج	{'pattern': 'الدرج', 'count': 0}
-At Tuffah	{'pattern': 'At\\ Tuffah', 'count': 0}
-At Tuffāḩ	{'pattern': 'At\\ Tuffāḩ', 'count': 0}
-altfah	{'pattern': 'altfah', 'count': 0}
-التفاح	{'pattern': 'التفاح', 'count': 0}
-Al Jadidah	{'pattern': 'Al\\ Jadidah', 'count': 0}
-Al Jadīdah	{'pattern': 'Al\\ Jadīdah', 'count': 0}
-aljdydt	{'pattern': 'aljdydt', 'count': 0}
-الجديدة	{'pattern': 'الجديدة', 'count': 0}
-Maydan ash Shuja'iyah	"{'pattern': ""Maydan\\ ash\\ Shuja'iyah"", 'count': 0}"
-Maydan ash Shuja`iyah	{'pattern': 'Maydan\\ ash\\ Shuja`iyah', 'count': 0}
-Maydān ash Shujā‘īyah	{'pattern': 'Maydān\\ ash\\ Shujā‘īyah', 'count': 0}
-Midan ash Shuja`iyah	{'pattern': 'Midan\\ ash\\ Shuja`iyah', 'count': 0}
-Mīdān ash Shujā‘īyah	{'pattern': 'Mīdān\\ ash\\ Shujā‘īyah', 'count': 0}
-ميدان الشجاعية	{'pattern': 'ميدان\\ الشجاعية', 'count': 0}
-Al Madinah al Qadimah	{'pattern': 'Al\\ Madinah\\ al\\ Qadimah', 'count': 0}
-Al Madīnah al Qadīmah	{'pattern': 'Al\\ Madīnah\\ al\\ Qadīmah', 'count': 0}
-almdynt alqdymt	{'pattern': 'almdynt\\ alqdymt', 'count': 0}
-المدينة القديمة	{'pattern': 'المدينة\\ القديمة', 'count': 0}
-Al Mu'tarid	"{'pattern': ""Al\\ Mu'tarid"", 'count': 0}"
-Al Mu`tarid	{'pattern': 'Al\\ Mu`tarid', 'count': 0}
-Al Mu‘tariḑ	{'pattern': 'Al\\ Mu‘tariḑ', 'count': 0}
-المعترض	{'pattern': 'المعترض', 'count': 0}
-Al Mintaqah as Sina'iyah	"{'pattern': ""Al\\ Mintaqah\\ as\\ Sina'iyah"", 'count': 0}"
-Al Mintaqah as Sina`iyah	{'pattern': 'Al\\ Mintaqah\\ as\\ Sina`iyah', 'count': 0}
-Al Minţaqah aş Şinā‘īyah	{'pattern': 'Al\\ Minţaqah\\ aş\\ Şinā‘īyah', 'count': 0}
-المنطقة الصناعية	{'pattern': 'المنطقة\\ الصناعية', 'count': 0}
-Ar Rasm	{'pattern': 'Ar\\ Rasm', 'count': 0}
-alrsm	{'pattern': 'alrsm', 'count': 0}
-الرسم	{'pattern': 'الرسم', 'count': 0}
-Al Mattayin	{'pattern': 'Al\\ Mattayin', 'count': 0}
-Al Maţţāyin	{'pattern': 'Al\\ Maţţāyin', 'count': 0}
-almtayn	{'pattern': 'almtayn', 'count': 0}
-المطاين	{'pattern': 'المطاين', 'count': 0}
-Al Harah ash Sharqiyah	{'pattern': 'Al\\ Harah\\ ash\\ Sharqiyah', 'count': 0}
-Al Ḩārah ash Sharqīyah	{'pattern': 'Al\\ Ḩārah\\ ash\\ Sharqīyah', 'count': 0}
-alhart alshrqyt	{'pattern': 'alhart\\ alshrqyt', 'count': 0}
-الحارة الشرقية	{'pattern': 'الحارة\\ الشرقية', 'count': 0}
-Abu Asad	{'pattern': 'Abu\\ Asad', 'count': 0}
-Abū Asad	{'pattern': 'Abū\\ Asad', 'count': 0}
-abw asd	{'pattern': 'abw\\ asd', 'count': 0}
-أبو أسد	{'pattern': 'أبو\\ أسد', 'count': 0}
-Abu Sittah	{'pattern': 'Abu\\ Sittah', 'count': 9}
-Abū Sittah	{'pattern': 'Abū\\ Sittah', 'count': 0}
-abw stt	{'pattern': 'abw\\ stt', 'count': 0}
-أبو ستة	{'pattern': 'أبو\\ ستة', 'count': 0}
-Hamadah	{'pattern': 'Hamadah', 'count': 1}
-hmadt	{'pattern': 'hmadt', 'count': 0}
-حمادة	{'pattern': 'حمادة', 'count': 0}
-Ḩamādah	{'pattern': 'Ḩamādah', 'count': 0}
-Tunis	{'pattern': 'Tunis', 'count': 89}
-Tūnis	{'pattern': 'Tūnis', 'count': 0}
-twns	{'pattern': 'twns', 'count': 0}
-تونس	{'pattern': 'تونس', 'count': 0}
-Al Masihi	{'pattern': 'Al\\ Masihi', 'count': 0}
-Al Masīḩī	{'pattern': 'Al\\ Masīḩī', 'count': 0}
-almsyhy	{'pattern': 'almsyhy', 'count': 0}
-المسيحي	{'pattern': 'المسيحي', 'count': 0}
-Al 'Amrah	"{'pattern': ""Al\\ 'Amrah"", 'count': 0}"
-Al `Amrah	{'pattern': 'Al\\ `Amrah', 'count': 0}
-Al ‘Amrah	{'pattern': 'Al\\ ‘Amrah', 'count': 0}
-العمرة	{'pattern': 'العمرة', 'count': 0}
-Al Brawk	{'pattern': 'Al\\ Brawk', 'count': 0}
-albrwk	{'pattern': 'albrwk', 'count': 0}
-البروك	{'pattern': 'البروك', 'count': 0}
-Abu Fayyad	{'pattern': 'Abu\\ Fayyad', 'count': 0}
-Abū Fayyāḑ	{'pattern': 'Abū\\ Fayyāḑ', 'count': 0}
-abw fyad	{'pattern': 'abw\\ fyad', 'count': 0}
-أبو فياض	{'pattern': 'أبو\\ فياض', 'count': 0}
-Umran	{'pattern': 'Umran', 'count': 0}
-`Umran	{'pattern': '`Umran', 'count': 0}
-عمران	{'pattern': 'عمران', 'count': 0}
-‘Umrān	{'pattern': '‘Umrān', 'count': 0}
-Al Qata'ah	"{'pattern': ""Al\\ Qata'ah"", 'count': 0}"
-Al Qata`ah	{'pattern': 'Al\\ Qata`ah', 'count': 0}
-Al Qaţa‘ah	{'pattern': 'Al\\ Qaţa‘ah', 'count': 0}
-القطعة	{'pattern': 'القطعة', 'count': 0}
-Al Hakar	{'pattern': 'Al\\ Hakar', 'count': 0}
-Al Ḩakar	{'pattern': 'Al\\ Ḩakar', 'count': 0}
-alhkr	{'pattern': 'alhkr', 'count': 0}
-الحكر	{'pattern': 'الحكر', 'count': 0}
-Al Hadabah	{'pattern': 'Al\\ Hadabah', 'count': 0}
-Al Ḩadabah	{'pattern': 'Al\\ Ḩadabah', 'count': 0}
-alhdbt	{'pattern': 'alhdbt', 'count': 0}
-الحدبة	{'pattern': 'الحدبة', 'count': 0}
-Al Farsh	{'pattern': 'Al\\ Farsh', 'count': 0}
-alfrsh	{'pattern': 'alfrsh', 'count': 0}
-الفرش	{'pattern': 'الفرش', 'count': 0}
-Umm al 'Azban	"{'pattern': ""Umm\\ al\\ 'Azban"", 'count': 0}"
-Umm al `Azban	{'pattern': 'Umm\\ al\\ `Azban', 'count': 0}
-Umm al ‘Azbān	{'pattern': 'Umm\\ al\\ ‘Azbān', 'count': 0}
-أم العزبان	{'pattern': 'أم\\ العزبان', 'count': 0}
-Abu 'Arif	"{'pattern': ""Abu\\ 'Arif"", 'count': 0}"
-Abu `Arif	{'pattern': 'Abu\\ `Arif', 'count': 0}
-Abū ‘Arīf	{'pattern': 'Abū\\ ‘Arīf', 'count': 0}
-أبو عريف	{'pattern': 'أبو\\ عريف', 'count': 0}
-Bisharah	{'pattern': 'Bisharah', 'count': 0}
-Bishārah	{'pattern': 'Bishārah', 'count': 0}
-bshart	{'pattern': 'bshart', 'count': 0}
-بشارة	{'pattern': 'بشارة', 'count': 0}
-Qa'ud	"{'pattern': ""Qa'ud"", 'count': 0}"
-Qa`ud	{'pattern': 'Qa`ud', 'count': 0}
-Qā‘ūd	{'pattern': 'Qā‘ūd', 'count': 0}
-قاعود	{'pattern': 'قاعود', 'count': 0}
-Al Baldah al Qadimah	{'pattern': 'Al\\ Baldah\\ al\\ Qadimah', 'count': 0}
-Al Baldah al Qadīmah	{'pattern': 'Al\\ Baldah\\ al\\ Qadīmah', 'count': 0}
-albldt alqdymt	{'pattern': 'albldt\\ alqdymt', 'count': 0}
-البلدة القديمة	{'pattern': 'البلدة\\ القديمة', 'count': 0}
-Al Mu'askar	"{'pattern': ""Al\\ Mu'askar"", 'count': 0}"
-Al Mu`askar	{'pattern': 'Al\\ Mu`askar', 'count': 0}
-Al Mu‘askar	{'pattern': 'Al\\ Mu‘askar', 'count': 0}
-المعسكر	{'pattern': 'المعسكر', 'count': 1}
-Ash Shaykh Nasir	{'pattern': 'Ash\\ Shaykh\\ Nasir', 'count': 0}
-Ash Shaykh Nāşir	{'pattern': 'Ash\\ Shaykh\\ Nāşir', 'count': 0}
-alshykh nasr	{'pattern': 'alshykh\\ nasr', 'count': 0}
-الشيخ ناصر	{'pattern': 'الشيخ\\ ناصر', 'count': 0}
-Markaz al Madinah	{'pattern': 'Markaz\\ al\\ Madinah', 'count': 0}
-Markaz al Madīnah	{'pattern': 'Markaz\\ al\\ Madīnah', 'count': 0}
-mrkz almdynt	{'pattern': 'mrkz\\ almdynt', 'count': 0}
-مركز المدينة	{'pattern': 'مركز\\ المدينة', 'count': 1}
-Batn as Samin	{'pattern': 'Batn\\ as\\ Samin', 'count': 0}
-Baţn as Samīn	{'pattern': 'Baţn\\ as\\ Samīn', 'count': 0}
-btn alsmyn	{'pattern': 'btn\\ alsmyn', 'count': 0}
-بطن السمين	{'pattern': 'بطن\\ السمين', 'count': 0}
-Jurat al Lut	{'pattern': 'Jurat\\ al\\ Lut', 'count': 0}
-Jūrat al Lūt	{'pattern': 'Jūrat\\ al\\ Lūt', 'count': 0}
-jwrt allwt	{'pattern': 'jwrt\\ allwt', 'count': 0}
-جورة اللوت	{'pattern': 'جورة\\ اللوت', 'count': 0}
-Ma'n	"{'pattern': ""Ma'n"", 'count': 0}"
-Ma`n	{'pattern': 'Ma`n', 'count': 0}
-Ma‘n	{'pattern': 'Ma‘n', 'count': 0}
-معن	{'pattern': 'معن', 'count': 0}
-Qa' al Qarin	"{'pattern': ""Qa'\\ al\\ Qarin"", 'count': 0}"
-Qa` al Qarin	{'pattern': 'Qa`\\ al\\ Qarin', 'count': 0}
-Qā‘ al Qarīn	{'pattern': 'Qā‘\\ al\\ Qarīn', 'count': 0}
-Al Manarah	{'pattern': 'Al\\ Manarah', 'count': 0}
-Al Manārah	{'pattern': 'Al\\ Manārah', 'count': 0}
-almnart	{'pattern': 'almnart', 'count': 0}
-المنارة	{'pattern': 'المنارة', 'count': 0}
-Qizan	{'pattern': 'Qizan', 'count': 1}
-Qīzān	{'pattern': 'Qīzān', 'count': 0}
-qyzan	{'pattern': 'qyzan', 'count': 0}
-قيزان	{'pattern': 'قيزان', 'count': 0}
-Abu Rashwan	{'pattern': 'Abu\\ Rashwan', 'count': 0}
-Abū Rashwān	{'pattern': 'Abū\\ Rashwān', 'count': 0}
-abw rshwan	{'pattern': 'abw\\ rshwan', 'count': 0}
-أبو رشوان	{'pattern': 'أبو\\ رشوان', 'count': 0}
-Hijazi	{'pattern': 'Hijazi', 'count': 8}
-hjazy	{'pattern': 'hjazy', 'count': 0}
-حجازي	{'pattern': 'حجازي', 'count': 0}
-Ḩijāzī	{'pattern': 'Ḩijāzī', 'count': 0}
-Tall az Zu'rub	"{'pattern': ""Tall\\ az\\ Zu'rub"", 'count': 0}"
-Tall az Zu`rub	{'pattern': 'Tall\\ az\\ Zu`rub', 'count': 0}
-Tall az Zu‘rub	{'pattern': 'Tall\\ az\\ Zu‘rub', 'count': 0}
-تل الزعرب	{'pattern': 'تل\\ الزعرب', 'count': 0}
-Hawd Ji	{'pattern': 'Hawd\\ Ji', 'count': 0}
-Block J	{'pattern': 'Block\\ J', 'count': 0}
-hwd jy	{'pattern': 'hwd\\ jy', 'count': 0}
-حوض جي	{'pattern': 'حوض\\ جي', 'count': 0}
-Ḩawḑ Jī	{'pattern': 'Ḩawḑ\\ Jī', 'count': 0}
-Hawd Waw	{'pattern': 'Hawd\\ Waw', 'count': 0}
-Block O	{'pattern': 'Block\\ O', 'count': 6}
-hwd waw	{'pattern': 'hwd\\ waw', 'count': 0}
-حوض واو	{'pattern': 'حوض\\ واو', 'count': 0}
-Ḩawḑ Wāw	{'pattern': 'Ḩawḑ\\ Wāw', 'count': 0}
-Yibna	{'pattern': 'Yibna', 'count': 0}
-Yibnā	{'pattern': 'Yibnā', 'count': 0}
-ybna	{'pattern': 'ybna', 'count': 0}
-يبنا	{'pattern': 'يبنا', 'count': 0}
-Qishtah	{'pattern': 'Qishtah', 'count': 0}
-Qishţah	{'pattern': 'Qishţah', 'count': 0}
-qshtt	{'pattern': 'qshtt', 'count': 0}
-قشطة	{'pattern': 'قشطة', 'count': 0}
-Al Barazil	{'pattern': 'Al\\ Barazil', 'count': 0}
-Al Barāzīl	{'pattern': 'Al\\ Barāzīl', 'count': 0}
-albrazyl	{'pattern': 'albrazyl', 'count': 0}
-البرازيل	{'pattern': 'البرازيل', 'count': 0}
-As Salam	{'pattern': 'As\\ Salam', 'count': 0}
-As Salām	{'pattern': 'As\\ Salām', 'count': 0}
-alslam	{'pattern': 'alslam', 'count': 0}
-السلام	{'pattern': 'السلام', 'count': 0}
-Al-Azhar University	{'pattern': 'Al\\-Azhar\\ University', 'count': 6}
-Al-Aqsa University	{'pattern': 'Al\\-Aqsa\\ University', 'count': 5}
-Bi'r Zawalan	"{'pattern': ""Bi'r\\ Zawalan"", 'count': 0}"
-Bi’r Zawalān	{'pattern': 'Bi’r\\ Zawalān', 'count': 0}
-Bi'r Abu Thabit	"{'pattern': ""Bi'r\\ Abu\\ Thabit"", 'count': 0}"
-Bir Abu Thabet	{'pattern': 'Bir\\ Abu\\ Thabet', 'count': 0}
-Bi’r Abū Thābit	{'pattern': 'Bi’r\\ Abū\\ Thābit', 'count': 0}
-Gaza	{'pattern': 'Gaza', 'count': 18720}
-Banda de Gaza	{'pattern': 'Banda\\ de\\ Gaza', 'count': 0}
-Bande de Gaza	{'pattern': 'Bande\\ de\\ Gaza', 'count': 0}
-Bandenn Gaza	{'pattern': 'Bandenn\\ Gaza', 'count': 0}
-Ciifol Gaaza	{'pattern': 'Ciifol\\ Gaaza', 'count': 0}
-Dai Gaza	{'pattern': 'Dai\\ Gaza', 'count': 0}
-Dải Gaza	{'pattern': 'Dải\\ Gaza', 'count': 0}
-Faixa de Gaza	{'pattern': 'Faixa\\ de\\ Gaza', 'count': 0}
-Fasia Gaza	{'pattern': 'Fasia\\ Gaza', 'count': 0}
-Franja de Gaza	{'pattern': 'Franja\\ de\\ Gaza', 'count': 0}
-Franxa de Gaza	{'pattern': 'Franxa\\ de\\ Gaza', 'count': 0}
-Fâșia Gaza	{'pattern': 'Fâșia\\ Gaza', 'count': 0}
-Galue Gaza	{'pattern': 'Galue\\ Gaza', 'count': 0}
-Galuë Gaza	{'pattern': 'Galuë\\ Gaza', 'count': 0}
-Gasageirin	{'pattern': 'Gasageirin', 'count': 0}
-Gasastroendin	{'pattern': 'Gasastroendin', 'count': 0}
-Gasastrook	{'pattern': 'Gasastrook', 'count': 0}
-Gasaströndin	{'pattern': 'Gasaströndin', 'count': 0}
-Gaza Sektoro	{'pattern': 'Gaza\\ Sektoro', 'count': 0}
-Gaza Strip	{'pattern': 'Gaza\\ Strip', 'count': 2131}
-Gaza sektor	{'pattern': 'Gaza\\ sektor', 'count': 0}
-Gaza tsoon	{'pattern': 'Gaza\\ tsoon', 'count': 0}
-Gazaejy Sektor	{'pattern': 'Gazaejy\\ Sektor', 'count': 0}
-Gazai oevezet	{'pattern': 'Gazai\\ oevezet', 'count': 0}
-Gazako zerrenda	{'pattern': 'Gazako\\ zerrenda', 'count': 0}
-Gazan kaista	{'pattern': 'Gazan\\ kaista', 'count': 0}
-Gazan sektor	{'pattern': 'Gazan\\ sektor', 'count': 0}
-Gazaremsan	{'pattern': 'Gazaremsan', 'count': 0}
-Gazas josla	{'pattern': 'Gazas\\ josla', 'count': 0}
-Gazastreek	{'pattern': 'Gazastreek', 'count': 0}
-Gazastreifen	{'pattern': 'Gazastreifen', 'count': 0}
-Gazastriben	{'pattern': 'Gazastriben', 'count': 0}
-Gazastripa	{'pattern': 'Gazastripa', 'count': 0}
-Gazastripen	{'pattern': 'Gazastripen', 'count': 0}
-Gazastrook	{'pattern': 'Gazastrook', 'count': 0}
-Gazayi hatvac	{'pattern': 'Gazayi\\ hatvac', 'count': 0}
-Gazos Ruozas	{'pattern': 'Gazos\\ Ruozas', 'count': 0}
-Gazos Ruožas	{'pattern': 'Gazos\\ Ruožas', 'count': 0}
-Gazyn zurvas	{'pattern': 'Gazyn\\ zurvas', 'count': 0}
-Gazze Seridi	{'pattern': 'Gazze\\ Seridi', 'count': 0}
-Gazze Şeridi	{'pattern': 'Gazze\\ Şeridi', 'count': 0}
-Genting Gaza	{'pattern': 'Genting\\ Gaza', 'count': 0}
-Gázai övezet	{'pattern': 'Gázai\\ övezet', 'count': 0}
-Ivica Gaza	{'pattern': 'Ivica\\ Gaza', 'count': 0}
-Jalur Gaza	{'pattern': 'Jalur\\ Gaza', 'count': 0}
-Konna Gasa	{'pattern': 'Konna\\ Gasa', 'count': 0}
-Lacinia Gazetica	{'pattern': 'Lacinia\\ Gazetica', 'count': 0}
-Listra de Gaza	{'pattern': 'Listra\\ de\\ Gaza', 'count': 0}
-Llain Gaza	{'pattern': 'Llain\\ Gaza', 'count': 0}
-Lorida tis Gazas	{'pattern': 'Lorida\\ tis\\ Gazas', 'count': 0}
-Lurung Gaza	{'pattern': 'Lurung\\ Gaza', 'count': 0}
-Marinka Gaza	{'pattern': 'Marinka\\ Gaza', 'count': 0}
-Pasmo Gazy	{'pattern': 'Pasmo\\ Gazy', 'count': 0}
-Piraso ng Gaza	{'pattern': 'Piraso\\ ng\\ Gaza', 'count': 0}
-Pojas Gaza	{'pattern': 'Pojas\\ Gaza', 'count': 0}
-Pojas Gaze	{'pattern': 'Pojas\\ Gaze', 'count': 0}
-Pásmo Gazy	{'pattern': 'Pásmo\\ Gazy', 'count': 0}
-Qita` Ghazzah	{'pattern': 'Qita`\\ Ghazzah', 'count': 0}
-Qiţā` Ghazzah	{'pattern': 'Qiţā`\\ Ghazzah', 'count': 0}
-Qəzzə zolağı	{'pattern': 'Qəzzə\\ zolağı', 'count': 0}
-Raon Ghasa	{'pattern': 'Raon\\ Ghasa', 'count': 0}
-Raon Ghàsa	{'pattern': 'Raon\\ Ghàsa', 'count': 0}
-Sektar Gaza	{'pattern': 'Sektar\\ Gaza', 'count': 0}
-Sektor Gaza	{'pattern': 'Sektor\\ Gaza', 'count': 0}
-Sektor Gazi	{'pattern': 'Sektor\\ Gazi', 'count': 0}
-Sirita Xezeye	{'pattern': 'Sirita\\ Xezeye', 'count': 0}
-Straice Gaza	{'pattern': 'Straice\\ Gaza', 'count': 0}
-Straih Ghaza	{'pattern': 'Straih\\ Ghaza', 'count': 0}
-Strefa Gazy	{'pattern': 'Strefa\\ Gazy', 'count': 0}
-Striscia di Gaza	{'pattern': 'Striscia\\ di\\ Gaza', 'count': 0}
-Stráice Gaza	{'pattern': 'Stráice\\ Gaza', 'count': 0}
-Ukanda wa Gaza	{'pattern': 'Ukanda\\ wa\\ Gaza', 'count': 0}
-Zirin Gaza	{'pattern': 'Zirin\\ Gaza', 'count': 0}
-chnwn ka sa	{'pattern': 'chnwn\\ ka\\ sa', 'count': 0}
-gaja bhukhanda	{'pattern': 'gaja\\ bhukhanda', 'count': 0}
-gaja jigu	{'pattern': 'gaja\\ jigu', 'count': 0}
-gaja patti	{'pattern': 'gaja\\ patti', 'count': 0}
-gajha patti	{'pattern': 'gajha\\ patti', 'count': 0}
-gasa	{'pattern': 'gasa', 'count': 1}
-gaza de qu	{'pattern': 'gaza\\ de\\ qu', 'count': 0}
-gaza pati	{'pattern': 'gaza\\ pati', 'count': 2}
-gaza patti	{'pattern': 'gaza\\ patti', 'count': 0}
-ghzh	{'pattern': 'ghzh', 'count': 0}
-jia sha de dai	{'pattern': 'jia\\ sha\\ de\\ dai', 'count': 0}
-kacakkarai	{'pattern': 'kacakkarai', 'count': 0}
-nwar ghzh	{'pattern': 'nwar\\ ghzh', 'count': 0}
-Şirîta Xezeyê	{'pattern': 'Şirîta\\ Xezeyê', 'count': 0}
-Λωρίδα της Γάζας	{'pattern': 'Λωρίδα\\ της\\ Γάζας', 'count': 0}
-Газæйы Сектор	{'pattern': 'Газæйы\\ Сектор', 'count': 0}
-Газа сектор	{'pattern': 'Газа\\ сектор', 'count': 0}
-Газын зурвас	{'pattern': 'Газын\\ зурвас', 'count': 0}
-Ивица Газа	{'pattern': 'Ивица\\ Газа', 'count': 0}
-Појас Газа	{'pattern': 'Појас\\ Газа', 'count': 0}
-Појас Газе	{'pattern': 'Појас\\ Газе', 'count': 0}
-Сектар Газа	{'pattern': 'Сектар\\ Газа', 'count': 0}
-Сектор Газа	{'pattern': 'Сектор\\ Газа', 'count': 0}
-Сектор Гази	{'pattern': 'Сектор\\ Гази', 'count': 0}
-Գազայի հատված	{'pattern': 'Գազայի\\ հատված', 'count': 0}
-עזה פאס	{'pattern': 'עזה\\ פאס', 'count': 0}
-רצועת עזה	{'pattern': 'רצועת\\ עזה', 'count': 0}
-غزه	{'pattern': 'غزه', 'count': 1}
-غزہ کی پٹی	{'pattern': 'غزہ\\ کی\\ پٹی', 'count': 0}
-قطاع غزة	{'pattern': 'قطاع\\ غزة', 'count': 0}
-نوار غزه	{'pattern': 'نوار\\ غزه', 'count': 0}
-गाज़ा पट्टी	{'pattern': 'गाज़ा\\ पट्टी', 'count': 0}
-गाजा पट्टी	{'pattern': 'गाजा\\ पट्टी', 'count': 0}
-गाझा पट्टी	{'pattern': 'गाझा\\ पट्टी', 'count': 0}
-গাজা ভূখণ্ড	{'pattern': 'গাজা\\ ভূখণ্ড', 'count': 0}
-ਗਾਜ਼ਾ ਪੱਟੀ	{'pattern': 'ਗਾਜ਼ਾ\\ ਪੱਟੀ', 'count': 0}
-காசாக்கரை	{'pattern': 'காசாக்கரை', 'count': 0}
-ಗಾಜಾ ಪಟ್ಟಿ	{'pattern': 'ಗಾಜಾ\\ ಪಟ್ಟಿ', 'count': 0}
-ഗാസ	{'pattern': 'ഗാസ', 'count': 0}
-ฉนวนกาซา	{'pattern': 'ฉนวนกาซา', 'count': 0}
-ສະໜວນກາຊາ	{'pattern': 'ສະໜວນກາຊາ', 'count': 0}
-ღაზის სექტორი	{'pattern': 'ღაზის\\ სექტორი', 'count': 0}
-ដីជ្រោយហ្គាស្សា	{'pattern': 'ដីជ្រោយហ្គាស្សា', 'count': 0}
-ガザ地区	{'pattern': 'ガザ地区', 'count': 0}
-加沙地带	{'pattern': '加沙地带', 'count': 0}
-加沙地帶	{'pattern': '加沙地帶', 'count': 0}
-가자 지구	{'pattern': '가자\\ 지구', 'count': 0}
-Gaza City	{'pattern': 'Gaza\\ City', 'count': 672}
-Azzah	{'pattern': 'Azzah', 'count': 3}
-Dakbayan sa Gaza	{'pattern': 'Dakbayan\\ sa\\ Gaza', 'count': 0}
-GZA	{'pattern': 'GZA', 'count': 3}
-Gaesa	{'pattern': 'Gaesa', 'count': 0}
-Gasa	{'pattern': 'Gasa', 'count': 1}
-Gaz	{'pattern': 'Gaz', 'count': 18778}
-Gaza by	{'pattern': 'Gaza\\ by', 'count': 82}
-Gaza-urbo	{'pattern': 'Gaza\\-urbo', 'count': 0}
-Gazae	{'pattern': 'Gazae', 'count': 0}
-Gazze	{'pattern': 'Gazze', 'count': 0}
-Ghazah	{'pattern': 'Ghazah', 'count': 0}
-Ghazza	{'pattern': 'Ghazza', 'count': 3}
-Ghazzah	{'pattern': 'Ghazzah', 'count': 3}
-Ghazze	{'pattern': 'Ghazze', 'count': 0}
-Ghazzi	{'pattern': 'Ghazzi', 'count': 2}
-Ghuzze	{'pattern': 'Ghuzze', 'count': 0}
-Gàsa	{'pattern': 'Gàsa', 'count': 0}
-Gáza	{'pattern': 'Gáza', 'count': 0}
-Qəzza	{'pattern': 'Qəzza', 'count': 0}
-Xeze	{'pattern': 'Xeze', 'count': 0}
-`Azza	{'pattern': '`Azza', 'count': 0}
-`Azzā	{'pattern': '`Azzā', 'count': 0}
-gaja	{'pattern': 'gaja', 'count': 0}
-gaja sahara	{'pattern': 'gaja\\ sahara', 'count': 0}
-gaja siti	{'pattern': 'gaja\\ siti', 'count': 0}
-gajha	{'pattern': 'gajha', 'count': 0}
-gaza	{'pattern': 'gaza', 'count': 18720}
-gaza sahira	{'pattern': 'gaza\\ sahira', 'count': 0}
-ghzt	{'pattern': 'ghzt', 'count': 0}
-jia sa	{'pattern': 'jia\\ sa', 'count': 0}
-jia sha	{'pattern': 'jia\\ sha', 'count': 0}
-jia sha cheng	{'pattern': 'jia\\ sha\\ cheng', 'count': 0}
-kaca	{'pattern': 'kaca', 'count': 0}
-Γάζα	{'pattern': 'Γάζα', 'count': 0}
-Газa	{'pattern': 'Газa', 'count': 0}
-Газæ	{'pattern': 'Газæ', 'count': 0}
-Газа	{'pattern': 'Газа', 'count': 0}
-Газзә	{'pattern': 'Газзә', 'count': 0}
-Ղազա	{'pattern': 'Ղազա', 'count': 0}
-עזה	{'pattern': 'עזה', 'count': 1}
-غزة	{'pattern': 'غزة', 'count': 12}
-غزہ	{'pattern': 'غزہ', 'count': 0}
-غەززە	{'pattern': 'غەززە', 'count': 0}
-ग़ज़ा	{'pattern': 'ग़ज़ा', 'count': 0}
-गाजा शहर	{'pattern': 'गाजा\\ शहर', 'count': 0}
-गाझा	{'pattern': 'गाझा', 'count': 0}
-গাজা সিটি	{'pattern': 'গাজা\\ সিটি', 'count': 0}
-ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	{'pattern': 'ਗ਼ਜ਼ਾ\\ ਸ਼ਹਿਰ', 'count': 0}
-காசா	{'pattern': 'காசா', 'count': 0}
-ガザ	{'pattern': 'ガザ', 'count': 0}
-加沙	{'pattern': '加沙', 'count': 0}
-加沙城	{'pattern': '加沙城', 'count': 0}
-加薩	{'pattern': '加薩', 'count': 0}
-가자	{'pattern': '가자', 'count': 0}
+placename	count
+Jabalya	216
+Bayt Lahya	41
+Jabalia	208
+Bayt Hanun	61
+Khan Younis	581
+An Nusayrat	98
+Al Burayj	47
+Rafah	1406
+Bani Suhayla	5
+Nuseirat	98
+Bureij	47
+Al Qararah	3
+Abasan al Kabirah	14
+Az Zuwaydah	0
+Maghazi	106
+Shukat as Sufi	0
+Khuza'ah	0
+Al Mughraqah	0
+Deir El-Balah	226
+An Nasr	66
+Abasan al Jadidah	0
+Al Fukhkhari	0
+Wadi as Salqa	0
+Juhr ad Dik	0
+Umm an Nasr	0
+Al Musaddar	0
+Al Mawasi	2
+Al-Shifa Hospital	362
+Umm Jarrah	0
+Musabbih	0
+Ard Rafah	0
+Al Qubbah	0
+Al Junaynah	0
+Al Ghabah	0
+Al Filahah	0
+Abu Himar	0
+Abu 'Awdah	0
+Arab al Qila'i	0
+Abu Mu'ammar	0
+Umm al Kilab	0
+Saknat az Zarqa'	0
+Rafiah Yam	0
+Qizan an Najjar	0
+Qa' al Qurayn	0
+Nahal Qatif	0
+Umm Kamil	0
+An Nazlah	0
+Al Mashahirah	0
+Qa' al Kharabah	0
+Daribat ash Shaykh Hammuda	0
+Izbat Bayt Hanun	0
+Arab Maslakh Bayt Lahya	0
+Madinat al 'Awdah	0
+As Surayij	0
+Az-Zawayda	4
+Khuza'a	0
+al Fukhari	0
+Shokat as-Sufi	1
+Al-Mughraqa	2
+Bani Suhela	10
+Abasan al-Saghira	3
+Al-Zahra'	1
+Khirbat al-Adas	0
+Al Qaryah as Suwaydiyah	0
+Al Katibah	0
+Al Amal	2
+Atatra	0
+Remal	27
+At Turkman	0
+Az Zaytun	0
+As Sabra	0
+Al Fawayidah	0
+Ash Shaykh 'Ijlin	0
+Midan Filastin	0
+Ar Rimal al Janubi	0
+Ar Rimal ash Shamali	0
+An Nasr ash Sharqi	0
+An Nasr al Gharbi	0
+Ash Shaykh Radwan	0
+Ad Daraj	0
+At Tuffah	0
+Al Jadidah	0
+Maydan ash Shuja'iyah	0
+Al Madinah al Qadimah	0
+Al Mu'tarid	0
+Al Mintaqah as Sina'iyah	0
+Ar Rasm	0
+Al Mattayin	0
+Al Harah ash Sharqiyah	0
+Abu Asad	0
+Abu Sittah	9
+Hamadah	1
+Tunis	89
+Al Masihi	0
+Al 'Amrah	0
+Al Brawk	0
+Abu Fayyad	0
+Umran	0
+Al Qata'ah	0
+Al Hakar	0
+Al Hadabah	0
+Al Farsh	0
+Umm al 'Azban	0
+Abu 'Arif	0
+Bisharah	0
+Qa'ud	0
+Al Baldah al Qadimah	0
+Al Mu'askar	1
+Ash Shaykh Nasir	0
+Markaz al Madinah	1
+Batn as Samin	0
+Jurat al Lut	0
+Ma'n	0
+Qa' al Qarin	0
+Al Manarah	0
+Qizan	1
+Abu Rashwan	0
+Hijazi	8
+Tall az Zu'rub	0
+Hawd Ji	0
+Hawd Waw	6
+Yibna	0
+Qishtah	0
+Al Barazil	0
+As Salam	0
+Al-Azhar University	6
+Al-Aqsa University	5
+Bi'r Zawalan	0
+Bi'r Abu Thabit	0
+Gaza	18722
+Gaza Strip	18722
+Gaza City	18801

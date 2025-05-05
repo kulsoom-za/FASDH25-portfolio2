@@ -1,7 +1,9 @@
-#importing regular expressions to find text patterns
+#imports regular expressions to find text patterns
 import re
-#importing os to enable interaction with the file system 
+
+#imports os to enable interaction with the file system 
 import os
+
 #for handling tabular data and exporting tsv
 import pandas as pd
 
@@ -29,30 +31,29 @@ with open(path, encoding="utf-8") as file:
     data = file.read()
 
 
-# build a dictionary of patterns for each place name and a count of matches 
+# build an empty dictionary of patterns for each place name and a count of matches 
 patterns = {}
 
-#split the gazetteer data by a new line to et each row
+
+#split the gazetteer data by a new lines to get each row of the file
 rows = data.split("\n")
+
 
 #skip the header as the pattern starts from the next row
 for row in rows[1:]:
-    columns = row.split("\t") # each column in tsv is separated by tabs 
+    columns = row.split("\t") # each column in tsv is separated by tabs to get columns
     asciiname = columns[0] #first column has name for the place
 
 
-    #Skip rows that don't have at least 6 columns and others may beb incomplete    
-    if len(columns) < 6:
-        continue
 
     # Get the alternate names from the 6th column which is counted as 5, if present
     alternate_names = columns[5].strip()
-
+    # Initializes a list of names containing the standard name
     names = [asciiname]
 
     
     if alternate_names:
-        # Split the alternate names by comma and get a list of name variants
+        # Split the alternate names by comma and get a list of other names
         alternate_list =alternate_names.split(",")
         #Loop through each alternate name in the list
         for name in alternate_list:
@@ -64,10 +65,15 @@ for row in rows[1:]:
 
 
     #Building a single regex pattern that matches any variant (using '|' for alternation) 
+
     #the | is used to get the alternation as it means or
+
+    # re.escape escapes any special characters in the place names 
     regex_pattern = "|".join(re.escape(name) for name in names)
+
+    
     # it includes all the names and their variants with their number
-    patterns[asciiname] = {"pattern": regex_pattern, "count":0}
+    patterns[asciiname] = {"pattern": regex_pattern, "count": 0}
 
     
 
@@ -79,9 +85,11 @@ mentions_per_month = {}
 #Set the starting date of the war in Gaza to filter articles 
 war_start_date = "2023-10-07"
 
+
 # Loop through each file to count the number of times each pattern is found in the entire folder:
 for filename in os.listdir(folder):
-    # Extract the date from the filename(as the format is YYYY-MM-DD_)
+    
+    # Extract the date from the filename(as the format is YYYY-MM-DD)
     date_str = filename.split("_")[0]
 
     #Skip the file if it is before the start of  the war
@@ -100,23 +108,26 @@ for filename in os.listdir(folder):
 
     # Loop through each place to search for matches in the text: 
     for place in patterns:
-        pattern = patterns[place]["pattern"] # Get regex-safe pattern 
-        matches = re.findall(pattern, text, re.IGNORECASE)
+        pattern = patterns[place]["pattern"]
+        
+        matches = re.findall(pattern, text, re.IGNORECASE) # find all matches of the place name
+
         count = len(matches) # number of times the place was found
         
-        # add the number of times the place was found to the total frequency:
+        # add the number of times the place was found to the total for the place:
         patterns[place]["count"] += count
         
         # extract the month from the date string
         month_str = date_str[:7]
         
 
-        # initialize place and month in mentions_per_month dictionary if not done already
+        # initialize empty dictiionary for place and month in mentions_per_month if place not found
         if place not in mentions_per_month:
-            # empty dictionary if place is not found
             mentions_per_month[place] = {}
+            
         #check if the month is not in the dictionary 
         if month_str not in mentions_per_month[place]:
+            
             # if month is not found, place the month count to 0
             mentions_per_month[place][month_str] = 0
 
@@ -128,37 +139,45 @@ for filename in os.listdir(folder):
 # print the final dictionary showing how often each place was mentioned by month
 # Loop through each place in the mentions_per-month dictionary
 for place in mentions_per_month:
-    # Start a dictionary like printout for the current place 
+    
+    # Start a dictionary for the current place 
     print(f'"{place}": {{')
 
     #Get a list of all the months in which the place names are mentioned 
     month_list = list(mentions_per_month[place].keys())
 
-    #loop through each month to print the corresponding mention count
+    #loop through each month 
     for month in month_list:
-        count = mentions_per_month[place][month] #  get the count for that month
+        count = mentions_per_month[place][month] #  get the count for each month
 
         # display the output with a comma except for the last item to keep it clean 
         if month != month_list[-1]:
             print(f'    "{month}": {count},')
         else:
             print(f'    "{month}": {count}')
-
-    # close the dictionary block and print the output
+            
+# print the number of times it was mentioned per month
     print("},")
 
-#Convert the mentions_per_month dictionary to list of rows for output
+
+# Empty list for storing data
 rows = []
 
-#loop through each place again to prepare structured data for export 
+# loop through each place again to prepare data for export 
 for place in mentions_per_month:
 
     # loop through each month and find the number of times the place is mentioned 
     for month in mentions_per_month[place]:
         count = mentions_per_month[place][month]
 
-        #Append a tuple (place, month, count) to the rows list
+        # Append a tuple (place, month, count) to the rows list
         rows.append((place, month, count))
 
-#Write final result to tsv file for external use        
+# Write final result to tsv file for external use        
 write_tsv(rows, ["placename","month", "count"], "regex_counts.tsv")
+
+frequency_rows = []
+for place, details in patterns.items():
+    frequency_rows.append((place, details["count"]))
+
+write_tsv(frequency_rows,["placename", "count"], "frequencies.tsv")
