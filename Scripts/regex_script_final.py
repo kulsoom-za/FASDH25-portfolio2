@@ -21,11 +21,11 @@ def write_tsv(rows, column_list, path):
 
 # Defining the folder where the articles are present
 # these articles are text files to search for place names 
-folder = "../articles"  
+folder = "articles"  
 
 
 #  define the path and load the gazetteer from the tsv file, having place names and alternate names 
-path = "../gazetteers/geonames_gaza_selection.tsv"
+path = "gazetteers/geonames_gaza_selection.tsv"
 #open and read the file
 with open(path, encoding="utf-8") as file:
     data = file.read()
