@@ -25,7 +25,7 @@ import plotly.express as px
 
 # Load the counts data (from NER output) and the gazetteer with coordinates
 counts = pd.read_csv("ner_counts.tsv", sep="\t")
-coords = pd.read_csv("gazetteers/NER_gazetteer.tsv", sep="\t")
+coords = pd.read_csv("../gazetteers/NER_gazetteer/NER_gazetteer.tsv", sep="\t")
 
 # Clean column names: remove any unexpected leading/trailing whitespace
 counts.columns = counts.columns.str.strip()

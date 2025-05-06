@@ -1,11 +1,12 @@
 import pandas as pd
 import plotly.express as px
 
+
 # Load the place mention counts from a TSV file
-counts = pd.read_csv("Scripts/regex_counts.tsv", sep="\t")
+counts = pd.read_csv("regex_counts.tsv", sep="\t")
 
 # Load the gazetteer with place names and their coordinates
-coords = pd.read_csv("gazetteers/geonames_gaza_selection.tsv", sep="\t")
+coords = pd.read_csv("../gazetteers/geonames_gaza_selection.tsv", sep="\t")
 
 # Remove any leading/trailing spaces in the column names for consistency
 counts.columns = counts.columns.str.strip()
