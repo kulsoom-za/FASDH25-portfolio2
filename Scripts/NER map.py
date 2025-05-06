@@ -1,4 +1,19 @@
 """
+This script visualizes place mentions extracted via Named Entity Recognition (NER) on an interactive map.
+
+Steps:
+1. Loads place mention counts from NER output (ner_counts.tsv)
+2. Loads geographic coordinates from a gazetteer file (NER_gazetteer.tsv)
+3. Merges the two datasets by place name
+4. Cleans the data (handles missing values, formats numeric counts)
+5. Creates an interactive scatter map where:
+   - Each point represents a place
+   - Point size/color shows mention frequency
+   - Hover displays place name
+6. Saves the map as an HTML file (NER_map.html)
+"""
+
+"""
 This is the maps for NER cont file.
 
 It reads place mention counts and coordinates,
