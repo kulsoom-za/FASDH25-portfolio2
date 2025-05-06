@@ -1,538 +1,545 @@
-placename	count
-Gaza	1830
-Israel	1632
-South Africa	208
-Palestine	125
-Dublin	3
-Hague	39
-Russia	43
-Ukraine	47
-Moscow	4
-US	717
-United Kingdom	152
-West	24
-Global South	2
-Ramallah	24
-West Bank	164
-United States	162
-East Jerusalem	23
-PA	1
-Oslo	2
-Jerusalem	26
-Middle East	102
-Bahrain	11
-Turkey	25
-Greece	8
-Jordan	43
-Qatar	65
-United Arab Emirates	21
-Saudi Arabia	39
-Egypt	44
-Tel Aviv	52
-America	4
-South Carolina	4
-Lebanon	178
-Beirut	88
-Washington	62
-Iran	210
-Asia	18
-alDabshah	1
-Khirbet Selm	1
-Bint Jbeil	1
-Syria	84
-Ibil El Saqi	1
-alTawil	1
-alKhader	1
-Bekaa Valley	1
-Litani River	1
-Red Sea	250
-Alborz	4
-Bab alMandeb Strait	9
-Gulf of Aden	27
-Indian Ocean	2
-Africa	29
-Yemen	189
-Damascus	17
-Djibouti	4
-Tehran	25
-Sanaa	15
-Rafah	40
-Khreis	1
-Strip	15
-Deir elBalah	14
-Maghazi	5
-Nuseirat	11
-Europe	30
-Manchester City	1
-Barcelona	1
-El Arish	3
-Italy	10
-Iraq	64
-Eastern Mediterranean	1
-New York City	1
-DC	14
-Cape Town	2
-Pretoria	8
-South Africansfrom	1
-Africa4Palestine	1
-Johannesburg	4
-Western Cape province	1
-Aqaba	1
-Cape of Good Hope	12
-Southern Africa	2
-Middle Eastern	3
-RedSea	1
-China	30
-India	50
-Cairo	6
-Doha	19
-Mediterranean	12
-Khan Younis	23
-Baghdad	8
-Islamic Republic	5
-Uganda	12
-Kuwait	2
-Bolivia	4
-Bangladesh	2
-Comoros	2
-Netherlands	14
-Myanmar	6
-Germany	31
-Afghanistan	7
-Hong Kong	2
-Houthis	3
-Bab alMandeb strait	3
-Riyadh	5
-Norway	11
-Melbourne Australia	1
-Australia	13
-Melbourne	5
-Sandridge Beach	1
-ZIM Ganges	5
-Sydney	1
-Brisbane	1
-Hodeidah	5
-Saada	3
-Taiz	2
-Hajjah	2
-Canada	42
-Kuala Lumpur	4
-Malaysia	8
-Indonesia	3
-Jakarta	2
-London	17
-Paris	8
-Vienna	1
-Berlin	5
-Amman	6
-Washington DC	7
-Manchester	1
-Hyderabad	1
-Colombo Kollupitiya	1
-Singapore	2
-Welch	1
-Sudan	3
-IsraelPalestine	2
-La France	1
-Namibia	10
-Palestinian Territories	1
-Sweden	3
-Kyiv	5
-Netivot	1
-Hamas	6
-Morocco	14
-Rabat	3
-Western Sahara	4
-Algeria	7
-Marrakesh	1
-Maghreb	1
-Malta	2
-Gulf of Oman	2
-Davos	7
-Switzerland	9
-alMawasi district	2
-Yemen coast	2
-Jenin	19
-Abwein	1
-Nablus	5
-Hebron	10
-Qalqilya	2
-Jericho	1
-Bab elMandeb strait	1
-Southern Red Sea	1
-Africa Cape of Good Hope	1
-France	14
-Spain	7
-Seychelles	1
-North Africa	5
-Marib	3
-Gretna	2
-Louisiana	3
-New Orleans	5
-MirandaCleland	1
-New Delhi	6
-India Basmati	1
-North America	2
-Arabian Sea	6
-Karem Abu Salem	1
-Kerem Shalom	1
-Salem	1
-Copenhagen	1
-California	3
-Gulf	10
-Netanyahu	7
-Kerman	6
-Zeitoun	4
-Shujayea	3
-Chile	5
-Mexico	5
-Santiago	1
-Dearborn	12
-Michigan	12
-Chicago	2
-New York	4
-Belarus	1
-Haifa	8
-Nur Shams	1
-Tulkarem	2
-Naqoura	2
-alMazraa	1
-Mediterranean Sea	2
-Ajaq	1
-Silwad	1
-Mackinac Island	1
-Great Lakes	1
-Lake Michigan	1
-Texas	3
-Beit Nabala	1
-Idlib	3
-Erbil	13
-Maroun El Ras	1
-Yaroun	3
-Rmeish	1
-Miraj	1
-Tal alHawa	1
-zarahsultana	1
-Gisha	1
-Bani Naim	1
-Raanana	1
-Strait of Hormuz	3
-Sderot	2
-Nir Am	1
-Mefalsim	1
-Hanita	1
-Mattat	1
-Margaliot	1
-Adamit	1
-Zarit	1
-Malkia	1
-Area C	6
-Bosnia	3
-Herzegovina	1
-Serbia	3
-Montenegro	1
-Yugoslavia	2
-Detroit	1
-Southeast Michigan	1
-Arab America	1
-Jarrah	1
-Wayne County	1
-Minnesota	1
-Syria Damascus	1
-Mazzeh	2
-Borj el Barajneh	1
-West Beirut	9
-Beirut Hamra	1
-Hamra	3
-West Beirutis	1
-Dabbouch	1
-East Beirut	1
-Jabalia	11
-Kampala	5
-Lisbon	1
-Portugal	3
-BabelMandeb Strait	1
-Dhamar	1
-alBayda	1
-Beit Lahiya	2
-alSaftawi	1
-Maldives	1
-Pakistan	24
-Columbia	3
-Middle East Eye	1
-Near East	3
-Farhana	1
-Abudaqa	2
-Geneva	2
-AlAqsa	1
-Ankara	7
-Des Moines	7
-Iowa	12
-Tunisia	2
-Cedar Rapids	5
-Iowa City	5
-South Asia	1
-Florida	1
-New York Ellis Island	1
-Ohio	1
-Istanbul	2
-Crete	2
-Marshall Islands	1
-Aden	3
-Philippines	4
-Japan	9
-Bani Suheila	2
-alFukhari	2
-X Spain	1
-Madrid	1
-Belgium	16
-Denmark	3
-Oman	1
-Jordan River	1
-Ebel elSaqi	1
-Rohtak	6
-Haryana	3
-Uttar Pradesh	1
-Lucknow	1
-UP	1
-Bihar	4
-West Bengal	1
-Benarasiyaa	1
-Haryana Panipat	1
-Thailand	2
-Haryana Jind	1
-Pakistan Balochistan province	2
-Iran SistanBaluchestan province	2
-Rask	1
-SistanBaluchestan	1
-Persian Gulf	1
-Balochistan	1
-Eurasia	1
-Heliopolis	1
-alFawakhir	1
-Levant	1
-Mecca	1
-AlMasjid alOmari alKabir	1
-Byzantium	1
-Via Maris	2
-Anthedon	1
-Balakhiyah	1
-Tida	1
-Tell elAjjul	1
-Calves Hill	1
-Cyprus	9
-Daraj	1
-Ahmadiyyah Zawiya	1
-Sabra	1
-Shatila	3
-Taiz province	1
-AlBayda	1
+Place	Count
+morocco	14
+israel	1632
+gaza	1655
+rabat	3
+united states	879
+united arab emirates	21
+bahrain	11
+sudan	3
+western sahara	4
+washington	62
+tel aviv	52
+algeria	7
+marrakesh	1
+maghreb	1
+ukraine	47
+saudi arabia	39
+california	3
+west bank	164
+dena	1
+oakland	1
+south africa	208
+jordan	43
+jerusalem	26
+east jerusalem	23
+egypt	44
+qatar	65
+kuala lumpur	4
+malaysia	8
+palestine	125
+indonesia	3
+jakarta	2
+johannesburg	4
+london	17
+paris	8
+vienna	1
+berlin	5
+amman	6
+washington dc	7
+united kingdom	152
+manchester	1
+yemen	189
+india	50
+hyderabad	1
+colombo kollupitiya	1
+namibia	10
+germany	31
+palestinian territories	1
+sweden	3
+iran	210
+kerman	6
+lebanon	178
+bethlehem	4
+nairoukh	1
+china	30
+italy	10
+spain	7
+turkey	25
+shawawra	1
+hague	39
+gaza strip	160
+khan younis	23
+syria	84
+mazzeh	2
+damascus	17
+houthis	3
+red sea	250
+babelmandeb strait	2
+gulf of aden	27
+sanaa	15
+hodeidah	5
+taiz	2
+dhamar	1
+albayda	2
+saada	3
+arabian sea	6
+bab almandeb strait	12
+asia	18
+europe	30
+kuwait	2
+middle east	102
+ankara	7
+west	24
+tehran	25
+south carolina	4
+new york city	1
+rafah	40
+strip	15
+istanbul	2
+greece	8
+crete	2
+iraq	64
+gulf	10
+aldabshah	1
+khirbet selm	1
+bint jbeil	1
+beirut	88
+ibil el saqi	1
+altawil	1
+alkhader	1
+bekaa valley	1
+litani river	1
+netherlands	14
+malta	2
+gulf of oman	2
+davos	7
+switzerland	9
+deir elbalah	14
+maghazi	5
+nuseirat	11
+manchester city	1
+barcelona	1
+bab elmandeb strait	1
+djibouti	4
+southern red sea	1
+africa cape of good hope	1
+alshifa	2
+gretna	2
+louisiana	3
+new orleans	5
+mirandacleland	1
+france	14
 majedalansari	1
-Kan	1
-Al Rayyan	1
-Bethlehem	4
-Nairoukh	1
-Shawawra	1
-El Amal City Hospital	1
-NaksBilal	1
-Caesarea	2
-Dura	2
-Khan Yunis	1
-Mawasi	1
-New Zealand	2
-South Korea	1
-Houthi	3
-Aleppo	2
-Syria Golan Heights	1
-Kurdistan	1
-Panjgur Pakistan Balochistan province	1
-Bureij	2
-Aizawl	6
-Manipur	8
-Kangpokpi	1
-Mizoram	8
-Kingdom of Judah	1
-Bnei Menashe	3
-Kolasib	1
-Cameroon	1
-alAhli	1
-Zawayda	1
-Beit Hanoon	1
-Egypt Sinai Peninsula	1
-Philadelphi	1
-MoTaz	1
-azaizamotaz9	1
-AlFukhari	1
-Earth	1
-alKarama	1
-Finland	3
-Scotland	2
-Ireland	3
-Ottawa	3
-October7	2
-BabelMandeb strait	1
-Eilat	2
-Ashdod	2
-Dead Sea	1
-Eastern Mediterranean region	1
-Dahiyeh	7
-Aroura	2
-alArouri	2
-Austria	3
-Czech Republic	1
-Hungary	1
-Slovenia	1
-Brussels	5
-carogennez	1
-Flanders	1
-Wallonia	1
-Thameen Darby	1
-Nakba Layer	1
-Mercator	1
-Alaska	1
-South America	2
-AsiaPacific	1
-Golan Heights	3
-Crimea	4
-South China Sea	2
-Vietnam	1
-Kashmir	4
-Islamabad	3
-Darby Nakba	1
-Kefar Sava	1
-Rehovot	1
-Beersheba	1
-Libya	3
-Rwanda	1
-East Timor	1
-Kabul	1
-azZahra	1
-Hamad	1
-State of Qatar	1
-QFFD	1
-Montreal	1
-Milton Ontario	1
-Toronto	1
-Calgary	1
-Paltel	1
-Jawwal	1
-alAmal	4
-alNasser	1
-alMawasi	3
-alKatiba	1
-Basel	3
-Bern	1
-Zurich	1
-RepJayapal	1
-RepCori	1
-BasedMikeLee	1
-Republic of Korea	1
-Kosovo	1
-Panjgur	1
-SistanBaluchestan province	1
-Kiryat Shmona	1
-Blue Line	1
-BosniaHerzegovina	1
-Srebrenica	1
-League of Arab States	1
-Dubai	1
-Bab alMandeb	2
-Yemen southern coast	1
-Palestine_UN	1
-Entebbe Uganda	1
-Sierra Leone	1
-DRC	1
+kan	1
+almawasi district	2
+mediterranean	12
+africa	29
+jenin	19
+thameen darby	1
+nakba layer	1
+russia	43
+canada	42
+mercator	1
+alaska	1
+mexico	5
+south america	2
+asiapacific	1
+golan heights	3
+crimea	4
+south china sea	2
+philippines	4
+vietnam	1
+pakistan	24
+kashmir	4
+new delhi	6
+islamabad	3
+darby nakba	1
+hebron	10
+lama khater	1
+kiryat arba	2
+bureij	2
+almahatta	1
+belgium	16
+almazraa	1
+mediterranean sea	2
+ajaq	1
+silwad	1
+cairo	6
+australia	13
+denmark	3
+new zealand	2
+south korea	1
+norway	11
+hamas	6
+yaroun	3
+lebanon nabatieh	1
+yiron	1
+avivim	1
+israel goren	1
+shatila	3
+dahiyeh	7
+dc	14
+doha	19
+lisbon	1
+portugal	3
+walla	2
+somalia	1
+yemen red sea	1
+yemen coast	2
+seychelles	1
+north africa	5
+marib	3
+khreis	1
+northern gaza	1
+hong kong	2
+bolivia	4
+bangladesh	2
+comoros	2
+myanmar	6
+northgaza	1
+erbil	13
+pakistan balochistan province	2
+iran sistanbaluchestan province	2
+afghanistan	7
+rask	1
+sistanbaluchestan	1
+strait of hormuz	3
+persian gulf	1
+balochistan	1
+la france	1
+entebbe	1
+uganda	12
+montreal	1
+milton ontario	1
+jabalia	11
+ottawa	3
+toronto	1
+calgary	1
+new york	4
+belarus	1
+munich	2
+haifa	8
+sidon	3
+salameh	1
+gaza deir elbalah	3
+almughraqa	1
+almaghazi	1
+maghazi roads	1
+deir albalah	1
+islamic republic	5
+nur shams	1
+tulkarem	2
+naqoura	2
+america	4
+el arish	3
+al jazeera	1
+almawasi	3
+beirut shatila	1
+alfukhari	3
+zeitoun	4
+hajjah	2
+ramallah	24
+abwein	1
+nablus	5
+qalqilya	2
+jericho	1
+ein alhilweh	1
+basel	3
+ofer	1
+jordan valley	5
+area c	6
+kadri	1
+aljiftlik	1
+farsiya	1
+makhoul	1
+tubas	1
+areas a	1
+japan	9
+silicon valley	3
+netanyahu	7
+west jerusalem	1
+brussels	5
+league of arab states	1
+west beirut	9
+beirut hamra	1
+hamra	3
+west beirutis	1
+dabbouch	1
+east beirut	1
+austria	3
+finland	3
+iceland	1
+romania	4
+melbourne australia	1
+melbourne	5
+sandridge beach	1
+zim ganges	5
+sydney	1
+brisbane	1
+rawaa	1
+middle east eye	1
+near east	3
+kyiv	5
+houthi	3
+aqaba	1
+marshall islands	1
+aden	3
+sabra	1
+farhana	1
+abudaqa	2
+israelpalestine	2
+shujayea	3
+khan yunis	1
+mawasi	1
+wadi gaza	3
+bosnia	3
+sri lanka	2
+republic of south africa	1
+columbia	3
+chile	5
+santiago	1
+taiz province	1
+ashdod	2
+hebrew	1
+x
+spain	1
+madrid	1
+oman	1
+charleston	1
+geneva	2
+alaqsa	1
+zawayda	1
+beit hanoon	1
+serbia	3
+bosniaherzegovina	1
+srebrenica	1
+bani suheila	2
+caesarea	2
+kefar sava	1
+rehovot	1
+beersheba	1
+kiryat shmona	1
+blue line	1
+baghdad	8
+middle eastern	3
+welch	1
+global south	2
+naksbilal	1
+beit lahiya	2
+el amal city hospital	1
+maroun el ras	1
+rmeish	1
+miraj	1
+tal alhawa	1
+zarahsultana	1
+gisha	1
+bani naim	1
+raanana	1
+sderot	2
+nir am	1
+mefalsim	1
+hanita	1
+mattat	1
+margaliot	1
+adamit	1
+zarit	1
+malkia	1
+herzegovina	1
+montenegro	1
+yugoslavia	2
+moscow	4
+pretoria	8
+mozambique	1
+bulgaria	1
+shadi	1
+ebel elsaqi	1
+panjgur	1
+sistanbaluchestan province	1
+ocean jazz	1
+cape of good hope	12
+alwalaja	5
+gilo	1
+har gilo	1
+singapore	2
+ras issa	1
+hodeidah province	1
+dearborn	12
+michigan	12
+mackinac island	1
+great lakes	1
+lake michigan	1
+texas	3
+beit nabala	1
+idlib	3
+riyadh	5
+alborz	4
+southern africa	2
+bab almandeb	2
+venezuela	1
+hormuz	1
+arabian gulf	1
+dublin	3
+al rayyan	1
+cape town	2
+south africansfrom	1
+africa4palestine	1
+western cape province	1
+chicago	2
+cyprus	9
+akrotiri	12
+limassol	1
+pashias	1
+anadolu	1
+nevatim	1
+republic of cyprus	2
+dhekelia	1
+alsaftawi	1
+detroit	1
+southeast michigan	1
+arab america	1
+jarrah	1
+wayne county	1
+minnesota	1
+scotland	2
+ireland	3
+october7	2
+entebbe uganda	1
+sierra leone	1
+drc	1
 adoniaayebare	1
-Ansarallah	1
-Hezbollah	1
-Arura	2
-Deir Qaddis	1
-Silicon Valley	3
-Beit Shemesh	1
-Santa Clara	1
-Moldova	1
-Sri Lanka	2
-Mozambique	1
-Bulgaria	1
-Romania	4
-Hebrew	1
-Supernova	1
-Dena	1
-Oakland	1
-Al Jazeera	1
-Walla	2
-Dahiya	1
-Jamaa Islamiya	2
-Bab al	1
-Mandeb Strait	1
-Iceland	1
-Ras Issa	1
-Hodeidah province	1
-West Jerusalem	1
-Hamoud	1
-Taalbaya	1
-Rashidiya	1
-Sidon	3
-alWalaja	5
-Gilo	1
-Har Gilo	1
-alMahatta	1
-alMazraa Asharqiya	2
-Harvey	1
-Tawfiq	1
-alMughraqa	1
-alMaghazi	1
-Maghazi Roads	1
-Deir alBalah	1
-Venezuela	1
-Hormuz	1
-Arabian Gulf	1
-Kanaker	1
-Sarit	1
-Lama Khater	1
-Kiryat Arba	2
-Estonia	1
-Republic of South Africa	1
-Bahaa elDin Abu Ras	1
-Bahaa	1
-Akrotiri	12
-Limassol	1
-Pashias	1
-Anadolu	1
-Nevatim	1
-Republic of Cyprus	2
-Dhekelia	1
-Ocean Jazz	1
-alTanf	1
-Hashemite Kingdom of Jordan	1
-Entebbe	1
-Israel Haifa	1
-Shadi	1
-Munich	2
-Salameh	1
-Somalia	1
-Yemen Red Sea	1
-Lebanon Nabatieh	1
-Yiron	1
-Avivim	1
-Israel Goren	1
-Syria Aleppo	1
-Mariupol	1
-Ein alHilweh	1
-Ofer	1
-Jordan Valley	5
-Kadri	1
-alJiftlik	1
-Farsiya	1
-Makhoul	1
-Tubas	1
-Areas A	1
-alShifa	2
-Al Maniya	1
-Charleston	1
-Rawaa	1
-Beirut Shatila	1
-Peru	1
-Colombia	1
-South Sudan	1
-Swaziland	1
+aroura	2
+alarouri	2
+salem	1
+copenhagen	1
+tunisia	2
+syria aleppo	1
+mariupol	1
+indian ocean	2
+kanaker	1
+sarit	1
+aleppo	2
+altanf	1
+hashemite kingdom of jordan	1
+jordan river	1
+palestine_un	1
+india basmati	1
+north america	2
+central gaza strip	2
+earth	1
+alamal	4
+alnasser	1
+alkatiba	1
+rohtak	6
+haryana	3
+uttar pradesh	1
+lucknow	1
+up	1
+bihar	4
+west bengal	1
+benarasiyaa	1
+haryana panipat	1
+thailand	2
+haryana jind	1
+al maniya	1
+bab al	1
+mandeb strait	1
+almazraa asharqiya	2
+harvey	1
+tawfiq	1
+hamoud	1
+taalbaya	1
+rashidiya	1
+karem abu salem	1
+kerem shalom	1
+estonia	1
+kampala	5
+peru	1
+colombia	1
+south sudan	1
+swaziland	1
+redsea	1
+bern	1
+zurich	1
+arura	2
+hezbollah	1
+deir qaddis	1
+motaz	1
+azaizamotaz9	1
+israel haifa	1
+dubai	1
+yemen southern coast	1
+egypt sinai peninsula	1
+philadelphi	1
+dahiya	1
+jamaa islamiya	2
+cameroon	1
+alahli	1
+des moines	7
+iowa	12
+cedar rapids	5
+iowa city	5
+south asia	1
+florida	1
+new york ellis island	1
+ohio	1
+czech republic	1
+hungary	1
+slovenia	1
+carogennez	1
+flanders	1
+wallonia	1
+supernova	1
+syria damascus	1
+borj el barajneh	1
+libya	3
+rwanda	1
+east timor	1
+kabul	1
+azzahra	1
+hamad	1
+state of qatar	1
+qffd	1
+aizawl	6
+manipur	8
+kangpokpi	1
+mizoram	8
+kingdom of judah	1
+bnei menashe	3
+kolasib	1
+beit shemesh	1
+santa clara	1
+moldova	1
+ansarallah	1
+eurasia	1
+heliopolis	1
+alfawakhir	1
+levant	1
+gaza city zeitoun	1
+old city of gaza	1
+mecca	1
+gaza daraj	1
+almasjid alomari alkabir	1
+byzantium	1
+via maris	2
+anthedon	1
+balakhiyah	1
+tida	1
+tell elajjul	1
+calves hill	1
+daraj	1
+ahmadiyyah zawiya	1
+eastern mediterranean	1
+gazas	1
+tomwhitegaza	1
+netivot	1
+eilat	2
+dead sea	1
+eastern mediterranean region	1
+alkarama	1
+paltel	1
+jawwal	1
+syria golan heights	1
+kurdistan	1
+panjgur pakistan balochistan province	1
+bahaa eldin abu ras	1
+dura	2
+bahaa	1
+maldives	1
+repjayapal	1
+repcori	1
+basedmikelee	1
+republic of korea	1
+kosovo	1
+pa	1
+oslo	2
