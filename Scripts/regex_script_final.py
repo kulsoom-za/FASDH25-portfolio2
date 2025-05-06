@@ -78,7 +78,7 @@ for row in rows[1:]:
     
 
 
-# this dictionary stores how many times each place name was mentioned per month 
+# this dictionary stores how many times each place name was mentioned per month - help from ChatGPT (Conversation 1)
 mentions_per_month = {}
 
 
